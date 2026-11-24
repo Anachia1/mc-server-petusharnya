@@ -1,0 +1,10 @@
+{
+  "name": "Мой сервер",
+  "minecraft_version": "1.21.1",
+  "loader": "neoforge",
+  "loader_version": "21.1.267",
+  "server_address": "213.171.18.150:30748",
+  "recommended_memory_mb": 4096,
+  "java_major": 0,
+  "motd": "Добро пожаловать!"
+}
