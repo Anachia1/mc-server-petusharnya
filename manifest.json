@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:07:06.7105284Z",
+  "generated_at": "2026-11-26T21:18:14.3631854Z",
   "files": [
     {
       "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
@@ -552,6 +552,11 @@
       "size": 82055
     },
     {
+      "path": "mods/AttributeFix-Forge-1.20.1-21.0.1.jar",
+      "sha256": "84b1b306d455106df434b5b4469bec2ba2be1db61130b0ef80aca3442f40ac7f",
+      "size": 19416
+    },
+    {
       "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
       "sha256": "516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944",
       "size": 115280
@@ -1044,6 +1049,11 @@
       "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
       "sha256": "91ad6b459e0c7a16a9f3dc90230248a696600ceec6646aa23263559b8648dbc3",
       "size": 134551
+    },
+    {
+      "path": "mods/radiantgear-forge-2.2.0+1.20.1.jar",
+      "sha256": "2a6c7e0825c69bd38dc1bb1ce8a8d6b097cac835e16e46afaa0f207fb819bb96",
+      "size": 47170
     },
     {
       "path": "mods/legendarycreatures-1.20.1-1.1.2.jar",
