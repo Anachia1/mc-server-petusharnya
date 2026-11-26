@@ -1,154 +1,1084 @@
 {
-  "generated_at": "2026-11-24T23:13:23.2762227Z",
+  "generated_at": "2026-11-26T21:07:06.7105284Z",
   "files": [
     {
-      "path": "mods/arsdelight-2.2.5.jar",
-      "sha256": "ec3c2e8262b440f41e2e2836f481de3f15c9cb6a642e97e0611422edb6f6c247",
-      "size": 1252333
+      "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
+      "sha256": "c1a76e93886210574d3f298c0461241fb711e52ac22c7a04d3236840f29e6576",
+      "size": 77732
     },
     {
-      "path": "mods/FarmersDelight-1.21.1-1.3.4.jar",
-      "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c",
-      "size": 3160490
+      "path": "mods/sidecheck-manifest.json",
+      "sha256": "7f2d4a64b2d647ff4b939a3a32c2f0ac72d3050c124ce7c56a9976639af21f77",
+      "size": 42921
     },
     {
-      "path": "mods/Eternal-Tales-v8.3-Beta-3-NeoForge-1.21.1.jar",
-      "sha256": "d3e0d9772bdf576a3ccd75afa084eb707f4347b359b0c0c92fdb08909d635341",
-      "size": 143091060,
+      "path": "mods/legendaryitems-1.20.1-1.0.0.3-debug.jar",
+      "sha256": "35668ab24d64bca6664ea9299f9b2fdc84370623fd97feb21950d525404f505f",
+      "size": 307169
+    },
+    {
+      "path": "mods/polytone-1.20-3.5.26.jar",
+      "sha256": "3409f22a39a93eaa699f96561ea8830bf5f492db43a000be783f53ae59e00404",
+      "size": 1169185
+    },
+    {
+      "path": "mods/gravityapi-1.0.0-all.jar",
+      "sha256": "04c3f45c0fd8e896a1ffa4a8e74d38391521edaeb4be06b317b7ff4f36ce5d89",
+      "size": 526165
+    },
+    {
+      "path": "mods/realmrpg_skeletons-1.1.0-forge-1.20.1.jar",
+      "sha256": "5206c8117f3869f6ea894c034f4a18d4def40ef8b0da106eb662ebd4e8ebbf36",
+      "size": 652022
+    },
+    {
+      "path": "mods/cristellib-1.1.6-forge.jar",
+      "sha256": "3856ad565ea45d6189452d813e2f021b365b686d3b1adae5f747c56a1e535d9f",
+      "size": 431318
+    },
+    {
+      "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+      "sha256": "b42584e2672d6b5329959ec2b0f342395b19389fed0ee4d86ea71072f42f77a0",
+      "size": 713454
+    },
+    {
+      "path": "mods/bettervillage-forge-1.20.1-3.3.1-all.jar",
+      "sha256": "efe7ea20a6eb46417d65db362523c3613ce49db412eaad51930e29f0335a4d39",
+      "size": 2612507
+    },
+    {
+      "path": "mods/EasyMagic-v8.0.1-1.20.1-Forge.jar",
+      "sha256": "235a2b0be24bc83a89253e0ee4fc973abfc7cc7caed0fdd698dd139ba91ec367",
+      "size": 115947
+    },
+    {
+      "path": "mods/villagernames-1.20.1-8.4.jar",
+      "sha256": "0583a2c36f346ead90cf72017cf22587ba7af11658b56a3a3474808bd6db9aeb",
+      "size": 56104
+    },
+    {
+      "path": "mods/kotlinforforge-4.11.0-all.jar",
+      "sha256": "ef988f86d170af499d147ea8a5c34c99dbd6d8f4a5ad236a4b43818dc4470a10",
+      "size": 7193768
+    },
+    {
+      "path": "mods/Quark-4.0-462.jar",
+      "sha256": "c90b96f049d92825c4a103721988c80d72e5ad380d17be46a0f53e114874c478",
+      "size": 14935230
+    },
+    {
+      "path": "mods/structureessentials-1.20.1-4.9.jar",
+      "sha256": "8702ec8a82920920fefb25d47cb9150f59eaea8a5dfe3f344dfedd0adf044637",
+      "size": 62733
+    },
+    {
+      "path": "mods/modernfix-forge-5.27.58+mc1.20.1.jar",
+      "sha256": "f44b48000387398bae450814c78cb2fb483a5608d50a64d27d944d1797f0637f",
+      "size": 990660
+    },
+    {
+      "path": "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "sha256": "8af01712c0dc32cebaff31795ca6d223fddff2ea9b1f5efbd9c3a586a0dacbc0",
+      "size": 20300
+    },
+    {
+      "path": "mods/BetterTridents-v8.0.1-1.20.1-Forge.jar",
+      "sha256": "68d25f31e6061a131caf282b5f7f3d63cb68dbed34c94f71141523a1f207d5cc",
+      "size": 89292
+    },
+    {
+      "path": "mods/neurolib-0.3.3-all.jar",
+      "sha256": "9ea7f95b1d29b31b14e2017a2d67efcf12af2627f7c0fbfe45f0d69bad4682d4",
+      "size": 738248
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.20.0.132.jar",
+      "sha256": "d9f60b5c16e778d7a27a3dddda0b8d3b693cfba6cf1b48ef4be3d8471b83fed9",
+      "size": 1409767
+    },
+    {
+      "path": "mods/feur_extension_fossil-1.20.1-forge.jar",
+      "sha256": "becc7ccd1396d0271c448bdbf90cff2d6b97bb1346529a4369a598c3dceea441",
+      "size": 469434
+    },
+    {
+      "path": "mods/anvianslib-forge-1.20.1-1.4.jar",
+      "sha256": "163fb986cd210673c5abf5cd20c6baec8da14915a6187d1d4210673a4f907751",
+      "size": 30168
+    },
+    {
+      "path": "mods/apexcore-1.20.1-10.0.0.jar",
+      "sha256": "ba713663dff20cd9a9e599a8f7c87cf7359fedd5ebc9f5c2bac749e20155ad7a",
+      "size": 556266
+    },
+    {
+      "path": "mods/Structory_1.20.x_v1.3.5.jar",
+      "sha256": "509740b91e23025f9bbdd2b5267f9cbdb8aed6aaecff047d9ce00e8809bce91a",
+      "size": 1286381
+    },
+    {
+      "path": "mods/packetfixer-3.3.0-1.18-1.20.4-merged.jar",
+      "sha256": "8d100216aa5679c4ab73b3ca7fdd1fa165286fd9a77f9ca344c7212b378b8a77",
+      "size": 190422
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
+      "size": 1105891
+    },
+    {
+      "path": "mods/copperagebackport-forge-1.20.1-0.1.4.jar",
+      "sha256": "6da361b513d9d31768bc73334f721ce8e12c9a4284acda312eb3fb673b4449a3",
+      "size": 2818863
+    },
+    {
+      "path": "mods/Dungeon Now Loading-forge-1.20.1-2.2.jar",
+      "sha256": "287b6ddbf4eceac67607114ee03b4bc08f7c355dfe7d1c2193f6ae884ec0c2f3",
+      "size": 85065508
+    },
+    {
+      "path": "mods/another_furniture-forge-1.20.1-3.0.3.jar",
+      "sha256": "2e98f7c3ebc9b9d0e1c9a95ee80470abc87c5859728dfe5bd5004252227e7015",
+      "size": 2452343
+    },
+    {
+      "path": "mods/lukis-woodland-mansions-v.1.0.jar",
+      "sha256": "45a678beaa5789ee94fdcde9f9043d7e3049f7c1e7e92f4d65baaa8052c0af0a",
+      "size": 1455004
+    },
+    {
+      "path": "mods/man_of_many_planes-0.2.0+1.20.1-forge.jar",
+      "sha256": "c8b649c12c344435b7821c713fa43f1b7104e4a6741108f33252d3a3ae5d9dc6",
+      "size": 309137
+    },
+    {
+      "path": "mods/MoogsTemplesReimagined-1.20-1.0.2.jar",
+      "sha256": "c49bcc34b39dd9505d64378703b117df0507262bc5c7a27382ee07487590b5bc",
+      "size": 7652141
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+      "size": 1181413
+    },
+    {
+      "path": "mods/royal-variations-[Forge]_1.20.1_2.0.2.jar",
+      "sha256": "72fea21961a4fdf9a02688b137f6103b31f937d76cce26a900d6750be5e1a80f",
+      "size": 795990
+    },
+    {
+      "path": "mods/emf_compat_not_enough_animations_1.20.1_1.1.0.jar",
+      "sha256": "d0d04f19bcd2e02574af6fd3718ac6f089b35299d834f3f07e4f4c0bd41ad035",
+      "size": 113855
+    },
+    {
+      "path": "mods/mace_port-3.0.4-1.20.1.jar",
+      "sha256": "a15b989f886fede6e8d01557d15b1f2bc6e3d0c937cdac6759483fc27c0e1cf6",
+      "size": 706799
+    },
+    {
+      "path": "mods/diet-forge-2.1.1+1.20.1.jar",
+      "sha256": "2e3b631cd9773996c7eaefe3c1cd086045b9b9a193a8e4ab29cc8e64d937e5bd",
+      "size": 368483
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.24.58.1934.jar",
+      "sha256": "76efba891d1b1ddcc85e7d919d56fd50b04dbcb0f0fb6d7ebd64011d83772074",
+      "size": 1129076
+    },
+    {
+      "path": "mods/Quest Kill Task-0.2.0+1.20.1-forge.jar",
+      "sha256": "a8e38b9655e9ae44895de3a58615bb42cf210655cd149f293b1a36df9b863556",
+      "size": 201963
+    },
+    {
+      "path": "mods/VanillaBackport-forge-1.20.1-1.1.7.10.jar",
+      "sha256": "157f95106c7f00f92b05c72f25e2d87e2ffbef04137e9ea609fc03838bb39e2d",
+      "size": 56051142
+    },
+    {
+      "path": "mods/immortalgingerbread-1.20.1-1.0.0.1.jar",
+      "sha256": "78ebb388776f2dd2455e246065b4e7ed8499a917b2f955f41b17b9c49e4e1b1f",
+      "size": 965878
+    },
+    {
+      "path": "mods/forge-runiclib-1.20.1-4.3.7.jar",
+      "sha256": "81f9238590f226afaf7c68e7328eeb2bf623140acd8e85dc775a6116fe7784ef",
+      "size": 134746
+    },
+    {
+      "path": "mods/immersive_aircraft-1.4.1+1.20.1-forge.jar",
+      "sha256": "fe54dd2d78591a16f44600940bc66c7d40a83888f5a9e4623da888dc6f7421de",
+      "size": 2435800
+    },
+    {
+      "path": "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+      "sha256": "9b140af437581d32e5ee17d20f8fe882000e6a34cba85c152ae5bccc9570cc03",
+      "size": 3065813
+    },
+    {
+      "path": "mods/immortaldroid-1.20.1-1.0.2.2.jar",
+      "sha256": "4a6bbfc7798489f2626fa6bbc0056fd8bbe034ebe2d2edfe8f3a2a43d49d156b",
+      "size": 243572
+    },
+    {
+      "path": "mods/biomemusic-1.20.1-2.5.jar",
+      "sha256": "b53c1b0f6f85b3923d9f28e9bf4d56977847b313bcf0f5999a78c4bca78bf2e2",
+      "size": 24897
+    },
+    {
+      "path": "mods/naturalist-5.0pre3+forge-1.20.1.jar",
+      "sha256": "7c39dcbd49e60a11955d60545498815fd2a0f490172aff28d3bd43f07111b458",
+      "size": 3806919
+    },
+    {
+      "path": "mods/curiouslanterns-1.20.1-1.3.7.jar",
+      "sha256": "41231ccafb467b76fcf1ddd163925e66366844b190d72d4d36c7133903a25f92",
+      "size": 35886
+    },
+    {
+      "path": "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+      "sha256": "038a5fa1c044d5afae22502ca1444eeb1a700d34a224996c25f233524ae35a7a",
+      "size": 66989
+    },
+    {
+      "path": "mods/forge-dungeonsdelight-1.20.1-1.2.10.jar",
+      "sha256": "149998528e5b98db259c02fa91ec5d76b0390dff70385b7cc2428c9028598e95",
+      "size": 1844636
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+      "size": 580602
+    },
+    {
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.24.jar",
+      "sha256": "e4907b158601355ecf339c2fcb2b25a620d42359784963d337e02d50b2b8eb3a",
+      "size": 424237
+    },
+    {
+      "path": "mods/midnightlib-forge-1.4.2.jar",
+      "sha256": "dfec70e881e1928b1ea468f3bc1b57cff409d234250ac824f5835b25a7252e25",
+      "size": 62156
+    },
+    {
+      "path": "mods/polymorph-forge-0.49.10+1.20.1.jar",
+      "sha256": "cbe63a0a1cb6ae8dbc0e29bb96d149a137cd4e714b295fa49d230994091d157f",
+      "size": 299601
+    },
+    {
+      "path": "mods/protection_pixel-1.1.6-forge-1.20.1.jar",
+      "sha256": "aab1744efc34430edb29fbe6cee30d10e98789be04aaf9be08183adae1dd5745",
+      "size": 2493408
+    },
+    {
+      "path": "mods/moogs_structure_lib-1.0.1-1.20-1.20.4-forge.jar",
+      "sha256": "92f27624724bb91f8b2ed80b36a3aa84653419991f43575ee2bed8af3232b895",
+      "size": 6123940
+    },
+    {
+      "path": "mods/dummmmmmy-1.20-2.0.12-forge.jar",
+      "sha256": "bd7f168ec56f14a25d36d9d0dc4d281e88f77b1ba678907b5c570e5c051a5ca4",
+      "size": 839685
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "sha256": "05c2f43a67116f0bbca32d903b55ce1655b9319ed6554080de02bd1d0c232a83",
+      "size": 387111
+    },
+    {
+      "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "sha256": "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b",
+      "size": 625185
+    },
+    {
+      "path": "mods/collective-1.20.1-8.22.jar",
+      "sha256": "f5266d805601c540baa1a908387b71b674fe967337226cf1b9d3e0aceba36cee",
+      "size": 662615
+    },
+    {
+      "path": "mods/copycats-3.0.2+mc.1.20.1-forge.jar",
+      "sha256": "1ab4f455cf1f3b46de8e2c9e896623528495e41803b92a7e8d5850aa9fe6b8e3",
+      "size": 1988341
+    },
+    {
+      "path": "mods/blueprint-1.20.1-7.1.3.jar",
+      "sha256": "f21d3560ae3e5ee8c0482c43bcd78ea9909a23e5b2a38478b0b25f3d99270808",
+      "size": 1151213
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.2.9.jar",
+      "sha256": "45e8e4daf04283fc5a7fec955e6a1e622ee0e9d4e1b5e79dbcf5b095bb510082",
+      "size": 2978080
+    },
+    {
+      "path": "mods/immortalskills-1.0.0.jar",
+      "sha256": "c365505c72214181d4e93a937fa6f6b96d8e339204667ab6b508467072e8f354",
+      "size": 613348
+    },
+    {
+      "path": "mods/emf_compat_better_combat_1.20.1_1.0.0.jar",
+      "sha256": "1092a62eafce8eca54d1daca58c0698c192acedd9bfa3cb162c3ebc8564ea27d",
+      "size": 169124
+    },
+    {
+      "path": "mods/ItemProductionLib-1.20.1-1.0.2a-all.jar",
+      "sha256": "d017c1e075809c59ae16d5dc8a3f5917ac21d972b2f7a990a1dfb56179625549",
+      "size": 171785
+    },
+    {
+      "path": "mods/creeperoverhaul-3.0.2-forge.jar",
+      "sha256": "212eb2a2d767f54fbfbac2336c63fe2bd1aae4d827ab358da329a746358b6dd9",
+      "size": 1456860
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "sha256": "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3",
+      "size": 206584
+    },
+    {
+      "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "sha256": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1",
+      "size": 370524
+    },
+    {
+      "path": "mods/Terralith_1.20.x_v2.5.4.jar",
+      "sha256": "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f",
+      "size": 3156901
+    },
+    {
+      "path": "mods/immortalbooks-1.0-SNAPSHOT.jar",
+      "sha256": "da0742d424accfb1add191e0ae4ca96d142fe544cb55abe697f8b64afca67d4a",
+      "size": 60142
+    },
+    {
+      "path": "mods/irons_restrictions-1.20.1-1.3.4.jar",
+      "sha256": "4dac131c6558bba53abf96ff8201883cb63d56c0ae9f3ab858cab6567994cd7f",
+      "size": 856315
+    },
+    {
+      "path": "mods/combatroll-forge-1.3.3+1.20.1.jar",
+      "sha256": "e20a4693ff734e5c61dc3fcc32e77c6b850722f2e208728e8643e279d6085b30",
+      "size": 217962
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.3.jar",
+      "sha256": "8b90e11871a58b63816e99c529e6c932bc88e6beb3fec97ad618e22217df3250",
+      "size": 1039046
+    },
+    {
+      "path": "mods/MyNethersDelight-1.20.1-0.1.7.5.jar",
+      "sha256": "aa7267f79a044b08d3e2dd5c40e03a95905260d355ed26087e3c8a351d9c90ea",
+      "size": 691600
+    },
+    {
+      "path": "mods/gnumus_settlement_[Forge]1.20.1_v1.0.jar",
+      "sha256": "e805b1fcf9c173ae7d488763d67cef7a49d658884da95f9268e87caed7a905cf",
+      "size": 891249
+    },
+    {
+      "path": "mods/limitedbackpacks-1.0.1.jar",
+      "sha256": "0351f419ccef5a7a57bf674665e944a838bd25f0205e9e7582791763a2c0dcee",
+      "size": 10093
+    },
+    {
+      "path": "mods/enigmaticdelicacy-1.0.0.jar",
+      "sha256": "ef700135e0d3ff16ff70791288a3cbc6d297fb4c4b34a28d0a08a0ade8868974",
+      "size": 352081
+    },
+    {
+      "path": "mods/Paxi-1.20-Forge-4.0.jar",
+      "sha256": "dd18dd9696d099137b170076676e8411e3d8385af15941f68472f21167266f1a",
+      "size": 96892
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "sha256": "c77a13e3879f9f991cf592abac60ad0c6d2ed17f5ff697ec2db3872b22902d4a",
+      "size": 107533
+    },
+    {
+      "path": "mods/Pehkui-3.8.2+1.20.1-forge.jar",
+      "sha256": "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc",
+      "size": 671605
+    },
+    {
+      "path": "mods/ftb-xmod-compat-forge-2.1.2.jar",
+      "sha256": "6bfa05acad9230bdbd9a6854ab92705585630455985904b550f94a387ff3ffca",
+      "size": 129682
+    },
+    {
+      "path": "mods/Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "sha256": "9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984",
+      "size": 2864275
+    },
+    {
+      "path": "mods/forge-medievalend-1.0.1.jar",
+      "sha256": "f65d1a3defd3d9d56d498ee79b6eeda8ec91193e6c2f989581e23f8069f4499f",
+      "size": 169369
+    },
+    {
+      "path": "mods/sparsestructures-forge-1.20.1-3.0.jar",
+      "sha256": "7cdd38cf72aa764cccc98c8626b434f05a488a23a1339c2b0a0de6a7edec5435",
+      "size": 121055
+    },
+    {
+      "path": "mods/OneEnoughItem-1.0.6-jech.jar",
+      "sha256": "e09c26fb609b736054d7f5ed9d0730a62c8805c4d99ddd23cb17dc9a60013da3",
+      "size": 262668
+    },
+    {
+      "path": "mods/clanging-howl-[Forge]_1.20.1_1.1.0.jar",
+      "sha256": "451fb79e2634d59b2bd9443bb4a28aa528c2123c2e6ee0f67a59318683d89774",
+      "size": 5361899
+    },
+    {
+      "path": "mods/architectbypass-1.1.0.jar",
+      "sha256": "bba337322a2dd43946de478f56b05185a3388b7c19c671e4d333cc429a561adb",
+      "size": 5267
+    },
+    {
+      "path": "mods/PhilipsRuins1.20.1-5.7.jar",
+      "sha256": "5cdafaca61c34ad7e38aea13033fcb5e8cadc557226be4fbcc0743db2222fbe3",
+      "size": 1525512
+    },
+    {
+      "path": "mods/trade-cycling-forge-1.20.1-1.0.18.jar",
+      "sha256": "05e2a8a188978602a5cec25d733948c0413a63859c02bb60ec54c380c5f4609e",
+      "size": 84453
+    },
+    {
+      "path": "mods/endermanoverhaul-forge-1.20.1-1.0.4.jar",
+      "sha256": "18f9f0bf3a9b4f77ad6913c28ccb927cde24f5d19524152cfe79ebb3dcccacc5",
+      "size": 1208062
+    },
+    {
+      "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+      "sha256": "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd",
+      "size": 227925
+    },
+    {
+      "path": "mods/knightlib-forge-1.20.1-1.5.1.jar",
+      "sha256": "e2bb8353801854a23bc61bbba6e303c2287f80014d5f4dcc56fdc875f3767d83",
+      "size": 568479
+    },
+    {
+      "path": "mods/feur_extension_jungle-1.20.1-forge.jar",
+      "sha256": "a352252038673ae8e19fea6f5868a5e3139d146ef6010879cd446e4f686d74c8",
+      "size": 417005
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "sha256": "6632e7bcc58325098e85bcb755483de7cb3af92a5ea548f3b5c0162cbf0dc1dc",
+      "size": 492998
+    },
+    {
+      "path": "mods/fieldguide-forge-1.20.1-1.8.3.jar",
+      "sha256": "a93c9444c9a6e1d74a88075d78bed47857da5e3046ba6874c562977d00e1e82f",
+      "size": 1084537
+    },
+    {
+      "path": "mods/clockwork-forge-1.20.1-1.1.4.jar",
+      "sha256": "d735d398302eca3b73fd5e8c5ae40d690330611e26c8967d8ee8b626149987c1",
+      "size": 2272233
+    },
+    {
+      "path": "mods/Jadens-Nether-Expansion-2.3.5.jar",
+      "sha256": "97c9c1271c3f551663592b689771e45d63098e674899596d693641b82ecf5ccb",
+      "size": 23488061
+    },
+    {
+      "path": "mods/sophisticatedbackpackscreateintegration-1.20.1-0.1.4.24.jar",
+      "sha256": "75bc45b11f029b9d3dba522e09d1deccce31bf6d8c1b686b720e82fd34f0ea44",
+      "size": 85256
+    },
+    {
+      "path": "mods/Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+      "sha256": "8f05afb56310b21e91d2f1d1200a9c0d98a34a9689b9b6288a6507c0498b299d",
+      "size": 21667
+    },
+    {
+      "path": "mods/jupiter-2.3.7-1.20.1-forge.jar",
+      "sha256": "1c2442a90a0228d76518bece4484241e3d2c79e50eb4435afe5e7fc0fbcaac3d",
+      "size": 280116
+    },
+    {
+      "path": "mods/obscure_api-18.jar",
+      "sha256": "14f099e9b8c1cae0c98b5ccb792d5eaf56b71c456cf2c2d59de3c175be3e3b7e",
+      "size": 1128392
+    },
+    {
+      "path": "mods/ftb-teams-forge-2001.3.1.jar",
+      "sha256": "d6e3cf8d0bdae7f848764428c613ae2528aecf9d275b4169eb8e15da87b41863",
+      "size": 248592
+    },
+    {
+      "path": "mods/immortalprometheus-1.0.1.jar",
+      "sha256": "8de252ee4a34c5f658fb07a885f1f3b7b0ee6790b4def05302fbed5385395e2a",
+      "size": 404930
+    },
+    {
+      "path": "mods/immortalsoul-DIAMOND-1.0.jar",
+      "sha256": "6758e97724a412117eb6fa5ff17607b495eae581d4465f4bbdeb2f8622ac6c8c",
+      "size": 5863832
+    },
+    {
+      "path": "mods/create-stuff-additions1.20.1_v2.1.1.jar",
+      "sha256": "8aa583c05d718ac045411a1aca557ac09bac57e1d573ae1a327c089da6e6c53d",
+      "size": 1339724
+    },
+    {
+      "path": "mods/PassiveSkillTree-1.20.1-BETA-0.7.3a-all.jar",
+      "sha256": "a6e9496244334117d23f468c7bbdaa4601e27652e17a7ebc726fff039ed8c6e6",
+      "size": 1975054
+    },
+    {
+      "path": "mods/biomereplacer-3.1-hippo-forge.jar",
+      "sha256": "8546df0d4b5b6b6e88f2beb098782c6f109417b6f9695434621d0a11bccb8051",
+      "size": 406091
+    },
+    {
+      "path": "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "sha256": "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f",
+      "size": 1342987
+    },
+    {
+      "path": "mods/Library_of_Exile-1.20.1-2.1.5.jar",
+      "sha256": "1dcaade132905172d7373cf146d82f8d4f2c3220e02785b43a6f2cce92231e7a",
+      "size": 634987
+    },
+    {
+      "path": "mods/VisualWorkbench-v8.0.0-1.20.1-Forge.jar",
+      "sha256": "5d0a2bba205c5a62c66ea104dab1ee48fd29b7632cd5303cc59bbd2c2159c1c0",
+      "size": 82055
+    },
+    {
+      "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
+      "sha256": "516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944",
+      "size": 115280
+    },
+    {
+      "path": "mods/ftb-quests-forge-2001.4.18.jar",
+      "sha256": "62f0229c45d5bafd9747d129f159818e513df411840744b1beb15e0c68f3b0ca",
+      "size": 1251902
+    },
+    {
+      "path": "mods/CreateUnbreakableTools-1.8+forge-1.20.1-build.11.jar",
+      "sha256": "7d4083d4d03b85bdb15dce27134a621afd60873caadc5d0033a45106350e1149",
+      "size": 72427
+    },
+    {
+      "path": "mods/rpgdifficulty-1.3.16.jar",
+      "sha256": "42e3d6516a06fb39e2e3e41461326fcbe6d8bbbe4f9cb8df0de5b5f955c3b1e2",
+      "size": 62676
+    },
+    {
+      "path": "mods/cataclysm_spellbooks-1.2.9-1.20.1-all.jar",
+      "sha256": "e177494251434c5f04ebc065e6e1c478a327dcd14dd2550bde38adc640ff4ae8",
+      "size": 1266452
+    },
+    {
+      "path": "mods/dragonfight-1.20.1-4.7.jar",
+      "sha256": "d24cbc74f1257e3f6fba2057c2c7537c8424ac9b73a5b7b044660a32ed5f4231",
+      "size": 38450
+    },
+    {
+      "path": "mods/warriors_of_past_epoch_[Forge]_1.20.1_1.4.jar",
+      "sha256": "62e9c967a329a523cf046267d6c916c9203188eb5423f9f23cf7be200bbe65e9",
+      "size": 744651
+    },
+    {
+      "path": "mods/OctoLib-FORGE-0.4.2+1.20.1.jar",
+      "sha256": "1388bf3c1699556a9a2d50f4db67a5d792dbaf35059b8bbee38be170c5f91ed6",
+      "size": 401032
+    },
+    {
+      "path": "mods/born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+      "sha256": "9f242f4f3330f3d0d985f5f3ce9a92fe09016ff9c6162252f201d17009b28d7d",
+      "size": 11839865
+    },
+    {
+      "path": "mods/enigmaticaddons-1.2.6.jar",
+      "sha256": "220119133d670f7afd967c6ee89343c241f7b30cc4c6a123759b077930028f48",
+      "size": 1056383
+    },
+    {
+      "path": "mods/BrewinAndChewin-1.20.1-3.2.1.jar",
+      "sha256": "d06edc7a145e8808903b7bd06e0639458a817fbc4ee589be239c0af77a6367db",
+      "size": 1206255
+    },
+    {
+      "path": "mods/rhino-forge-2001.2.3-build.10.jar",
+      "sha256": "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6",
+      "size": 1798244
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+      "size": 181437
+    },
+    {
+      "path": "mods/simplybuttons-1.0.1.0.jar",
+      "sha256": "6a7ded59696c75204ae40ba2d96e6bf4dfbcafe63ca771883f25b02099bdb1b1",
+      "size": 49402
+    },
+    {
+      "path": "mods/create-structures-0.1.1-1.20.1-FORGE.jar",
+      "sha256": "6f1c57dc200cce4e7a9d158b3d6895c108637f518060377f6bc5bc52ad8d4aab",
+      "size": 484781
+    },
+    {
+      "path": "mods/azurelib-neo-1.20.1-3.1.11.jar",
+      "sha256": "2abeeaec631959efb056a6973522aa46559139f1666d2cd5b2bf3c9fc7faf5a6",
+      "size": 1066059
+    },
+    {
+      "path": "mods/immortalorigin-1.0.jar",
+      "sha256": "ecd3bda84c6430eff4c7f844c34f9e6e34ca7a3942ef2bbda212d1b024f6c901",
+      "size": 272335
+    },
+    {
+      "path": "mods/lithostitched-forge-1.20.1-1.4.11.jar",
+      "sha256": "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75",
+      "size": 476347
+    },
+    {
+      "path": "mods/fancymenu_forge_3.8.1_MC_1.20.1.jar",
+      "sha256": "ba1ddf0f61def8ea87e7757ebb45f1390e1da0f7ebce1aff299b0a169b045858",
+      "size": 4472193
+    },
+    {
+      "path": "mods/Anti_Mob_Farm-1.20.1-1.3.11.jar",
+      "sha256": "dd533bda288098b6cc708eb1a72e9558a8855f6d8d6b185f2bcb12aa15cc42b3",
+      "size": 120945
+    },
+    {
+      "path": "mods/coroutil-forge-1.20.1-1.3.7.jar",
+      "sha256": "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f",
+      "size": 64187
+    },
+    {
+      "path": "mods/create_power_loader-2.0.3-mc1.20.1.jar",
+      "sha256": "749b9cf51715f3db110f026db3fb2d004a4dc6b5301691ae53b8196a5dff6766",
+      "size": 227962
+    },
+    {
+      "path": "mods/ironchest-1.20.1-14.4.4.jar",
+      "sha256": "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f",
+      "size": 311290
+    },
+    {
+      "path": "mods/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+      "sha256": "a0de109d3405fbf4290e10df4f812eadd5125debb16ea7e9d908acbbabcb516b",
+      "size": 22930
+    },
+    {
+      "path": "mods/sawmill-1.20-1.4.10.jar",
+      "sha256": "ca4bc6242f34d717e1e089480349547338db4ce7a9a4d039781ca8dbc63cc206",
+      "size": 644298
+    },
+    {
+      "path": "mods/moonlight-1.20-2.16.34-forge.jar",
+      "sha256": "007c05ae799417ca7aa26669c5d97be9dface5b6fc27aca4ca8031cafe4ddd6e",
+      "size": 1419416
+    },
+    {
+      "path": "mods/OELib-forge-1.20.1-0.0.6.jar",
+      "sha256": "aac31a89192b3abad6dcdd79182aa5b5a2f91665e12d4a153a6af9870b9b8d85",
+      "size": 903339
+    },
+    {
+      "path": "mods/battlepets-1.0.2.jar",
+      "sha256": "a80cf96cac9dfb1128c461e111c090a90fce63ba409e48ab7a2506106c0b1df4",
+      "size": 171872
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-1.3.58.2078.jar",
+      "sha256": "0fc256b136fcbf928931c99170505be9946a82e37ce69ed1dfa457507d57a919",
+      "size": 1607800
+    },
+    {
+      "path": "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+      "sha256": "b0b020250c81e8cce7776c3dc8f7085f269e2007570d5fbd492c4497ad60685c",
+      "size": 218152
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+      "size": 123034
+    },
+    {
+      "path": "mods/libraryferret-forge-1.20.1-4.0.0.jar",
+      "sha256": "66a151ed397904135c0109ce390bee93961ef7dd329a2d66860ef5f27adff335",
+      "size": 244410
+    },
+    {
+      "path": "mods/structurify-forge-2.0.27+mc1.20.1.jar",
+      "sha256": "618564bb9ab811809df2fb5e8f284f7103cf2574aaaf59271483b287aba53079",
+      "size": 637718
+    },
+    {
+      "path": "mods/kubejs-forge-2001.6.5-build.16.jar",
+      "sha256": "3de6b7267d3aab981848ed54d3afe7edf20532fa4060631fd6fffcd99ac5f3d5",
+      "size": 1654660
+    },
+    {
+      "path": "mods/Nullscape_1.20.x_v1.2.8.jar",
+      "sha256": "32ccc5beb6ad0215e06082620903e1825a1b0df51777f3f31801b4a17e6ebcc5",
+      "size": 399214
+    },
+    {
+      "path": "mods/FallingTree-1.20.1-4.3.4.jar",
+      "sha256": "da9d2c40e7967b1c3790e526092563d3999cc03bf1c7097285b3bedf1515db69",
+      "size": 420181
+    },
+    {
+      "path": "mods/formations-1.0.2-forge-mc1.20.jar",
+      "sha256": "d6caac4bd1db132af73c91651c4969f2781fee8219f1fa541697cb4bc4bc4da6",
+      "size": 389825
+    },
+    {
+      "path": "mods/caelus-forge-3.2.0+1.20.1.jar",
+      "sha256": "37495445e79df8b30a3a038a0051f3c8aa8447f91a9d0aa0d20baef69dda9368",
+      "size": 40125
+    },
+    {
+      "path": "mods/YungsBetterCaves-1.20.1-Forge-2.0.5.jar",
+      "sha256": "bd1e07e03626ad851e7b84e5a8a6ecdd976f7e923a3e56df69c6b6e906e7389e",
+      "size": 401492
+    },
+    {
+      "path": "mods/ancient_forgemastery-1.4.1-forge-1.20.1.jar",
+      "sha256": "18a5b17229b70a6ed418bf1dd90bd84d6137cf8de0514408f924e2574559f193",
+      "size": 1105514
+    },
+    {
+      "path": "mods/emf_compat_core_1.20.1_1.0.0.jar",
+      "sha256": "cd55d3cbdf5c2851ec9016be24069375764fea44dec5a28eb11940c5668a64cd",
+      "size": 118984
+    },
+    {
+      "path": "mods/L_Enders_Cataclysm-3.16.jar",
+      "sha256": "ac1028f4bfaa2629d80ce3c1f26e28ceec2e6f2aaaac3bb03dd8957856d2e7ca",
+      "size": 127993805,
       "parts": [
-        "mods/Eternal-Tales-v8.3-Beta-3-NeoForge-1.21.1.jar.part1",
-        "mods/Eternal-Tales-v8.3-Beta-3-NeoForge-1.21.1.jar.part2"
+        "mods/L_Enders_Cataclysm-3.16.jar.part1",
+        "mods/L_Enders_Cataclysm-3.16.jar.part2"
       ]
     },
     {
-      "path": "mods/create-aeronautics-bundled-1.21.1-1.3.3.jar",
-      "sha256": "f430c52eedc1a20f7458c9f5b07cc212fe90869bd302c69c6dedf7b75a2a5c9f",
-      "size": 33133981
+      "path": "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "sha256": "12cffc99dccca69d294ba5bc39c331367794b339061572a6f3773620303a2f51",
+      "size": 619255
     },
     {
-      "path": "mods/OctoLib-NEOFORGE-0.6.3.2+1.21.jar",
-      "sha256": "34a770ed6a99f1310029c30249d20ad9ba331883d6454172ef9cb4655e0f91f5",
-      "size": 545732
+      "path": "mods/create-1.20.1-6.0.6.jar",
+      "sha256": "6cb1e5b25e7d5fb670ef0713ca6da17525a1b9658e2a523fd76c2a32bbc0b2ed",
+      "size": 18764522
     },
     {
-      "path": "mods/curios-neoforge-9.6.0+1.21.1.jar",
-      "sha256": "5ae6703ac25a5cfb138ce34924799b642021c8109aacef578e899e8591d67a3e",
-      "size": 411707
+      "path": "mods/cataclysmfortresses-1.20.1-Forge.jar",
+      "sha256": "92d6cc2811d51f375e4f751928145edc35222ad6833a3c49e5a9923a4e5cf79a",
+      "size": 19871
     },
     {
-      "path": "mods/travelersbackpack-neoforge-1.21.1-10.1.41 (1).jar",
-      "sha256": "c0fabf0ff28654f23a5a11697f2222377b5df2eb870deddd646e1f911ce0ffd1",
-      "size": 1444892
+      "path": "mods/Necronomicon-Forge-1.6.0+1.20.1.jar",
+      "sha256": "403b23457288c624a55feb90d5e813c88c23a611bc42cda397c4bfac94b4c3a3",
+      "size": 33251
     },
     {
-      "path": "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
-      "sha256": "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4",
-      "size": 398130
+      "path": "mods/Zeta-1.0-31.jar",
+      "sha256": "cd1786902a79434f8fd762d741019d9c8a79725fef7e30a89c153c934e1e6a9e",
+      "size": 1006518
     },
     {
-      "path": "mods/travelersbackpack-neoforge-1.21.1-10.1.41.jar",
-      "sha256": "c0fabf0ff28654f23a5a11697f2222377b5df2eb870deddd646e1f911ce0ffd1",
-      "size": 1444892
+      "path": "mods/starterkit-1.20.1-7.0.jar",
+      "sha256": "e34d4c4cdbb47ecc203068730fdc879d23268bfde5feaa736775fd6508c8c311",
+      "size": 184996
     },
     {
-      "path": "mods/relics-1.21.1-0.12.11.jar",
-      "sha256": "74cd000a5f3c9a97ad3a1a02820ec1813fed0b2b75aedf770e1b11dd909f5c0a",
-      "size": 5096604
+      "path": "mods/lionfishapi-2.4.jar",
+      "sha256": "e32eabf215390db859df87c9d3a7e701d477e39dc2a5b04568ab169f085168a7",
+      "size": 165468
     },
     {
-      "path": "mods/ars_nouveau-1.21.1-5.13.5.jar",
-      "sha256": "f2cf7ea99cf4cb3db1aa4e02c9ef3cdc8aff6ee65eb992f7b560e99741c0b904",
-      "size": 19874860
+      "path": "mods/Feature-Recycler-forge-1.0.1.jar",
+      "sha256": "d5998f8189e00de79f001a172a8ee2ae122168b79a47d3e14567f73a89b9b040",
+      "size": 10082
     },
     {
-      "path": "mods/the_shell-1.0.1-1.21.1-neoforge.jar",
-      "sha256": "0f77c0b2c7dbf5c1cea7728dd5524be3bb6f9361a6c2c142ca464cab6db88073",
-      "size": 3142103
+      "path": "mods/Connector-1.0.0-beta.48+1.20.1.jar",
+      "sha256": "b22aa7794c67805eb8fdfe72af840ace6feb1c21c4a64385ca111a2c18abbafd",
+      "size": 5043870
     },
     {
-      "path": "mods/create-1.21.1-6.0.10.jar",
-      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
-      "size": 19123767
+      "path": "mods/ImprovedPillagerOutpost-v5.jar",
+      "sha256": "a7709c70ed694294d892938bbf2bf19290351bc2c7a0a28f9d83da157793679c",
+      "size": 619296
     },
     {
-      "path": "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
-      "sha256": "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff",
-      "size": 609639
+      "path": "mods/betterarcheology-1.2.1-1.20.1.jar",
+      "sha256": "4180f72ec4b69690ec160ac50e48c087f0fe7c98681dcd1f70d82ed5cbfeec9e",
+      "size": 982838
     },
     {
-      "path": "mods/createaddition-1.7.2.jar",
-      "sha256": "71e9c3ac39089e72c1e47a129a44e41eb55efc9534eecfdead8da8fb64313414",
-      "size": 1772844
+      "path": "mods/immortalplush-1.1.3.jar",
+      "sha256": "685b5953c80c221d1892ec37ebbadb9e737c8dfd7061175a364167522cfa8d7f",
+      "size": 74025
     },
     {
-      "path": "mods/architectury-13.0.8-neoforge.jar",
-      "sha256": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
-      "size": 584004
+      "path": "mods/mythical_items-1.0.1.jar",
+      "sha256": "dfc3f77f216cfbeb6b164c087295d7d4a28d413224a03853046b4566f8575f07",
+      "size": 92967
     },
     {
-      "path": "mods/architectury-13.0.12-neoforge.jar",
-      "sha256": "aa558d884c9d35399bf5471e042d6be30c32e4a1cf0a5d06a4480ad49dba3ac0",
-      "size": 584731
+      "path": "mods/Platform-forge-1.20.1-1.3.4.jar",
+      "sha256": "e35c013fb8cbd62900ccdf0872fc6c14b9858a711f6b2279c479f4b4f668d870",
+      "size": 512461
     },
     {
-      "path": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
-      "sha256": "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04",
-      "size": 782160
+      "path": "mods/incision-1.0.10-forge-1.20.1.jar",
+      "sha256": "8694e5915cfceb85c6e7c1c02f74cfa392df0392ae7e5d972dc455435d1202a5",
+      "size": 1018009
     },
     {
-      "path": "mods/sable-neoforge-1.21.1-2.0.6.jar",
-      "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2",
-      "size": 12986135
+      "path": "mods/.connector/FancyHotbar-Fabric-1.0.0_mapped_srg_1.20.1.jar.input",
+      "sha256": "620873333b2d9fb968a93c544ba7d34c97626a72be923f3857f77e7243b34371",
+      "size": 102
     },
     {
-      "path": "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.0.jar",
-      "sha256": "3067b167395ab17261888661882e7066cde6f1087e5b0ba4299a78f2d16dc034",
-      "size": 493967
+      "path": "mods/.connector/rpgdifficulty-1.3.16_mapped_srg_1.20.1.jar.input",
+      "sha256": "a11fac510810f1fb8f9a3954c856efd007133ed3ee674f2d828bf1314e77943d",
+      "size": 102
     },
     {
-      "path": "mods/neoorigins-2.2.40+1.21.1.jar",
-      "sha256": "bb68fb7f9e801c86aebd2e2d1e266d0ecaeaa1fd74021bb89ee170d5bdeeea6d",
-      "size": 12561614
+      "path": "mods/.connector/FancyHotbar-Fabric-1.0.0_mapped_srg_1.20.1.jar",
+      "sha256": "75d9e8b3fe671871f58dc56bf1d73e587dae08f334356713e873ea8910b7b0c3",
+      "size": 11898
     },
     {
-      "path": "mods/einsargen-1.21.1-neoforge-1.1.8.jar",
-      "sha256": "7347743846ffe880a7b516130e11a97afb4b8006e2bff70509d65e510a4b8f8d",
-      "size": 1919028
+      "path": "mods/.connector/rpgdifficulty-1.3.16_mapped_srg_1.20.1.jar",
+      "sha256": "70078af8758321173754c94c4adaa425ed31de844bec4b31517b08c6893dad9a",
+      "size": 65803
     },
     {
-      "path": "mods/[NEOFORGE 1.21.1] treecap 1.3.0.jar",
-      "sha256": "2971b7cc46abd1d2543b2982760cc02c4779020d0e5a4473b7acc517e9751835",
-      "size": 10944
+      "path": "mods/create_connected-1.1.7-mc1.20.1-all.jar",
+      "sha256": "8c4b6b7b6d3dc737de51426f97bd84196b2e81351c03c049e77859e8213d996f",
+      "size": 6541893
     },
     {
-      "path": "mods/create_ars_nouveau_compat-1.21.1-1.1.jar",
-      "sha256": "166c55ae33cd8ba56311ffdbe20fbfbec52210dd4a339e46a4581ce765d98615",
-      "size": 801901
+      "path": "mods/Difficult Spawners 1.1.0 - 1.20.1.jar",
+      "sha256": "9453dad47691d978420c2442dc191a3476c06ac964c01ceb1aa0da12cd63692c",
+      "size": 38675
     },
     {
-      "path": "mods/skinrestorer-2.11.1-1.21-neoforge.jar",
-      "sha256": "f2c6962fd3102743f795d174d9419cf03ffd5b58f545903b04ee991b5e371a16",
-      "size": 286154
+      "path": "mods/legendarymonsters-2.1.20 MC 1.20.1.jar",
+      "sha256": "61494573295cda4240eb11dd8e991b84a4597e303c0f28f3dcc77f969b436b1b",
+      "size": 44855367
     },
     {
-      "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
-      "sha256": "20a1995e4074f387ff549e2c57ea79dd7d41ee83c6afb9dd6a6e840e592d1c47",
-      "size": 634531
+      "path": "mods/EnigmaticLegacy-2.30.1.jar",
+      "sha256": "07e7cd80016932cf1d2a4940164a4b11c228a58a78b4c83cf785b51656e34836",
+      "size": 7249542
     },
     {
-      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
-      "sha256": "375e0b2f988ab4f5bde182166c0f0b102377adc8f823660c24ade08b0b3cde56",
-      "size": 413763
+      "path": "mods/multiplayerbosses-1.1.3.jar",
+      "sha256": "596e31070ea918d00e4609bdfe64290a7fd351420bbb24c908bf538322afbecb",
+      "size": 43426
     },
     {
-      "path": "mods/lithostitched-1.8.1-neoforge-21.1.jar",
-      "sha256": "e0da669fa5facc61a09b9b7bae21b322993de1fcd1eb05787adffb7309598cca",
-      "size": 1023751
+      "path": "mods/jvsnomad-forge-1.20.1-0.1.0.jar",
+      "sha256": "3700b0fc6d4a1e5016cf80af127ce37175ec9e72b981e0c919fbb0ec6034b96d",
+      "size": 135688
     },
     {
-      "path": "mods/create_compat_core-1.0.0-neoforge-1.21.1.jar",
-      "sha256": "13c1e6af9ad6101655340a3f112e48058d287e394d200db16c03fa4f3a5005ed",
-      "size": 50307
+      "path": "mods/mowziesmobs-1.8.2.jar",
+      "sha256": "813c5c9c15fcc1c4080a0ba2e4f192d10aa37ec9881d6b5b77c68cc62cedcf16",
+      "size": 36001329
+    },
+    {
+      "path": "mods/sliceanddice-forge-3.5.2.jar",
+      "sha256": "d4113d2eebd82d1464fae3a2ce9c63a2c792b65a94a921799a6ed5720c683585",
+      "size": 587624
+    },
+    {
+      "path": "mods/ElysiumAPI-1.20.1-1.1.3.jar",
+      "sha256": "807095e7df50d25d400d07ed8bccca7ab12ea5a28cb8a99e077750ebbb8df765",
+      "size": 107624
+    },
+    {
+      "path": "mods/Jade-1.20.1-Forge-11.13.2.jar",
+      "sha256": "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5",
+      "size": 552486
+    },
+    {
+      "path": "mods/elretrievetoslot-1.2.0.jar",
+      "sha256": "a2664cee9cc609054b8c68388c31b0dba19ed3997f0d5e57d4523e6c0697f2f5",
+      "size": 17739
+    },
+    {
+      "path": "mods/dungeons-and-taverns-3.0.3.f.jar",
+      "sha256": "4fefd8b9829132969e785859a7fe15db87a50165d042a5477414180b0aa40ed3",
+      "size": 13163012
+    },
+    {
+      "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "sha256": "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804",
+      "size": 88752
+    },
+    {
+      "path": "mods/irons_spellbooks-1.20.1-3.15.4.jar",
+      "sha256": "dbeabd73fa35b5e5622a7190dcadbb5b91d8fb45dd7f5013658fd4fccf2ec140",
+      "size": 15144197
+    },
+    {
+      "path": "mods/simpletridents-1.20.1-1.0.0.2.jar",
+      "sha256": "1e8d3a73e8b9c559dbe02b7b06a50e02ff00219dd9b44467ca8d666a0f478fea",
+      "size": 117301
+    },
+    {
+      "path": "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+      "sha256": "d8501371240082c3436c03380f7a59820fd981e9c5d9fb2978a222ea114b23ae",
+      "size": 69476
+    },
+    {
+      "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "sha256": "73525ce2933f65b3ddbb491eb417dc3f29887439a2fd5c72c6513ea9bf48d4c8",
+      "size": 784731
+    },
+    {
+      "path": "mods/ftb-library-forge-2001.2.9.jar",
+      "sha256": "b7d5d19889c485a9746022fdc42f3297aa4d26014559ea0ed35fa7ba816b001d",
+      "size": 791841
+    },
+    {
+      "path": "mods/resourcefulconfig-forge-1.20.1-2.1.2.jar",
+      "sha256": "c4aef41d50e5bb8be8609f1f89919f9caca8363365998688fb6aabac03abf428",
+      "size": 136630
+    },
+    {
+      "path": "mods/jvsnether-forge-1.20.1-0.1.0.jar",
+      "sha256": "bac14d8564299b9b8d8b3764b91241eb192f4358f2788f19cbf48733c9f5397c",
+      "size": 238337
+    },
+    {
+      "path": "mods/interiors-0.5.6+forge-mc1.20.1-local.jar",
+      "sha256": "bad27415238ef94bd78be0d4a2e6de48a86046060a6dc9c6d759b4bc6c73cfa7",
+      "size": 465540
+    },
+    {
+      "path": "mods/lukis-strongholds-v1.0  1.20-1.20.3.jar",
+      "sha256": "5b1823dc85900969714a171fbea34a2128b91059cbff30f953ae102cf3b0e7eb",
+      "size": 868953
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.12.26_mc1.20.1.jar",
+      "sha256": "1a8577bca7968fe717944267301ddea2337aefb265451825d95cb04e8893f747",
+      "size": 1152811
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+      "size": 398066
+    },
+    {
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
+      "size": 47428
+    },
+    {
+      "path": "mods/Chunky-1.3.146.jar",
+      "sha256": "996a3c9b53e6c0e0850fb9e78d3546d2c37a1b789ddaf529b17e4fe62ab23141",
+      "size": 341451
+    },
+    {
+      "path": "mods/nyfsspiders-Forge-1.20.1-3.0.1.jar",
+      "sha256": "48e5a09cf35f002e28e5287c831e78eaa8b2c58caa0535e5266ac1a3b4e48dd9",
+      "size": 842120
+    },
+    {
+      "path": "mods/configurableextramobdrops-1.20.1-3.5.jar",
+      "sha256": "82b03575fc94f5719d47a41d7c6e6f4084a6ff47c06059980a8b84fd37335c83",
+      "size": 45245
+    },
+    {
+      "path": "mods/Patchouli-1.20.1-85-FORGE.jar",
+      "sha256": "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5",
+      "size": 642732
+    },
+    {
+      "path": "mods/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "sha256": "a08b641e6cc1d4867e0878826ac4fb9e55b45907d0fa3429172ecad8cd678ce9",
+      "size": 141744
+    },
+    {
+      "path": "mods/FancyHotbar-Fabric-1.0.0.jar",
+      "sha256": "fc88f792337782939341d46a1fb150aa7418269638c971e8d6ce72eb622b2062",
+      "size": 10325
+    },
+    {
+      "path": "mods/bettercombat-forge-1.9.0+1.20.1.jar",
+      "sha256": "49c69dccf2c641246b4e3deca81ebac21f0ee119e81fc713b838b8e33569eea1",
+      "size": 1054339
+    },
+    {
+      "path": "mods/cupboard-1.20.1-3.7.jar",
+      "sha256": "7c6069d42e3693dc4f80d06632f008fffe6f2507902dfca6c02bf035776ccaf3",
+      "size": 31643
+    },
+    {
+      "path": "mods/mobsuseshields-0.8.5.jar",
+      "sha256": "d448928203e154e9c3510f2567259057b408a6eb9843f9879676c3180c45572c",
+      "size": 65308
+    },
+    {
+      "path": "mods/immortal_bosses-1.0.0.jar",
+      "sha256": "19d4fc374d97eff1db2944305bc74e3de8d27582d6153f40d29500266f146088",
+      "size": 14535700
+    },
+    {
+      "path": "mods/clanginghowladdon-1.2.3f.jar",
+      "sha256": "eaa53fdd3348a2eb1d87fe0f3c2d12c73bae121a3f72a69613c18f843487a5a1",
+      "size": 347483
+    },
+    {
+      "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
+      "sha256": "91ad6b459e0c7a16a9f3dc90230248a696600ceec6646aa23263559b8648dbc3",
+      "size": 134551
+    },
+    {
+      "path": "mods/legendarycreatures-1.20.1-1.1.2.jar",
+      "sha256": "2ba0961d1c32b199e98197bf2d140b90fa8f493324ca84c01c648fd58aa497e3",
+      "size": 3585899
+    },
+    {
+      "path": "mods/cataclysmiccombat-1.3.4.jar",
+      "sha256": "22634d4c49835ee9c88215efcb679091e0b1f47881fbf59812c908f43652ba0f",
+      "size": 6964
+    },
+    {
+      "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "sha256": "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8",
+      "size": 37178
+    },
+    {
+      "path": "mods/Nyctophobia_1.6_(FORGE)_for_1.20+.jar",
+      "sha256": "b79d10517e4c7d73cccc284c7142faf7a6cbf8eba82da503c5144e931a64d99a",
+      "size": 278132
+    },
+    {
+      "path": "mods/secondchanceforge-1.20-1.5.1.jar",
+      "sha256": "5f14e3e800955d977041877e78d7a98e033a8f8a8b2c8d6579ebf36b670d7434",
+      "size": 29581
+    },
+    {
+      "path": "mods/UndeadUnleashed-1.2.2-forge-1.20.1.jar",
+      "sha256": "17bb147e0afcd543e6ebf582dde8f283f79da92d2b1f5d18ab196e2e74485936",
+      "size": 1496183
+    },
+    {
+      "path": "mods/passiveskilltreeaddon.jar",
+      "sha256": "c75783d32c2fabc03e2cd9fff45c7ac972cbcebe4fabc9d0bd8e5eddc24fc181",
+      "size": 125091
     }
   ]
 }
