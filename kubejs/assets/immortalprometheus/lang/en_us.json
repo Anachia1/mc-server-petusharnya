@@ -1,0 +1,6 @@
+{
+  "ponder.immortalprometheus:prometheus_altar.name": "Prometheus Altar",
+  "ponder.immortalprometheus:prometheus_altar.description": "Build and activate the Prometheus Altar",
+  "ponder.prometheus_altar_construction.name": "Building the Prometheus Altar",
+  "ponder.prometheus_altar_crafting.name": "Using the Prometheus Forge"
+}

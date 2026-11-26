@@ -1,0 +1,72 @@
+{
+  "id": "skilltree:hunter_37",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "cataclysm_spellbooks:abyssal_spell_power",
+      "id": "531c20ef-c1c4-4d68-9c71-3e25a9aa026e",
+      "name": "Skill",
+      "amount": 0.1,
+      "operation": 1,
+      "player_condition": {
+        "item_condition": {
+          "id": "cataclysm_spellbooks:abyss_spell_book",
+          "type": "skilltree:item_id"
+        },
+        "type": "skilltree:has_item_equipped"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "cataclysm_spellbooks:abyssal_magic_resist",
+      "id": "236de07d-4b5f-48ed-a1a6-5fa67a4d7cf8",
+      "name": "Skill",
+      "amount": 0.3,
+      "operation": 1
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "cataclysm_spellbooks:technomancy_magic_resist",
+      "id": "ab0ce667-e1f8-4d60-ba71-21ab69ec32e8",
+      "name": "Skill",
+      "amount": 0.3,
+      "operation": 1
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "skilltree:hunter_34"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/hunter_subclass_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "title": "Разлом бездны II",
+  "titleColor": "FF5555",
+  "positionX": 62.355,
+  "positionY": 108.0,
+  "buttonSize": 20,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": "+10% к силе заклинаний бездны, если на вас Фолиант Р\u0027льеха"
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": "+30% к сопротивлению магии бездны"
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": "+30% к сопротивлению техномагии"
+    }
+  ]
+}

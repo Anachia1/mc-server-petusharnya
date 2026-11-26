@@ -1,0 +1,15 @@
+
+["Skill Tree GUI"]
+	#Horizontal offset for skill tree selection buttons (negative = left, positive = right) / Горизонтальное смещение кнопок (отрицательное = влево, положительное = вправо)
+	#Range: -500 ~ 500
+	buttonOffsetX = 0
+	#Vertical offset for skill tree selection buttons (negative = up, positive = down) / Вертикальное смещение кнопок (отрицательное = вверх, положительное = вниз)
+	#Range: -500 ~ 500
+	buttonOffsetY = 0
+	#Scale for skill tree selection buttons (1.0 = default) / Масштаб кнопок выбора дерева (1.0 = по умолчанию)
+	#Range: 0.5 ~ 3.0
+	buttonScale = 1.5
+	#Spacing between skill tree selection buttons (default = 24) / Расстояние между кнопками выбора дерева (по умолчанию = 24)
+	#Range: 5 ~ 100
+	buttonSpacing = 35
+

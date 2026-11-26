@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "X": {
+      "item": "minecraft:ender_pearl"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "B": {
+      "item": "clanginghowl:blaze_fuel"
+    }
+  },
+  "pattern": [
+    " P ",
+    "BXG",
+    " A "
+  ],
+  "result": {
+    "item": "minecraft:ender_eye"
+  },
+  "show_notification": true
+}

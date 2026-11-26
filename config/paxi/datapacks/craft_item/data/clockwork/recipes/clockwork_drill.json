@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IIG",
+    "DCG",
+    "BBB"
+  ],
+  "key": {
+    "G": {
+      "item": "clockwork:clockwork_gear"
+    },
+    "B": {
+      "item": "create:belt_connector"
+    },
+    "I": {
+      "item": "create:brass_sheet"
+    },
+    "C": {
+      "item": "create:precision_mechanism"
+    },
+    "D": {
+      "item": "create_sa:brass_drill_head"
+    }
+  },
+  "result": {
+    "item": "clockwork:clockwork_drill",
+    "count": 1
+  }
+}

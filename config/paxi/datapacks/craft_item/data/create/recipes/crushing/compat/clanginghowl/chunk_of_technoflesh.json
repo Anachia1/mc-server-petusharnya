@@ -1,0 +1,28 @@
+{
+  "type": "create:crushing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "clanginghowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "clanginghowl:chunk_of_technoflesh"
+    }
+  ],
+  "processingTime": 300,
+  "results": [
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:redstone"
+    },
+    {
+      "chance": 0.1,
+      "item": "clanginghowl:piece_of_extraterrestrial_steel"
+    }
+  ]
+}

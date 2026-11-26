@@ -1,0 +1,49 @@
+{
+  "id": "skilltree:inquisitor_35",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "5d71b886-5382-40f4-b994-268502ae7b76",
+      "name": "Skill",
+      "amount": 6.0,
+      "operation": 0,
+      "player_condition": {
+        "item_condition": {
+          "id": "irons_spellbooks:evoker_spell_book",
+          "type": "skilltree:item_id"
+        },
+        "type": "skilltree:has_item_equipped"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "skilltree:inquisitor_28"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/cook_subclass_2_life_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "title": "Пакт вызывателя",
+  "titleColor": "FFAA00",
+  "positionX": -124.703,
+  "positionY": -0.004,
+  "buttonSize": 20,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "f_131102_": false,
+      "f_131103_": false,
+      "f_131104_": false,
+      "f_131105_": false,
+      "f_131106_": false,
+      "text": "+6 к максимальному здоровью, если на вас Гримуар призыва"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cdc",
+    "ba "
+  ],
+  "key": {
+    "a": {
+      "item": "ancient_forgemastery:remnant_artifact"
+    },
+    "b": {
+      "item": "cataclysm:ancient_metal_nugget"
+    },
+    "c": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "d": {
+      "item": "ancient_forgemastery:primordial_soulstone"
+    }
+  },
+  "result": {
+    "item": "ancient_forgemastery:echoing_ward",
+    "count": 1
+  }
+}

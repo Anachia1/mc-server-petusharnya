@@ -1,0 +1,9 @@
+[
+    {
+        "matchItems": [
+            "naturalist:cooked_egg",
+            "alexsmobs:boiled_emu_egg"
+        ],
+        "resultItems": "farmersdelight:fried_egg"
+    }
+]

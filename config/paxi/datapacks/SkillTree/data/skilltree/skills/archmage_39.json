@@ -1,0 +1,63 @@
+{
+  "id": "skilltree:archmage_39",
+  "bonuses": [
+    {
+      "type": "skilltree:inflict_effect",
+      "chance": 0.05,
+      "max_stacks": 1,
+      "effect": "clanginghowl:internal_heat",
+      "duration": 180,
+      "amplifier": 0,
+      "event_listener": {
+        "damage_condition": {
+          "type": "skilltree:none"
+        },
+        "target": "enemy",
+        "type": "skilltree:attack"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/torch.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "title": "Внутренний огонь",
+  "titleColor": "E3D4D1",
+  "positionX": -62.352,
+  "positionY": 71.999,
+  "buttonSize": 16,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": "+5% к шансу наложить эффект Внутреннее тепло на 9 секунд при атаке"
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": ""
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 11184810
+      },
+      "f_131103_": true,
+      "text": "*Внутреннее тепло - при убийстве врага с этим эффектом происходит мощный огненный взрыв,"
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 11184810
+      },
+      "f_131102_": false,
+      "f_131103_": true,
+      "text": "после чего эффект перекидывается на ближайших существ"
+    }
+  ]
+}

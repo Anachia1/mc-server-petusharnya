@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    "# #",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "dungeonnowloading:spawner_frame"
+    },
+    "B": {
+      "item": "dungeonnowloading:soul_cloth"
+    }
+  },
+  "result": {
+    "item": "dungeonnowloading:spawner_boots"
+  }
+}

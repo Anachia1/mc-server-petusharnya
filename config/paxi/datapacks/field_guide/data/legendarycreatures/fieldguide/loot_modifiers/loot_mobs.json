@@ -1,0 +1,16 @@
+{
+  "additions": [
+    {
+      "entry": "legendarycreatures:hound",
+      "value": "enigmaticaddons:earth_heart_fragment"
+    },
+	{
+      "entry": "legendarycreatures:scorpion",
+      "value": "mowziesmobs:naga_fang"
+    },
+	{
+      "entry": "legendarycreatures:corpse_eater",
+      "value": "undead_unleashed:grave_iron_nugget"
+    }
+  ]
+}

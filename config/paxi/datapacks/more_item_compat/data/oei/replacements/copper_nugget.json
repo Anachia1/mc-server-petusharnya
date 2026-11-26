@@ -1,0 +1,8 @@
+[
+    {
+        "matchItems": [
+            "create:copper_nugget"
+        ],
+        "resultItems": "minecraft:copper_nugget"
+    }
+]

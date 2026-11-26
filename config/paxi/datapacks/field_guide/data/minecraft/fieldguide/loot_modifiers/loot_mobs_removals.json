@@ -1,0 +1,8 @@
+{
+  "removals": [
+    {
+      "entry": "minecraft:hoglin",
+      "value": "minecraft:porkchop"
+    }
+  ]
+}

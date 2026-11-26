@@ -1,0 +1,64 @@
+{
+  "id": "skilltree:cook_19",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "d4f1ef6f-ffac-4a5f-87e3-81eec7e50f71",
+      "name": "Skill",
+      "amount": 6.0,
+      "operation": 0,
+      "player_condition": {
+        "item_condition": {
+          "id": "immortalskills:engineer_chestplate",
+          "type": "skilltree:item_id"
+        },
+        "type": "skilltree:has_item_equipped"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "91b8c92a-6740-47c5-893a-8ef189801451",
+      "name": "Skill",
+      "amount": 6.0,
+      "operation": 0,
+      "player_condition": {
+        "item_condition": {
+          "id": "immortalskills:fallen_messenger_chestplate",
+          "type": "skilltree:item_id"
+        },
+        "type": "skilltree:has_item_equipped"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "skilltree:cook_18"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/cook_subclass_2_life_1.png",
+  "borderTexture": "skilltree:textures/tooltip/gateway_1.png",
+  "title": "Модификация тела II",
+  "titleColor": "FF5555",
+  "positionX": 0.0,
+  "positionY": -144.0,
+  "buttonSize": 32,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "f_131102_": false,
+      "f_131103_": false,
+      "f_131104_": false,
+      "f_131105_": false,
+      "f_131106_": false,
+      "text": "+6 к максимальному здоровью, если на вас Нагрудник падшего вестника или Нагрудник изобретателя"
+    }
+  ]
+}

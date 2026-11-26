@@ -1,0 +1,70 @@
+{
+  "item.immortaldroid.droid": "Бибо",
+  "item.immortaldroid.module_droid_hostiles_scan": "Диск-модуль сканирования",
+  "item.immortaldroid.module_droid_hostiles_scan.desc": "Разместите диск-модуль в\nспециальную ячейку у Бибо,\nчтобы он загрузил программу для\nсканирования местности. Этот\nмодуль подсвечивает враждебных\nмобов в небольшом радиусе\nот Бибо, в течении 5 минут.\nПосле чего диск-модуль\nперезагружается 20 минут.",
+  "item.immortaldroid.module_droid_structure_search": "Диск-модуль поиска структур",
+  "item.immortaldroid.module_droid_structure_search.desc": "Разместите диск-модуль в\nспециальную ячейку у Бибо,\nчтобы он загрузил программу для\nпоиска структур. Этот\nмодуль позволяет вашему роботу\nнаходить структуры по всему\nверхнему миру.\n\nРасходуется при использовании.",
+  "item.immortaldroid.module_droid_biome_search": "Диск-модуль поиска биомов",
+  "item.immortaldroid.module_droid_biome_search.desc": "Разместите диск-модуль в\nспециальную ячейку у Бибо,\nчтобы он загрузил программу для\nпоиска биомов. Этот\nмодуль позволяет вашему\nроботу находить биомы по\nвсему верхнему миру.",
+
+  "module.option.module_droid_structure_search.woodland_mansion": "Особняк",
+  "module.option.module_droid_structure_search.village": "Деревня",
+  "module.option.module_droid_structure_search.jungle_temple": "Храм джунглей",
+  "module.option.module_droid_structure_search.desert_pyramid": "Пустынный храм",
+  "module.option.module_droid_structure_search.pillager_outpost": "Аванпост разбойников",
+  "module.option.module_droid_structure_search.swamp_hut": "Хижина ведьмы",
+
+  "module.option.module_droid_biome_search.bamboo_jungle": "Бамбуковые заросли",
+  "module.option.module_droid_biome_search.beach": "Пляж",
+  "module.option.module_droid_biome_search.birch_forest": "Березовый лес",
+  "module.option.module_droid_biome_search.cold_ocean": "Холодный океан",
+  "module.option.module_droid_biome_search.dark_forest": "Темный лес",
+  "module.option.module_droid_biome_search.desert": "Пустыня",
+  "module.option.module_droid_biome_search.deep_dark": "Темные глубины",
+  "module.option.module_droid_biome_search.lush_caves": "Пышные пещеры",
+  "module.option.module_droid_biome_search.meadow": "Луга",
+  "module.option.module_droid_biome_search.ice_maze": "Ледяной лабиринт",
+  "module.option.module_droid_biome_search.savanna": "Саванна",
+  "module.option.module_droid_biome_search.taiga": "Тайга",
+  "module.option.module_droid_biome_search.swamp": "Болото",
+
+  "entity.immortaldroid.droid": "Бибо",
+
+  "text.bibo.sit": "Бибо сидит",
+  "text.bibo.follow": "Бибо следует",
+
+  "bibo.dialog.greetings.0": "Приветствую! Меня зовут Бибо и я буду с большим удовольствием тебе помогать в твоих путешествиях, а так же расскажу кое какие\nсекреты...только никому ни слова!",
+
+  "bibo.dialog.needs_iron.0": "Мне нужен железный слиток!",
+  "bibo.dialog.needs_iron.1": "Где мой слиток?",
+  "bibo.dialog.needs_iron.2": "Требую железный слиток!",
+  "bibo.dialog.needs_iron.3": "Я не пойду с тобой никуда, пока ты не принесешь мне железный слиток!",
+
+  "bibo.advancement.adventure.kill_a_mob": "Ты встал на путь очищения. Пора избавить этот мир от скверны...если только...ты сам себя не осквернил при помощи того самого кольца. Лучше бы ты его выбросил!",
+  "bibo.advancement.adventure.totem_of_undying": "Удивительно, но ты стал на шаг ближе к бессмертию! Думаю ты уже догадался что создателем тотема бессмертия являются заклинатели. Их поиски вечной жизни привели к катострофе из за которой страдает весь мир! Да, да, именно они создали Хаос в Новом мире, кто же ещё на такое способен...правда?",
+  "bibo.advancement.scavenger": "После того как мир окутал темный туман, плодородная почва так же подверглась заражению. Именно поэтому могильная почва может содержать в себе останки всякой нечисти.",
+  "bibo.advancement.main.the_cube": "Ты это сделал! Ты получил то что хотел! Готов ли ты потратить Неевклидов куб ради встречи с Архитектором? Он не любит когда кто-то приходит к нему с кубом.",
+  "bibo.advancement.main.cursed_ring": "7 проклятий...7 смертных грехов. Похоже что это единственный верный путь в достижении истинного бессмертия. Только преодолев все испытания ты сможешь пройти ритуал очищения и избавить себя от скверны! Главное сделай это до того, как ты пойдёшь к нему в гости...",
+  "bibo.advancement.main.discover_spellstone": "Камни стихий разбросаны по всему миру. Получи 6 основных камней, чтобы объединить их и создать нечто большее чем просто какой-то камушек.",
+  "bibo.advancement.main.unholy_grail_worthy": "Поступать так как тебе захочется несмотря ни на что...мудро, но никогда не забывай о последствиях. За то что ты испил оскверненный грааль, я раскрою маленький секрет. Меня послал к тебе Архитектор, чтобы я помогал тебе и направлял на истинный путь. Создай неевклидов куб и активируй картину, чтобы встретиться с ним...",
+  "bibo.advancement.immortalsoul.full_cursed_set": "Я думал мы будем бороться со злом...а ты примкнул к нему! Больше так не делай, не то я всё ему расскажу и он не пустит тебя к себе.",
+  "bibo.advancement.immortalsoul.scroll_teleport": "Ты изучил какую то новую технику телепортации. Мои поздравления! Только прошу, не забывай меня забирать с собой, а то мне тут страшно одному...шучу, мне всё равно.",
+  "bibo.advancement.cataclysm.kill_ignis": "Ты победил такого грозного противника...как тебе это удалось? Я восхищаюсь твоей силой! Думаю ты скоро будешь готов сразиться с действительно достойным противником. Ваша битва станет легендарной!",
+  "bibo.advancement.cataclysm.kill_harbinger": "Похоже, что ты нашел еще один путь к обретению бессмертия. Наука и магия обладают невероятной силой, они идут бок о бок с нашим мирозданием. Ты спросишь меня что я имею ввиду? А я отвечу тебе так...твой главный противник объединяет в себе высокоразвитые технологии и само космическое пространство! Но никому не рассказывай об этом.",
+  "bibo.advancement.cataclysm.kill_leviathan": "Древнее божество...было создано самим архитектором ради одной цели. Усложнить тебе жизнь и не дать так просто получить могущественные артефакты! Все просто!",
+  "bibo.advancement.farmersdelight.main.craft_knife": "Нееет, пожалуйста не убивай меня! Так бы сказал тот, кто был бы смертным.",
+  "bibo.advancement.farmersdelight.main.eat_comfort_food": "Приятного аппетита тебе мой юный друг! Не подавись!",
+  "bibo.advancement.adventure.hero_of_the_village": "За то что ты спас деревню от разбойников или пряничных человечков...я не видел с кем ты сражался, я тебе расскажу кое что очень важное. Вот уже много столетий разбойники ищут путь к бессмертию. Никто кроме тебя не в силах им помешать. Их амбиции очень велики, поэтому завладев Неевклидовым кубом они повергнут мир в хаос и тогда от нового мира ничего не останется...",
+
+  "gui.bibo_inventory.tooltip.accept_button": "Активировать",
+  "gui.bibo_inventory.tooltip.reset_button": "Сбросить",
+
+  "item.immortaldroid.module_droid_labyrinth_search": "Диск-модуль поиска лабиринта",
+  "item.immortaldroid.module_droid_labyrinth_search.desc": "Ищет структуру Лабиринт",
+  "module.option.module_droid_labyrinth_search.labyrinth": "Лабиринт",
+
+  "item.immortaldroid.module_droid_book": "Диск-модуль памяти",
+  "item.immortaldroid.module_droid_book.desc": "Доступ к записям робота",
+  "module.option.module_droid_book.entry": "Запись %d"
+
+}

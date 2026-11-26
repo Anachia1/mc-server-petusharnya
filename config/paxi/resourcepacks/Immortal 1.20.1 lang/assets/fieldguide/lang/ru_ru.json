@@ -1,0 +1,406 @@
+{
+  "title.fieldguide.config": "Настройка Полевого руководства",
+  "title.fieldguide.field_guide": "Полевое руководство",
+
+  "gui.fieldguide.open": "Открыть полевое руководство",
+  "gui.fieldguide.main.default": "Недавние открытия",
+  "gui.fieldguide.search": "Поиск...",
+  "gui.fieldguide.no_results": "Нет результатов",
+  "gui.fieldguide.drops": "Дроп %s",
+  "gui.fieldguide.add_photograph": "Добавить фотографию",
+  "gui.fieldguide.select_photograph": "Выберите фотографию",
+  "gui.fieldguide.variants": "Варианты",
+
+  "gui.fieldguide.searching_name": "Поиск по имени",
+  "gui.fieldguide.searching_drops": "Поиск по дропам",
+  "gui.fieldguide.searching_biomes": "Поиск по биомам",
+  "gui.fieldguide.searching_seasons": "Поиск по сезонам",
+  "gui.fieldguide.grows_in": "Растет в %s",
+  "gui.fieldguide.searching_tags": "Поиск по тегам",  "gui.fieldguide.searching_mod": "Поиск по модам",
+
+  "category.fieldguide.main": "Полевое руководство",
+  "category.fieldguide.general": "Общие настройки",
+  "category.fieldguide.interface": "Интерфейс",
+  "category.fieldguide.commands": "Команды",
+
+  "option.fieldguide.show_inventory_button": "Показывать кнопку в инвентаре",
+  "option.fieldguide.show_inventory_button.tooltip": "Если эта функция включена, в инвентаре игрока появится кнопка для открытия полевого руководства.",
+  "option.fieldguide.inventory_button_x": "Кнопка в инвентаре по оси X",
+  "option.fieldguide.inventory_button_x.tooltip": "Смещение кнопки в инвентаре по горизонтали.",
+  "option.fieldguide.inventory_button_y": "Кнопка в инвентаре по оси Y",
+  "option.fieldguide.inventory_button_y.tooltip": "Смещение кнопки в инвентаре по вертикали.",
+
+  "option.fieldguide.show_pause_button": "Показывать кнопку в меню паузы",
+  "option.fieldguide.show_pause_button.tooltip": "Если этот параметр включен, в меню паузы появится кнопка для открытия полевого руководства.",
+  "option.fieldguide.pause_button_x": "Кнопка паузы по оси X",
+  "option.fieldguide.pause_button_x.tooltip": "Смещение кнопки паузы по горизонтали.",
+  "option.fieldguide.pause_button_y": "Кнопка паузы по оси Y",
+  "option.fieldguide.pause_button_y.tooltip": "Смещение кнопки паузы по вертикали.",
+
+  "option.fieldguide.show_undiscovered_names": "Показывать неизвестные имена",
+  "option.fieldguide.show_undiscovered_names.tooltip": "Если этот параметр включен, будут видны имена не обнаруженных записей.",
+
+  "option.fieldguide.hide_undiscovered_from_search": "Скрыть необнаруженные записи для поиска",
+  "option.fieldguide.hide_undiscovered_from_search.tooltip": "Если этот параметр включен, неоткрытые записи будут скрыты из результатов поиска.",
+
+  "option.fieldguide.disable_scanning": "Отключить сканирование",
+  "option.fieldguide.disable_scanning.tooltip": "Если этот параметр включен, вы больше не сможете сканировать записи с помощью подзорных труб.",
+
+  "option.fieldguide.scan_speed": "Скорость сканирования",
+  "option.fieldguide.scan_speed.tooltip": "Время в секундах, необходимое для сканирования записи.",
+
+  "option.fieldguide.scan_overlay_color": "Цвет наложения сканирования",
+  "option.fieldguide.scan_overlay_color.tooltip": "Шестнадцатеричный цветовой код для сканирующего наложения (e.g. #FFFFFF).",
+
+  "option.fieldguide.scan_overlay_alpha": "Непрозрачность наложения сканирования",
+  "option.fieldguide.scan_overlay_alpha.tooltip": "Непрозрачность сканирующего наложения (0.0 - 1.0).",
+
+  "option.fieldguide.scan_icon_y_offset": "Значок сканирования по оси Y",
+  "option.fieldguide.scan_icon_y_offset.tooltip": "Настраивает вертикальное положение сканирующего перекрестия. При положительном значении оно перемещается вверх, при отрицательном - вниз.",
+
+  "option.fieldguide.scan_icon_x_offset": "Значок сканирования по оси X",
+  "option.fieldguide.scan_icon_x_offset.tooltip": "Регулирует горизонтальное положение сканирующего перекрестия. Положительное смещает его вправо, отрицательное - влево..",
+
+  "option.fieldguide.show_scan_icon": "Показать значок сканирования",
+  "option.fieldguide.show_scan_icon.tooltip": "Переключает видимость значка сканирования рядом с перекрестием.",
+
+  "option.fieldguide.spyglass_scan_distance": "Расстояние сканирования через подзорную трубу",
+  "option.fieldguide.spyglass_scan_distance.tooltip": "Максимальное расстояние с которого вы можете сканировать запись с помощью подзорной трубы.",
+
+  "option.fieldguide.naked_eye_scan_distance": "Naked Eye Scan Distance",
+  "option.fieldguide.naked_eye_scan_distance.tooltip": "The maximum distance from which you can scan an entry with your naked eye (without a Spyglass).",
+
+  "option.fieldguide.enable_spyglass_scanning": "Enable Spyglass Scanning",
+  "option.fieldguide.enable_spyglass_scanning.tooltip": "Allows players to scan entries from afar using a Spyglass.",
+
+  "option.fieldguide.enable_naked_eye_scanning": "Enable Naked Eye Scanning",
+  "option.fieldguide.enable_naked_eye_scanning.tooltip": "Allows players to scan entries just by looking at them without a Spyglass.",
+
+  "option.fieldguide.grant_xp_on_scan": "Получение опыта при сканировании",
+  "option.fieldguide.grant_xp_on_scan.tooltip": "Если эта функция включена, обнаружение новой записи с помощью сканирования принесет игроку очки опыта.",
+
+  "option.fieldguide.xp_amount_on_scan": "Количество опыта при сканировании",
+  "option.fieldguide.xp_amount_on_scan.tooltip": "Количество очков опыта, начисляемых при первом успешном сканировании записи.",
+
+  "option.fieldguide.enable_reliable_remover": "Reliable Remover Integration",
+  "option.fieldguide.enable_reliable_remover.tooltip": "Whether or not blacklisted items should be removed from Field Guide entries and loot displays.",
+
+  "option.fieldguide.text_color": "Text Color",
+  "option.fieldguide.text_color.tooltip": "The hex color code used for standard text in the field guide.",
+
+  "option.fieldguide.text_title_color": "Text Title Color",
+  "option.fieldguide.text_title_color.tooltip": "The hex color code used for titles in the field guide.",
+
+  "option.fieldguide.text_muted_color": "Muted Text Color",
+  "option.fieldguide.text_muted_color.tooltip": "The hex color code used for muted/secondary text.",
+
+  "option.fieldguide.text_cursor_color": "Text Cursor Color",
+  "option.fieldguide.text_cursor_color.tooltip": "Hex color code for the text cursor.",
+
+  "option.fieldguide.page_number_color": "Page Number Color",
+  "option.fieldguide.page_number_color.tooltip": "The hex color code used for the page numbers.",
+
+  "option.fieldguide.list_silhouette_color": "List Silhouette Color",
+  "option.fieldguide.list_silhouette_color.tooltip": "The hex color code for undiscovered entry silhouettes within the list pages.",
+
+  "option.fieldguide.list_silhouette_alpha": "List Silhouette Opacity",
+  "option.fieldguide.list_silhouette_alpha.tooltip": "The opacity of the undiscovered entry silhouettes within the list pages (0.0 - 1.0).",
+
+  "option.fieldguide.list_unlocked_silhouette_color": "List Discovered Silhouette Color",
+  "option.fieldguide.list_unlocked_silhouette_color.tooltip": "The hex color code for discovered entry silhouettes within the list pages.",
+
+  "option.fieldguide.list_unlocked_silhouette_alpha": "List Discovered Silhouette Opacity",
+  "option.fieldguide.list_unlocked_silhouette_alpha.tooltip": "The opacity of the discovered entry silhouettes within the list pages (0.0 - 1.0).",
+
+  "option.fieldguide.details_silhouette_color": "Details Silhouette Color",
+  "option.fieldguide.details_silhouette_color.tooltip": "The hex color code for undiscovered entry silhouettes on details pages.",
+
+  "option.fieldguide.details_silhouette_alpha": "Details Silhouette Opacity",
+  "option.fieldguide.details_silhouette_alpha.tooltip": "The opacity of the undiscovered entry silhouettes within the details pages (0.0 - 1.0).",
+
+  "option.fieldguide.details_unlocked_silhouette_color": "Details Discovered Silhouette Color",
+  "option.fieldguide.details_unlocked_silhouette_color.tooltip": "The hex color code for discovered entry silhouettes within the details pages.",
+
+  "option.fieldguide.details_unlocked_silhouette_alpha": "Details Discovered Silhouette Opacity",
+  "option.fieldguide.details_unlocked_silhouette_alpha.tooltip": "The opacity of the discovered entry silhouettes within the details pages (0.0 - 1.0).",
+
+  "option.fieldguide.show_unlock_date": "Show Unlock Date Icon",
+  "option.fieldguide.show_unlock_date.tooltip": "If enabled, a small quill icon will appear in the top right of discovered entries. Hovering over it will display the date and time the entry was unlocked.",
+
+  "option.fieldguide.use_real_world_date": "Use Real-World Date",
+  "option.fieldguide.use_real_world_date.tooltip": "If true, discovery dates are shown using the real-world date instead of the in-game day.",
+
+  "option.fieldguide.play_scanning_sound": "Play Scanning Sound",
+  "option.fieldguide.play_scanning_sound.tooltip": "If false, the scribbling noise played when scanning entries will be disabled.",
+
+  "option.fieldguide.play_unlock_sound": "Play Unlock Sound",
+  "option.fieldguide.play_unlock_sound.tooltip": "If false, the ding sound when unlocking a new entry will be disabled.",
+
+  "option.fieldguide.disable_loot_display": "Disable Loot Display",
+  "option.fieldguide.disable_loot_display.tooltip": "Hides the drops grid in Field Guide entries.",
+
+  "option.fieldguide.disable_biome_display": "Disable Biome Display",
+  "option.fieldguide.disable_biome_display.tooltip": "Hides the spawn biomes grid in Field Guide entries.",
+
+  "option.fieldguide.disable_editing_descriptions": "Disable Editing Descriptions",
+  "option.fieldguide.disable_editing_descriptions.tooltip": "Prevents players from modifying the description of discovered entries.",
+
+  "option.fieldguide.disable_editing_names": "Disable Editing Names",
+  "option.fieldguide.disable_editing_names.tooltip": "Prevents players from modifying the name of discovered entries.",
+
+  "option.fieldguide.default_screen": "Default Open Screen",
+  "option.fieldguide.default_screen.tooltip": "The screen shown when first opening the guide. Options: 'last_opened_screen', 'last_opened_category', 'current_biome', or a category ID (e.g., 'fieldguide:monsters').",
+
+  "option.fieldguide.hide_tabs_until_unlocked": "Hide Locked Tabs",
+  "option.fieldguide.hide_tabs_until_unlocked.tooltip": "If true, category tabs will not appear in the sidebar until you have unlocked at least one entry within that category.",
+
+  "option.fieldguide.global_scan_commands": "Global Scan Commands",
+  "option.fieldguide.global_scan_commands.tooltip": "A list of commands to run whenever any entry is successfully scanned. Use @p for the player name.",
+
+  "option.fieldguide.category_scan_commands": "Category Scan Commands",
+  "option.fieldguide.category_scan_commands.tooltip": "Commands to execute when a specific category is fully scanned. Format: category_id=/command1;/command2",
+
+  "option.fieldguide.entry_scan_commands": "Entry Scan Commands",
+  "option.fieldguide.entry_scan_commands.tooltip": "Commands to execute when a specific entry is scanned. Format: entry_id=/command1;/command2",
+
+  "option.fieldguide.show_toasts": "Show Toasts",
+  "option.fieldguide.show_toasts.tooltip": "Whether to show a toast notification when a new entry is discovered.",
+
+  "option.fieldguide.keep_silhouette": "Keep Silhouette When Unlocked",
+  "option.fieldguide.keep_silhouette.tooltip": "If enabled, entries will still be displayed as silhouettes even after they've been discovered.",
+
+  "option.fieldguide.unlock_variants": "Unlock All Variants",
+  "option.fieldguide.unlock_variants.tooltip": "If enabled, all variants of an entry will be unlocked after they've been discovered.",
+
+  "category.fieldguide.exposure": "Интеграция воздействия",
+
+  "category.fieldguide.seasons": "Интеграция сезонов",
+  "option.fieldguide.show_season_icons": "Показывать значки сезона",
+  "option.fieldguide.show_season_icons.tooltip": "Если этот параметр включен, на записях об урожае будут отображаться значки, указывающие, в какое время года они произрастают.",
+  "fieldguide.season.spring": "Весна",
+  "fieldguide.season.summer": "Лето",
+  "fieldguide.season.autumn": "Осень",
+  "fieldguide.season.winter": "Зима",
+
+  "option.fieldguide.exposure.add_photograph_button": "Включить кнопку 'Добавить фотографию'",
+  "option.fieldguide.exposure.add_photograph_button.tooltip": "Если эта функция включена, на экране ввода появится кнопка, позволяющая вам прикрепить существующую фотографию из вашего инвентаря.",
+
+  "option.fieldguide.exposure.unlock_via_photograph": "Разблокируйте записи с помощью фотографий",
+  "option.fieldguide.exposure.unlock_via_photograph.tooltip": "Если эта функция включена, при съемке или проявке фотографий записей автоматически будет разблокирована их запись в полевом руководстве..",
+
+  "option.fieldguide.exposure.show_photographs_in_grid": "Показывать фотографии в сетке категорий",
+  "option.fieldguide.exposure.show_photographs_in_grid.tooltip": "Если этот параметр включен, в таблице категорий вместо стандартной модели будет отображаться фотография.",
+
+  "option.fieldguide.enable_field_guide_item": "Включить предмет полевого руководства (требуется перезапуск)",
+  "option.fieldguide.enable_field_guide_item.tooltip": "Если эта опция включена, в игре будет доступен предмет полевого руководства, который можно создать.",
+
+  "option.fieldguide.enable_copying_pages": "Включить копирование страниц",
+  "option.fieldguide.enable_copying_pages.tooltip": "Если эта функция включена, игроки могут копировать страницы из своего полевого руководства, чтобы поделиться ими с другими.",
+
+  "fieldguide.alignment.passive": "Пассивный",
+  "fieldguide.alignment.neutral": "Нейтральный",
+  "fieldguide.alignment.hostile": "Враждебный",
+  "fieldguide.attribute.health": "Здоровье",
+  "fieldguide.attribute.armor": "Броня",
+
+  "fieldguide.date.in_game": "День %s, %s",
+  "fieldguide.time.day": "Утро",
+  "fieldguide.time.noon": "Полдень",
+  "fieldguide.time.night": "Вечер",
+  "fieldguide.time.midnight": "Ночь",
+
+  "fieldguide.tooltip.variants": "Варианты: %s/%s",
+  "gui.fieldguide.variant_selector.tooltip": "Выбрать вариант",
+
+  "tag.item.fieldguide.spyglasses": "Подзорные трубы",
+
+  "item.fieldguide.field_guide": "Полевое руководство",
+  "item.fieldguide.field_guide.tooltip": "Нажмите пкм, чтобы открыть своё полевое руководство",
+
+  "item.fieldguide.page": "Записи полевого руководства",
+  "item.fieldguide.page.entry": "Ввод: %s",
+  "item.fieldguide.page.author": "Автор: %s",
+  "item.fieldguide.page.tooltip": "Нажмите пкм, чтобы добавить эту запись в своё полевое руководство",
+
+  "gui.fieldguide.copy.tooltip": "Скопировать страницу",
+  "gui.fieldguide.copy.requires_paper": "Требуется бумага",
+  "gui.fieldguide.back": "Назад",
+  "gui.fieldguide.loading": "Загрузка...",
+
+  "key.fieldguide.open": "Открыть полевое руководство",
+  "key.fieldguide.scan": "Начать сканирование",
+
+  "fieldguide.unknown": "???",
+  "fieldguide.undiscovered": "???",
+  "fieldguide.description.missing": "Запись...",
+  "fieldguide.description.locked": "Наблюдайте через подзорную трубу, чтобы узнать что то новое.",
+  "fieldguide.description.locked.kill": "Победите это существо, чтобы узнать что то новое.",
+  "fieldguide.description.locked.eat": "Воспользуйтесь этим, чтобы узнать что то новое.",
+  "fieldguide.description.locked.no_spyglass": "Внимательно наблюдайте за этим, чтобы узнать что то новое.",
+
+  "fieldguide.toast.discovered": "Открыт!",
+  "fieldguide.toast.added": "%s открытый!",
+  "fieldguide.toast.view_hint": "Нажмите %s для просмотра",
+
+  "commands.fieldguide.grant.everything.success": "Предоставить все записи полевого руководства для %s игроков",
+  "commands.fieldguide.grant.category.success": "Получить категории %s для %s игроков",
+  "commands.fieldguide.grant.entry.success": "Получить ввод %s для целей",
+  "commands.fieldguide.grant.variant.success": "Получить варианты %s из %s для игроков",
+
+  "commands.fieldguide.revoke.everything.success": "Revoked all Field Guide entries from targets",
+  "commands.fieldguide.revoke.category.success": "Revoked category %s from %s players",
+  "commands.fieldguide.revoke.entry.success": "Revoked entry %s from targets",
+  "commands.fieldguide.revoke.variant.success": "Revoked variant %s of %s from players",
+
+  "commands.fieldguide.category.not_found": "Category %s not found",
+  "commands.fieldguide.entry.not_found": "Entry %s not found",
+  "commands.fieldguide.reload.started": "Reloading Field Guide data...",
+  "commands.fieldguide.reload.success": "Field Guide reloaded and synced to online players.",
+
+  "category.fieldguide.fieldguide.monsters": "Монстры",
+  "category.fieldguide.fieldguide.animals": "Животные",
+  "category.fieldguide.fieldguide.plants": "Растения",
+  "category.fieldguide.fieldguide.bosses": "Боссы",
+  "category.fieldguide.fieldguide.cobblemon": "Cobblemon",
+
+  "fieldguide.name.minecraft.oak_sapling": "Дуб",
+  "fieldguide.name.minecraft.spruce_sapling": "Ель",
+  "fieldguide.name.minecraft.birch_sapling": "Береза",
+  "fieldguide.name.minecraft.jungle_sapling": "Тропическое дерево",
+  "fieldguide.name.minecraft.acacia_sapling": "Акация",
+  "fieldguide.name.minecraft.dark_oak_sapling": "Тёмный дуб",
+  "fieldguide.name.minecraft.mangrove_propagule": "Мангровое дерево",
+  "fieldguide.name.minecraft.cherry_sapling": "Вишня",
+  "fieldguide.name.minecraft.azalea_leaves": "Азалиевое дерево",
+  "fieldguide.name.fieldguide.huge_brown_mushroom": "Большой коричневый гриб",
+  "fieldguide.name.fieldguide.huge_red_mushroom": "Большой красный гриб",
+  "fieldguide.name.fieldguide.huge_crimson_fungus": "Большой багровый гриб",
+  "fieldguide.name.fieldguide.huge_warped_fungus": "Большой искаженный гриб",
+
+  "fieldguide.minecraft.oak_sapling.description": "Обычное дерево, встречающееся в различных биомах. Может вырасти в гораздо более крупный и привлекательный вид. Рядом с цветами они могут расти вместе с пчелиным гнездом.",
+  "fieldguide.minecraft.dark_oak_sapling.description": "У этих деревьев, растущих в темном лесу, стволы и ветви толще, что создает навес. Они пропускают достаточно света, чтобы в густом лесу было достаточно темно для появления враждебных мобов в дневное время.",
+  "fieldguide.minecraft.spruce_sapling.description": "Ели в основном встречаются в таежном биоме, но встречаются и в других более холодных биомах. Их также можно выращивать в виде больших деревьев. Еловые бревна имеют ту же текстуру, что и дубовые, но более темный оттенок коричневого.",
+  "fieldguide.minecraft.birch_sapling.description": "Это дерево, похожее по строению на дуб, чаще всего встречается в березовых лесах. Оно может вырасти низкорослым, но в старовозрастных березовых лесах его можно встретить и повыше. Находясь рядом с цветами, оно может расти вместе с пчелиным гнездом.",
+  "fieldguide.minecraft.jungle_sapling.description": "Вид деревьев, встречающийся в редких биомах джунглей. Может вырасти в большое дерево. Деревья в джунглях способны выращивать какао-бобы на своих стволах.",
+  "fieldguide.minecraft.acacia_sapling.description": "Акации встречаются в биоме саванны. Они довольно высокие, с диагональными стволами и иногда могут иметь несколько навесов.",
+  "fieldguide.minecraft.azalea_leaves.description": "Дерево обычно появляется на поверхности с корнями, состоящими из въевшейся грязи и свисающих корней, которые тянутся вниз, образуя пышную пещеру. Их можно вырастить из обычных или цветущих кустов азалии.",
+  "fieldguide.minecraft.mangrove_propagule.description": "Мангровые деревья встречаются в илистых мангровых болотах, растут в воде или на суше. Их выращивают из побегов, которые можно найти свисающими с деревьев.",
+  "fieldguide.minecraft.cherry_sapling.description": "Эти деревья растут в вишневых рощах. У них ярко выраженные розовые листья и горизонтально расположенные ветви. Иногда у них может быть несколько крон. Если они растут рядом с цветами, на них могут гнездиться пчелы.",
+  "fieldguide.minecraft.pale_oak_sapling.description": "У этих деревьев, произрастающих в бледном саду, стволы и ветви толще, что создает навес. На листьях растет бледный висячий мох. Иногда у этих деревьев может быть скрипучее сердце внутри.",
+  "fieldguide.fieldguide.huge_warped_fungus.description": "Разросшийся искаженный гриб, растущий в искаженном лесу. Они различаются по размеру от маленьких до массивных, иногда у них под бородавчатой шляпкой вырастают луковицы. Можно выращивать только на ниллиуме, сочетая его с костной мукой.",
+  "fieldguide.fieldguide.huge_crimson_fungus.description": "Багровый гриб, произрастающий в багровом лесу. Они различаются по размеру от маленьких до массивных, иногда из-под шляпки у них вырастают луковицы. Можно выращивать только на ниллиуме, сочетая его с костной мукой.",
+  "fieldguide.fieldguide.huge_brown_mushroom.description": "Высокий коричневый гриб с плоской верхушкой. Эти гиганты произрастают в темных лесах и на грибных полях. Их можно выращивать, используя только костную муку для коричневых грибов.",
+  "fieldguide.fieldguide.huge_red_mushroom.description": "Высокий красный гриб с колокольчатой шляпкой. Эти гиганты произрастают в темных лесах и на грибных полях. Их можно выращивать, используя только костную муку для красного гриба.",
+  "fieldguide.block.minecraft/chorus_plant.description": "Растительный покров, характерный для высокогорий островов Энда. Они образованы высокими, похожими на кораллы узорами.",
+
+  "fieldguide.atmospheric.aspen_sapling.description": "Home to the aspen parkland, these golden towering trees seems to watch from all sides. Don't worry though, they're harmless since the watchful logs are no different from regular logs. I think...",
+  "fieldguide.atmospheric.green_aspen_sapling.description": "Home to the aspen parkland, these lime green towering trees seems to watch from all sides. Don't worry though, they're harmless since the watchful logs are no different from regular logs. I think...",
+  "fieldguide.atmospheric.currant_seedling.description": "A thin and low hanging tree, found in the kousa jungle. Currants grow off the leaves and can be picked, but the only way to plant this tree is to have currants fall from the leaves onto the ground.",
+  "fieldguide.atmospheric.laurel_sapling.description": "Found in laurel forests, these short branching trees are rarely found with oranges. The saplings can be planted on sand, alongside grass, and grown as a thicker variant with four saplings.",
+  "fieldguide.atmospheric.dry_laurel_sapling.description": "Found in laurel forests or arid biomes, these short branching trees are rarely found with oranges. The saplings can be planted on sand, alongside grass, and grown as a thicker variant with four saplings.",
+  "fieldguide.atmospheric.morado_sapling.description": "A short, flowering tree primarily found in the rainforest. If grown by saplings, then the tree will be able to expand further outward. Bees may use the flowering leaves to pollinate.",
+  "fieldguide.atmospheric.kousa_sapling.description": "Home to the cold kousa jungle, these trees feature blue tone leaves and wood. Kousa tress are a decent size and branch out towards the top.",
+  "fieldguide.atmospheric.rosewood_sapling.description": "Rosewood's large size is due to the way it segments into other large branches, resulting in multiple tree top layers. This tree type is capable of enabling passion vines to grow passion fruit.",
+  "fieldguide.atmospheric.yucca_sapling.description": "A tree that thrives in dry biomes, these feature branching tops with an occasional small hanging branch bearing fruit, as well as unique flowers on the leaves. Yucca saplings can be planted on sand alongside grass.",
+  "fieldguide.atmospheric.grimwood_sapling.description": "A rare tree only found as a treasure sapling in the dunes. They only grow as a four sapling setup and feature a tall twisty trunk.",
+
+  "fieldguide.environmental.pine_sapling.description": "These trees are found in colder biomes. They are very tall, thin, and sometimes have knots. May rarely grow with a pinecone block.",
+  "fieldguide.environmental.willow_sapling.description": "In swamp biomes, willow trees are found. Vines hang off the leaves and are sometimes naturally seen growing in shallow water. Can grow into a larger variant.",
+  "fieldguide.environmental.cheerful_plum_sapling.description": "Cheerful plum trees are found in blossom biomes, and have very similar variants with two other plum trees. They are large and branch out diagonally with bulky canopies.",
+  "fieldguide.environmental.plum_sapling.description": "Plum trees are found in blossom biomes, and have very similar variants with two other plum trees. They are large and branch out diagonally with bulky canopies.",
+  "fieldguide.environmental.moody_plum_sapling.description": "Moody plum trees are found in blossom biomes, and have very similar variants with two other plum trees. They are large and branch out diagonally with bulky canopies.",
+  "fieldguide.environmental.pink_wisteria_sapling.description": "Found in the rare flower forest, pink wisterias are normally woody vines that grow up and branch out into three branch segments. Those segments hold colorful droopy leaves.",
+  "fieldguide.environmental.purple_wisteria_sapling.description": "Found in the rare flower forest, purple wisterias are normally woody vines that grow up and branch out into three branch segments. Those segments hold colorful droopy leaves.",
+  "fieldguide.environmental.blue_wisteria_sapling.description": "Found in the rare flower forest, blue wisterias are normally woody vines that grow up and branch out into three branch segments. Those segments hold colorful droopy leaves.",
+  "fieldguide.environmental.white_wisteria_sapling.description": "Found in the rare flower forest, white wisterias are normally woody vines that grow up and branch out into three branch segments. Those segments hold colorful droopy leaves.",
+
+  "fieldguide.autumnity.maple_sapling.description": "A green variant of the maple tree found in forests or maple biomes. Sap can be uncovered from stripping logs, which can be collected using bottles. When near flowers, they may grow with a bee nest.",
+  "fieldguide.autumnity.orange_maple_sapling.description": "An orange variant of the maple tree found in forests or maple biomes. Sap can be uncovered from stripping logs, which can be collected using bottles. When near flowers, they may grow with a bee nest.",
+  "fieldguide.autumnity.red_maple_sapling.description": "A red variant of the maple tree found in forests or maple biomes. Sap can be uncovered from stripping logs, which can be collected using bottles. When near flowers, they may grow with a bee nest.",
+  "fieldguide.autumnity.yellow_maple_sapling.description": "A yellow variant of the maple tree found in forests or maple biomes. Sap can be uncovered from stripping logs, which can be collected using bottles. When near flowers, they may grow with a bee nest.",
+
+  "advancements.fieldguide.root.title": "Полевое руководство",
+  "advancements.fieldguide.root.description": "Получите подзорную трубу, чтобы начать свое путешествие",
+  "advancements.fieldguide.first_discovery.title": "О как!",
+  "advancements.fieldguide.first_discovery.description": "Сделайте свое первое открытие",
+  "advancements.fieldguide.mushroom_collector.title": "Грибы для хорошего настроения",
+  "advancements.fieldguide.mushroom_collector.description": "Откройте для себя все четыре вида огромных грибов",
+  "advancements.fieldguide.animal_expert.title": "Фантастические твари",
+  "advancements.fieldguide.animal_expert.description": "Заполните раздел с животными в вашем полевом руководстве",
+  "advancements.fieldguide.monster_hunter.title": "Ведьмак",
+  "advancements.fieldguide.monster_hunter.description": "Заполните категорию с монстрами в вашем полевом руководстве",
+  "advancements.fieldguide.tree_hugger.title": "Природа зовет",
+  "advancements.fieldguide.tree_hugger.description": "Заполните раздел с растениями в вашем полевом руководстве",
+  "advancements.fieldguide.enderman_scan.title": "Игра в гляделки",
+  "advancements.fieldguide.enderman_scan.description": "Просканируйте Эндермена. Постарайся не моргать",
+  "advancements.fieldguide.invisible_scan.title": "Ты меня не видишь",
+  "advancements.fieldguide.invisible_scan.description": "Просканируйте невидимых мобов",
+  "advancements.fieldguide.gem_alert.title": "Предупреждение о драгоценном камне",
+  "advancements.fieldguide.gem_alert.description": "Просканируйте мобов в радиусе 2 блоков от нее",
+  "advancements.fieldguide.let_him_cook.title": "Пусть готовит",
+  "advancements.fieldguide.let_him_cook.description": "Просканируйте моба, который находится в огне",
+  "advancements.fieldguide.quick_review.title": "Я не хочу играть с тобой",
+  "advancements.fieldguide.quick_review.description": "Просканируйте моба и затем немедленно убейте его",
+
+  "fieldguide.journal.default": "Здесь могла быть ваша запись",
+
+  "fieldguide.hint.default": "Наблюдайте в подзорную трубу, чтобы узнать детали.",
+  "fieldguide.hint.kill": "Победите это существо, чтобы узнать детали.",
+  "fieldguide.hint.eat": "Съешьте этот продукт, чтобы узнать детали.",
+  "fieldguide.hint.obtain": "Получите это в свой инвентарь, чтобы узнать детали.",
+  "fieldguide.hint.no_spyglass": "Внимательно наблюдайте за этим, чтобы узнать детали.",
+  
+  "fieldguide.undead_unleashed.dreadknight.description": "Враждебный моб-нежить появляющийся в тёмных местах или ночью. Рыцарь способен блокировать ваши атаки, а так же совершает серию ударов после того как опустит щит.",
+  "fieldguide.undead_unleashed.haunter.description": "Летающий враждебный моб-нежить появляющийся в тёмных местах или ночью. Способен сильно напугать ничего не подозревающего игрока.",
+  "fieldguide.undead_unleashed.shadewraith.description": "Летающий враждебный моб-нежить появляющийся в тёмных местах или ночью. При атаке накладывает эффект ослепления.",
+  "fieldguide.undead_unleashed.flamebreather.description": "Очень сильный враждебный моб появляющийся в аду. Его огненные атаки способны испепелить любого, кто окажется на его территории.",
+  "fieldguide.born_in_chaos_v1.nightmare_stalker.description": "Опасный враждебный моб появляющийся ночью. Начиная с третьей ночи, появляется шанс встретить этого монстра. Будьте внимательны, изначально у кошмара видны только светящиеся глаза и только после нападения он раскроет свою истинную форму.",
+  "fieldguide.born_in_chaos_v1.decrepit_skeleton.description": "Враждебный моб-нежить не представляющий из себя угрозы.",
+  "fieldguide.born_in_chaos_v1.phantom_creeper.description": "Враждебный моб, очень похож на обычного крипера, но при первой атаке по монстру он создает свою копию.",
+  "fieldguide.born_in_chaos_v1.dread_hound.description": "Враждебный моб обычно появляющийся в стае других гончих.",
+  "fieldguide.born_in_chaos_v1.dire_hound_leader.description": "Враждебный моб являющийся лидером ужасных гончих. Способен призывать на помощь новых гончих.",
+  "fieldguide.born_in_chaos_v1.thornshell_crab.description": "Нейтральный моб появляющийся на каменистых или песчанных берегах океана. У колючего краба встроенное зачарование шипы.",
+  "fieldguide.born_in_chaos_v1.lifestealer.description": "Мини босс-нежить которого можно встретить после десятой ночи. Изначально скрыт под мантией, способен заметить вас на расстоянии 100 блоков. После совершения атаки или получения урона раскрывает свою истинную форму.",
+  "fieldguide.born_in_chaos_v1.krampus_henchman.description": "Маленькие, надоедливые враждебные мобы появляющиеся в холодных биомах или если вы плохо себя вели. При атаке, приспешники способны выбивать у вас из рук оружие.",
+  "fieldguide.born_in_chaos_v1.krampus.description": "Мини босс, которого очень редко можно встретить в холодных биомах после десятой ночи. Его можно заставить его прийти за вами, если накопить достаточное количество очков озорства. Крампус очень сильный противник, который способен выбивать из ваших рук все предметы, а так же призывать своих приспешников.",
+  "fieldguide.born_in_chaos_v1.sir_pumpkinhead.description": "Мини босс, которого можно призвать, если уничтожить специальную тыкву, окружённую свечами. У мини босса есть 3 фазы боя.",
+  "fieldguide.born_in_chaos_v1.lord_pumpkinhead.description": "Усиленная версия босса Сэра Тыквоголового, которого можно призвать, если нажать по специальной тыкве Трансмутирующим элексиром. У босса есть 3 фазы боя.",
+  "fieldguide.born_in_chaos_v1.glutton_fish.description": "Враждебный моб, который обитает в океанах. Укус этой опасной рыбины может переломать вам кости.",
+  "fieldguide.cataclysm.ender_guardian.description": "Босс, которого можно встретить в разрушенной цитадели Энда. Страж способен создавать руны пустоты, телепортироваться для нанесения мощной атаки, а так же притягивать Избранного к себе.",
+  "fieldguide.cataclysm.ender_golem.description": "Мини босс, который является защитником босса Страж Края. Голема можно встретить в разрушенной цитадели Энда.",
+  "fieldguide.cataclysm.netherite_monstrosity.description": "Босс, которого можно встретить в структуре Кузница душ в аду. Это огромное существо состоит из незерита, лавы и чернита.",
+  "fieldguide.cataclysm.ignis.description": "Один из самых сильных боссов Нового мира, которого можно встретить в пылающей арене. Игнис использует механику масштабирования урона, который зависит от максимального здоровья Избранного.",
+  "fieldguide.cataclysm.the_harbinger.description": "Механический босс верхнего мира, который появляется в здании древней фабрики глубоко под землей. Для активации Предвестника требуется сила Звезды незера.",
+  "fieldguide.cataclysm.the_leviathan.description": "Самый сильный босс подводного мира. Голова дракона прикрепленная к рыбьему хвосту и четыре угрожающих щупальца скрывают его истинную форму.",
+  "fieldguide.cataclysm.amethyst_crab.description": "Очень редкий нейтральный мини босс, который встречается в биомах пышных пещер.",
+  "fieldguide.cataclysm.ancient_remnant.description": "Босс внушительных размеров, которого можно найти в проклятой пирамиде. Для активации древнего скелета необходимо отыскать ожерелье пустыни и вернуть его законному владельцу.",
+  "fieldguide.cataclysm.maledictus.description": "Опасный босс-нежить, которого запечатали в проклятом надгробии. Когда то был надзирателем тюремных камер, теперь же сам стал заключённым. Тот самый роковой день всё изменил...",
+  "fieldguide.cataclysm.scylla.description": "Императрица бурь - это босс, которого можно найти в центре Акрополя подводного храма. Она заключена в якоре, что является ключом к духу Сциллы.",
+  "fieldguide.cataclysm.koboleton.description": "Самый распространенный враждебный моб проклятой пирамиды, который атакует и обезоруживает любого кто вторгается в их владения.",
+  "fieldguide.cataclysm.wadjet.description": "Враждебный моб обитающий в проклятой пирамиде. Судя по всему эта змея хранит нечто ценное в подозрительных песках.",
+  "fieldguide.cataclysm.kobolediator.description": "Один из самых грозных мини боссов Верхнего мира. Приблизившись к нему он с большим удовольствием демонстрирует свою древнюю силу.",
+  "fieldguide.cataclysm.coralssus.description": "Враждебный водный моб, обитающий в затонувшем городе. Победа над кораллусом открывает перед исследователем доступ к Жертве для Бездны.",
+  "fieldguide.cataclysm.deepling_brute.description": "Враждебный водный моб, обитающий в океане. Этот монстр относится к классу глубинников, которые поселились в затонувшем городе.",
+  "fieldguide.cataclysm.deepling_priest.description": "Враждебный водный моб, обитающий в затонувшем городе и океане. По всей видимости Жрецы-глубинники что то знают о ритуалах позволяющие призывать древнего Левиафана.",
+  "fieldguide.cataclysm.deepling_warlock.description": "Враждебный водный моб, обитающий в затонувшем городе и океане. По слухам от местных рыбаков, именно Жертва для Бездны позволяет призвать древнего Левиафана возле Алтаря Бездны.",
+  "fieldguide.cataclysm.ignited_berserker.description": "Враждебный моб, обитающий в пылающей арене. Его убийство открывает доступ к пылающему пеплу.",
+  "fieldguide.cataclysm.ignited_revenant.description": "Очень опасный враждебный моб, обитающий в пылающей арене. Пылающий пепел позволяет призвать босса Игниса у Алтаря огня.",
+  "fieldguide.cataclysm.aptrgangr.description": "Мини босс-нежить, которого можно найти в тюремных камерах северных регионов. Странный ключ открывает двери в проклятый зал к Маледиктусу.",
+  "fieldguide.clanginghowl.heart_of_decay.description": "Нет информации.",
+  "fieldguide.clanginghowl.extraterrestrial_reaper.description": "Нет информации.",
+  "fieldguide.clanginghowl.flesh_maiden.description": "Нет информации.",
+  "fieldguide.incision.seer.description": "Нет информации.",
+  "fieldguide.incision.purger.description": "Нет информации.",
+  "fieldguide.warriorsofpastepoch.skeleton_musketeer.description": "Враждебный моб-нежить, который может появится ночью или в крепости мушкетёра. Стреляет из своего мушкета нанося огромный урон при попадании.",
+  "fieldguide.warriorsofpastepoch.scavenger_rat.description": "Нейтральный моб, который появляется естественным образом в мире или в заброшенном доме. При атаке накладывает эффект заболеваемости.",
+  "fieldguide.royalvariations.royal_zombie.description": "Враждебный моб-нежить, который появляется в естественных условиях ночью. Способен призывать на свою сторону зомби, а так же усиливать их, выдавая броню.",
+  "fieldguide.royalvariations.royal_skeleton.description": "Враждебный моб-нежить, который появляется в естественных условиях ночью. Атакует мощными выстрелами, которые сильно отбрасывают цель.",
+  "fieldguide.royalvariations.royal_creeper.description": "Враждебный моб, который появляется в естественных условиях ночью. Атакует так же как и обычный крипер, но после смерти оставляет ядовитое облако.",
+  "fieldguide.royalvariations.royal_enderman.description": "Редкий враждебный моб, который появляется в естественных условиях. Использует атаки обычного эндермена, а так же накладывает негативные эффекты, один из которых делает агрессивными других эндерменов вокруг.",
+  "fieldguide.gnumus.gnumus_merchant.description": "Нейтральный моб, которого можно встретить в небольшом лагере Верхнего мира. Торгуется с Избранным за дублоны.",
+  "fieldguide.gnumus.gnumus_shaman.description": "Враждебный моб, который является главой племени гнумусов. Можно встретить в поселениях гнумусов.",
+  "fieldguide.legendarycreatures.hound.description": "Враждебный моб, который спавнится во многих биомах Верхнего мира. Если вовремя не обратить внимание на Гончую, то она очень быстро настигнет вас и застанет врасплох. При смерти дропает кожу и фрагмент сердца земли.",
+  "fieldguide.legendarycreatures.bullfrog.description": "Враждебный моб, который спавнится на болотах. Способен притягивать к себе добычу, а так же отравляет при атаке.",
+  "fieldguide.born_in_chaos_v1.maggot.description": "Фу! Какая мерзость.",
+  "fieldguide.mowziesmobs.elokosa_follower_howler.description": "Мирные мобы днем и враждебные ночью. Боятся Избранного, когда тот приближается к ним днём, но выходят на охоту с наступлением ночи."
+}

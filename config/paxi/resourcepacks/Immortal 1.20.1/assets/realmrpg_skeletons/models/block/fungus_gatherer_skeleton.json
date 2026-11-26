@@ -1,0 +1,9 @@
+{
+  "parent": "realmrpg_skeletons:custom/fungus_gatherer_skeleton",
+  "textures": {
+    "all": "realmrpg_skeletons:block/wither_skeleton_particles",
+    "particle": "realmrpg_skeletons:block/wither_skeleton_particles",
+    "0": "realmrpg_skeletons:block/wither_skeleton"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "ancient_forgemastery:wolf_fur"
+    },
+    "b": {
+      "item": "cataclysm:ancient_metal_nugget"
+    },
+    "c": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "d": {
+      "item": "ancient_forgemastery:remnant_artifact"
+    }
+  },
+  "result": {
+    "item": "ancient_forgemastery:howling_helmet",
+    "count": 1
+  }
+}

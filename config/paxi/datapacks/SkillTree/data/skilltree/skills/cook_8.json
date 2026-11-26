@@ -1,0 +1,42 @@
+{
+  "id": "skilltree:cook_8",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:max_mana",
+      "id": "33b790c3-a5e5-4a89-a3f5-3e487250a83f",
+      "name": "Skill",
+      "amount": 40.0,
+      "operation": 0
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "skilltree:cook_5"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/alchemist_crit_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "title": "Поток маны",
+  "titleColor": "E3D4D1",
+  "positionX": -31.175764,
+  "positionY": 54.0,
+  "buttonSize": 16,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "f_131102_": false,
+      "f_131103_": false,
+      "f_131104_": false,
+      "f_131105_": false,
+      "f_131106_": false,
+      "text": "+40 к запасу маны"
+    }
+  ]
+}

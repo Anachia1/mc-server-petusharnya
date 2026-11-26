@@ -1,0 +1,46 @@
+{
+  "id": "skilltree:chaos_50",
+  "bonuses": [
+    {
+      "type": "skilltree:healing",
+      "chance": 1.0,
+      "amount": 1.0,
+      "event_listener": {
+        "damage_condition": {
+          "type": "skilltree:none"
+        },
+        "type": "skilltree:on_kill"
+      },
+      "percentage_healing": false
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "skilltree:chaos_53"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/reanimation.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "title": "Поглощение жизни",
+  "titleColor": "E3D4D1",
+  "positionX": -62.351524,
+  "positionY": 107.99999,
+  "buttonSize": 16,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "f_131102_": false,
+      "f_131103_": false,
+      "f_131104_": false,
+      "f_131105_": false,
+      "f_131106_": false,
+      "text": "Вы восстанавливаете 1 здоровье при убийстве"
+    }
+  ]
+}

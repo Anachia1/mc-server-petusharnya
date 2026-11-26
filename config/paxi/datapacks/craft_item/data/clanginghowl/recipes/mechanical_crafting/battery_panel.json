@@ -1,0 +1,33 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "P": {
+      "item": "clanginghowl:extraterrestrial_steel_plate"
+    },
+    "C": {
+      "item": "create:copper_sheet"
+    },
+    "E": {
+      "item": "clanginghowl:energy_battery"
+    },
+    "R": {
+      "item": "clanginghowl:redstone_wire"
+    },
+    "D": {
+      "item": "clanginghowl:diamond_diode"
+    },
+    "M": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    " RR",
+    "DCC",
+    "EMC",
+    "CPP"
+  ],
+  "result": {
+    "item": "clanginghowl:battery_panel"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nG ",
+        "GRG",
+        " Gn"
+    ],
+    "key": {
+        "n": {
+            "item": "cataclysm:witherite_ingot"
+        },
+        "G": {
+            "item": "clanginghowl:extraterrestrial_steel_ingot"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        }
+    },
+    "result": {
+        "item": "cataclysm:wither_assault_shoulder_weapon",
+        "count": 1
+    }
+}

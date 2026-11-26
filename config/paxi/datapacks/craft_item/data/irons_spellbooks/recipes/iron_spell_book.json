@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CLL",
+    "CSA",
+    "CLL"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:chain"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "A": {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    "S": {
+      "item": "irons_spellbooks:copper_spell_book"
+    }
+  },
+  "result": { "item": "irons_spellbooks:iron_spell_book",
+    "count": 1
+  }
+}

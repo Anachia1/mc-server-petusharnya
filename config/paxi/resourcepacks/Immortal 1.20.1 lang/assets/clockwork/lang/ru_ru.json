@@ -1,0 +1,27 @@
+{
+  "packet.clockwork.client_message.is_flying": "%1$s теперь он летит",
+  "packet.clockwork.client_message.is_walking": "%1$s теперь он ходит",
+
+  "key.clockwork.toggle_dragonfly_flight": "Переключение режима полета стрекозы",
+  "key.categories.clockwork": "Часовой механизм",
+
+  "creativetab.clockwork.title": "Clockwork",
+
+  "item.clockwork.clockwork_gear": "Латунная шестерня",
+  "item.clockwork.crossbow_barrel": "Ствол арбалета",
+  "item.clockwork.clockwork_arrow": "Латунная стрела",
+  "item.clockwork.barrel_crossbow": "Автоматический арбалет",
+  "item.clockwork.scope_crossbow": "Арбалет с оптическим прицелом",
+  "item.clockwork.clockwork_potion_sprayer": "Распылитель зелий",
+  "item.clockwork.clockwork_flamethrower": "Огнемёт",
+  "item.clockwork.clockwork_wings": "Заводные крылья",
+  "item.clockwork.clockwork_drill": "Самоходная дрель",
+
+  "entity.clockwork.dragonfly": "Механическая стрекоза",
+  "entity.clockwork.broken_dragonfly": "Сломанная механическая стрекоза",
+  "entity.clockwork.clockwork_drill": "Самоходная дрель",
+
+  "message.clockwork.broken_drill": "Вам нужно использовать %1$d латунную шестерню%2$s чтобы починить самоходную дрель",
+  "message.clockwork.broken_drill_repaired": "Самоходная дрель отремонтирована!"
+
+}

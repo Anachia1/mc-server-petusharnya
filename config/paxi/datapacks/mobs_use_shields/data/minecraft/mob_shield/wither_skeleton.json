@@ -1,0 +1,8 @@
+{
+  "use_duration": 60,
+  "cooldown_duration": 50,
+  "check_continue_to_use_interval": 30,
+  "shield_id": "minecraft:shield",
+  "chance": 0.2,
+  "min_difficulty": 1.5
+}

@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cataclysm"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "cataclysm:witherite_ingot"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "item": "cataclysm_spellbooks:mechanical_scrap"
+    },
+    {
+      "chance": 0.75,
+      "item": "cataclysm_spellbooks:mechanical_scrap"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

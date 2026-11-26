@@ -1,0 +1,51 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "ISPSI",
+    "SACAS",
+    "POBOP",
+    "SACAS",
+    "ISPSI"
+  ],
+  "key": {
+    "A": [
+      {
+        "item": "clanginghowl:extraterrestrial_energy_crystal"
+      }
+    ],
+    "C": [
+      {
+        "item": "enigmaticlegacy:cosmic_heart"
+      }
+    ],
+    "O": [
+      {
+        "item": "legendary_monsters:portal_shard"
+      }
+    ],
+    "S": [
+      {
+        "item": "clanginghowl:fireproof_steel_coating"
+      }
+    ],
+    "B": [
+      {
+        "item": "minecraft:totem_of_undying"
+      }
+    ],
+    "P": [
+      {
+        "item": "cataclysm_spellbooks:mechanical_scrap"
+      }
+    ],
+    "I": [
+      {
+        "item": "create_unbreakable:irromolding"
+      }
+    ]
+  },
+  "result": {
+    "item": "enigmaticlegacy:the_cube"
+  },
+  "acceptMirrored": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "skilltree:chaos_61",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "cataclysm_spellbooks:technomancy_spell_power",
+      "id": "71e25469-aadf-4b99-a819-9b8976bc1a1b",
+      "name": "Skill",
+      "amount": 0.3,
+      "operation": 1
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:spell_resist",
+      "id": "63b26bbd-c2b3-4589-9129-1331bab9a34d",
+      "name": "Skill",
+      "amount": 0.1,
+      "operation": 1
+    }
+  ],
+  "requirements": [],
+  "directConnections": [],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/hematoma_lump.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "title": "Техрот",
+  "titleColor": "FF5555",
+  "positionX": 31.176,
+  "positionY": 126.002,
+  "buttonSize": 20,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": "+30% к силе техномагических заклинаний"
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": "+10% к сопротивлению заклинаниям"
+    }
+  ]
+}

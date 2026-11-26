@@ -1,0 +1,14 @@
+{
+  "block_names": {
+    "minecraft:jungle_leaves": {"chance": 0.015}
+  },
+  "block_tags": {},
+  "entity_names": {},
+  "entity_type_tags": {},
+  "black_list": {
+    "block_names": [],
+    "block_tags": [],
+    "entity_names": [],
+    "entity_type_tags": []
+  }
+}

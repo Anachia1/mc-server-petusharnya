@@ -1,0 +1,1040 @@
+{
+	autofocus_id: "07DC86D4E10C6DD1"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3D461515454BA2C3"
+	group: "6A47EDB7EAF302F4"
+	icon: "dummmmmmy:target_dummy"
+	id: "3D461515454BA2C3"
+	images: [
+		{
+			height: 1.5d
+			image: "ftbquests:textures/engineer.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 2.5d
+			y: -3.3d
+		}
+		{
+			height: 1.5d
+			image: "ftbquests:textures/fallen.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 2.5d
+			y: 3.3d
+		}
+		{
+			height: 1.5d
+			image: "ftbquests:textures/mage.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.5d
+			image: "ftbquests:textures/fallen_1.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.5d
+			image: "ftbquests:textures/engineer_1.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -2.5d
+			y: -3.3d
+		}
+		{
+			height: 1.5d
+			image: "ftbquests:textures/mage_1.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -2.5d
+			y: 3.3d
+		}
+		{
+			height: 1.5d
+			image: "ftbquests:textures/chaos.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: -8.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Идеально овладев своим оружием, вы сможете с легкотью побеждать врагов и достигать любых целей. Поэтому создание &6манекена&r очень важно в овладении любым видом оружия."
+				""
+				"&o&7Улучшайте свое классовое снаряжение на Алтаре преобразования. На легендарном уровне, снаряжение становится неразрушаемым!&r&r"
+			]
+			icon: "dummmmmmy:target_dummy"
+			id: "07DC86D4E10C6DD1"
+			min_width: 300
+			rewards: [
+				{
+					id: "3842E39A602E186D"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "56F60F322CA5C577"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "combatroll:acrobat"
+								lvl: 10s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			subtitle: "Создать манекен и алтарь преобразования"
+			tasks: [
+				{
+					id: "00BF760F9EBF503B"
+					item: "dummmmmmy:target_dummy"
+					type: "item"
+				}
+				{
+					id: "7DE117FDCDB50BB4"
+					item: "immortalskills:altar_block"
+					type: "item"
+				}
+			]
+			title: "Бесподобный дуэлянт"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["07DC86D4E10C6DD1"]
+			description: [
+				"Одержимый своей работой, истинный учёный посвящает свою жизнь изучению тайн, которые уже много десятилетий занимают лучшие умы современности. Ещё никому не удавалось так близко подойти к раскрытию тайны обретения &6Бессмертия&r."
+				""
+				"&6Способность брони на редком уровне:&r"
+				"Каждые несколько секунд в случайном месте недалеко от вас, появляется шестеренка. Если её подобрать, то вы получите эффект поглощения "
+				""
+				"&o&7Размещайте самоцветные блоки вокруг алтаря преобразования подобно книжным полкам вокруг стола зачарований, чтобы повышать шанс успешного улучшения вашего снаряжения.&r&r"
+			]
+			icon: {
+				Count: 1
+				id: "immortalskills:engineer_helmet"
+				tag: {
+					Damage: 0
+					ItemRarity: "COMMON"
+				}
+			}
+			id: "66D16FD9DD6C9C5F"
+			min_width: 300
+			rewards: [
+				{
+					id: "273ABB3F3245410D"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 3
+					id: "3DAF23FFABED90B5"
+					item: "immortalskills:raw_gem"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "Получить полный комплект брони изобретателя"
+			tasks: [
+				{
+					id: "019972FD0B2A35DA"
+					item: {
+						Count: 1
+						id: "immortalskills:engineer_helmet"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "42D5181333C4B938"
+					item: {
+						Count: 1
+						id: "immortalskills:engineer_chestplate"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7668B9BB62C25799"
+					item: {
+						Count: 1
+						id: "immortalskills:engineer_leggings"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2BF6C3C0896F7322"
+					item: {
+						Count: 1
+						id: "immortalskills:engineer_boots"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "67C5FE63FBB0DFA3"
+					item: "immortalskills:gem_block"
+					type: "item"
+				}
+				{
+					id: "1AC3041B05F6BC7C"
+					item: {
+						Count: 1
+						id: "immortalskills:engineer_staff"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Изобретатель"
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["07DC86D4E10C6DD1"]
+			description: [
+				"Посвящая свою жизнь прогрессу и развитию технологий, &6Вестник&r улучшает жизнь своего народа. Он верит, что только великая эволюция способна раскрыть весь потенциал человечества."
+				""
+				"&6Способность брони на редком уровне:&r"
+				"Каждые 20 секунд, вы получаете щит, который блокирует любой урон, но только один раз"
+				""
+				"&o&7Размещайте самоцветные блоки вокруг алтаря преобразования подобно книжным полкам вокруг стола зачарований, чтобы повышать шанс успешного улучшения вашего снаряжения.&r&r"
+			]
+			icon: {
+				Count: 1
+				id: "immortalskills:fallen_messenger_helmet"
+				tag: {
+					Damage: 0
+					ItemRarity: "COMMON"
+				}
+			}
+			id: "730DDEDD3CDC62B6"
+			min_width: 300
+			rewards: [
+				{
+					id: "0B7540FEC61577B6"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 3
+					id: "323473DE6578A834"
+					item: "immortalskills:raw_gem"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "Получить полный комплект брони падшего вестника"
+			tasks: [
+				{
+					id: "3D357A05C5289C92"
+					item: {
+						Count: 1
+						id: "immortalskills:fallen_messenger_helmet"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "36CED6B0E6E95471"
+					item: {
+						Count: 1
+						id: "immortalskills:fallen_messenger_chestplate"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4DAAD934B644C505"
+					item: {
+						Count: 1
+						id: "immortalskills:fallen_messenger_leggings"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0EC44045DAFDCFC1"
+					item: {
+						Count: 1
+						id: "immortalskills:fallen_messenger_boots"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "40401655BE4985CA"
+					item: "immortalskills:gem_block"
+					type: "item"
+				}
+				{
+					id: "7E8021772DFEF303"
+					item: {
+						Count: 1
+						id: "immortalskills:fallen_messenger_hammer"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Падший вестник"
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["07DC86D4E10C6DD1"]
+			description: [
+				"Сущность, что наполнена болью и яростью, вот уже несколько тысячелетий находится в заточении древнего артефакта. Только тот кто наденет &6Кольцо Семи проклятий&r способен освободить и получить её силу."
+				""
+				"&6Способность брони на редком уровне:&r"
+				"Эндермены нейтральны к вам"
+				"При получении урона вокруг вас появляется область тьмы, которая иссушает и замедляет врагов внутри"
+				""
+				"&6Способность брони на эпическом уровне:&r"
+				"Эндермены нейтральны к вам"
+				"При получении урона вокруг вас появляется область тьмы, которая иссушает и замедляет врагов внутри."
+				"Так же вы получаете эффект тёмного оберега пока находитесь внутри этой области"
+				""
+				"&o&7Размещайте самоцветные блоки вокруг алтаря преобразования подобно книжным полкам вокруг стола зачарований, чтобы повышать шанс успешного улучшения вашего снаряжения.&r&r"
+			]
+			icon: {
+				Count: 1
+				id: "immortalskills:unholy_knight_helmet"
+				tag: {
+					Damage: 0
+					ItemRarity: "COMMON"
+				}
+			}
+			id: "3DABE2FE4FD91861"
+			min_width: 300
+			rewards: [
+				{
+					id: "2D23184DF06D6321"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 3
+					id: "512B5B284898948A"
+					item: "immortalskills:raw_gem"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "Получить полный комплект брони нечестивого рыцаря"
+			tasks: [
+				{
+					id: "229C405AB8D77579"
+					item: {
+						Count: 1
+						id: "immortalskills:unholy_knight_helmet"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D3F8A5A8086C479"
+					item: {
+						Count: 1
+						id: "immortalskills:unholy_knight_chestplate"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "02F524A49A2A8AB0"
+					item: {
+						Count: 1
+						id: "immortalskills:unholy_knight_leggings"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1864F90983F2FF8F"
+					item: {
+						Count: 1
+						id: "immortalskills:unholy_knight_boots"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "511D9B35ACD6E407"
+					item: "immortalskills:gem_block"
+					type: "item"
+				}
+				{
+					id: "0C5A146B4979B690"
+					item: {
+						Count: 1
+						id: "immortalskills:unholy_knight_mace"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Нечестивый рыцарь"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["07DC86D4E10C6DD1"]
+			description: [
+				"Новый мир находится под угрозой уничтожения. Последнюю линию обороны удерживают &6два величайших мага&r, один из которых пожертвовал своим рассудком, ради обретения запретной силы, ранее не доступной простым смертным."
+				""
+				"&6Способность брони на редком уровне:&r"
+				"Каждый раз когда вы используете заклинание, то призывается дух защитник, который блокирует любую атаку один раз, при этом тратится 30 маны. Если использовать заклинание потусторонья, то призыв будет без затрат маны"
+				""
+				"&o&7Размещайте самоцветные блоки вокруг алтаря преобразования подобно книжным полкам вокруг стола зачарований, чтобы повышать шанс успешного улучшения вашего снаряжения.&r&r"
+			]
+			icon: {
+				Count: 1
+				id: "immortalskills:cursed_mage_helmet"
+				tag: {
+					Damage: 0
+					ItemRarity: "COMMON"
+				}
+			}
+			id: "10D7AA65382B5880"
+			min_width: 300
+			rewards: [
+				{
+					id: "52652EC5D64E8203"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 3
+					id: "2CB4CDB5AEBAC789"
+					item: "immortalskills:raw_gem"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "Получить полный комплект брони проклятого мага"
+			tasks: [
+				{
+					id: "590FD7F0FB74295C"
+					item: {
+						Count: 1
+						id: "immortalskills:cursed_mage_helmet"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "042C665F81F6952B"
+					item: {
+						Count: 1
+						id: "immortalskills:cursed_mage_chestplate"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3EE8BE2CE29FC91F"
+					item: {
+						Count: 1
+						id: "immortalskills:cursed_mage_leggings"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3045B2B612816A67"
+					item: {
+						Count: 1
+						id: "immortalskills:cursed_mage_boots"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "62CB1611C86DC069"
+					item: "immortalskills:gem_block"
+					type: "item"
+				}
+				{
+					id: "35E87206B2EE99C0"
+					item: {
+						Count: 1
+						id: "immortalskills:cursed_mage_staff"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Проклятый маг"
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["07DC86D4E10C6DD1"]
+			description: [
+				"Аристократия &6тёмного ордена&r вот уже несколько веков строит планы по управлению миром. Их цель - это получить полный контроль над всеми существующими расами &7Нового мира&r и обрести &7Бессмертие&r. Многие, кто всупают в эту организацию, носят маски, чтобы скрывать своё истинное лицо. Здесь нельзя никому доверять."
+				""
+				"&6Способности брони на редком уровне:&r"
+				"Когда на вас есть эффект дурного знамения, то разбойники к вам нейтральны"
+				"Крестьяне вас боятся и больше не торгуют"
+				"В вашу броню встроен тотем бессмертия"
+				""
+				"&o&7Размещайте самоцветные блоки вокруг алтаря преобразования подобно книжным полкам вокруг стола зачарований, чтобы повышать шанс успешного улучшения вашего снаряжения.&r&r"
+			]
+			icon: {
+				Count: 1
+				id: "immortalskills:dark_orden_inquisitor_helmet"
+				tag: {
+					Damage: 0
+					ItemRarity: "COMMON"
+				}
+			}
+			id: "36FC7AB983617468"
+			min_width: 300
+			rewards: [
+				{
+					id: "2FAADA1CEEE8018B"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 3
+					id: "550BB9AF4216C4A7"
+					item: "immortalskills:raw_gem"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "Получить полный комплект брони инквизитора"
+			tasks: [
+				{
+					id: "37839F3EFD71545F"
+					item: {
+						Count: 1
+						id: "immortalskills:dark_orden_inquisitor_helmet"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "24437C16CB11AC87"
+					item: {
+						Count: 1
+						id: "immortalskills:dark_orden_inquisitor_chestplate"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0EAB8CBB6270C75B"
+					item: {
+						Count: 1
+						id: "immortalskills:dark_orden_inquisitor_leggings"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4516C22F0F6F8E44"
+					item: {
+						Count: 1
+						id: "immortalskills:dark_orden_inquisitor_boots"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2E3C16C1DE3E15AD"
+					item: "immortalskills:gem_block"
+					type: "item"
+				}
+				{
+					id: "690A948C5531F77B"
+					item: {
+						Count: 1
+						id: "immortalskills:inquisitor_sword"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Инквизитор"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["07DC86D4E10C6DD1"]
+			description: [
+				"Задолго до возникновения угрозы &7Новому миру&r, &6Верховный маг&r узнал о существовании рун, что способны наделять любого невероятной силой. Именно поэтому его главная задача это скрывать их от лишних глаз ради сохранения мира."
+				""
+				"&6Способность брони на редком уровне:&r"
+				"Каждые 10 секунд вокруг вас появляется щит маны, который блокирует урон от ближней атаки. Максимально можно получить 2 щита. Каждый щит требует 60 маны"
+				""
+				"&o&7Размещайте самоцветные блоки вокруг алтаря преобразования подобно книжным полкам вокруг стола зачарований, чтобы повышать шанс успешного улучшения вашего снаряжения.&r&r"
+			]
+			icon: {
+				Count: 1
+				id: "immortalskills:elder_wizard_helmet"
+				tag: {
+					Damage: 0
+					ItemRarity: "COMMON"
+				}
+			}
+			id: "4B33FC0DC77061B1"
+			min_width: 300
+			rewards: [
+				{
+					id: "66B26FBF6FF150C8"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 3
+					id: "5202A04B1E58DB41"
+					item: "immortalskills:raw_gem"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "Получить полный комплект брони верховного мага"
+			tasks: [
+				{
+					id: "5B089B70ED5147D9"
+					item: {
+						Count: 1
+						id: "immortalskills:elder_wizard_helmet"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "164E722ACB2A6164"
+					item: {
+						Count: 1
+						id: "immortalskills:elder_wizard_chestplate"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "15FEE80EA429FEC7"
+					item: {
+						Count: 1
+						id: "immortalskills:elder_wizard_leggings"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3AE5E7080FC1E6E8"
+					item: {
+						Count: 1
+						id: "immortalskills:elder_wizard_boots"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "035165ADDCA9D192"
+					item: "immortalskills:gem_block"
+					type: "item"
+				}
+				{
+					id: "07E394B7C6810840"
+					item: {
+						Count: 1
+						id: "immortalskills:elder_wizard_book"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Верховный маг"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"10D7AA65382B5880"
+				"4B33FC0DC77061B1"
+			]
+			description: [
+				"Когда то давно группа археологов и шахтеров наткнулась на странные &6самоцветы&r, что излучали магическую энергию пустоты. Их сила настолько велика, что они способны наделять некоторые виды брони и оружия новыми свойствами."
+				""
+				"&o&7Разместите на алтаре преобразования классовое снаряжение, поместите 4 самоцвета и требуемые ингридиенты. Спустя несколько секунд ваше снаряжение с некоторым шансом будет улучшено. Соберите все части брони, чтобы при ее ношении получить мощные способности. Максимально можно улучшать до легендарного снаряжения.&r"
+			]
+			hide_until_deps_complete: true
+			id: "57777E1BE0757C0F"
+			min_width: 300
+			rewards: [
+				{
+					id: "7F1DEB0E38D37227"
+					type: "xp"
+					xp: 30
+				}
+				{
+					id: "78A8F0472B74A4EA"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Получить 16 самоцветов"
+			tasks: [{
+				count: 16L
+				id: "0C6CE72F4DE3F620"
+				item: "immortalskills:gem"
+				type: "item"
+			}]
+			title: "Созданные пустотой"
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"730DDEDD3CDC62B6"
+				"66D16FD9DD6C9C5F"
+			]
+			description: [
+				"Когда то давно группа археологов и шахтеров наткнулась на странные &6самоцветы&r, что излучали магическую энергию пустоты. Их сила настолько велика, что они способны наделять некоторые виды брони и оружия новыми свойствами."
+				""
+				"&o&7Разместите на алтаре преобразования классовое снаряжение, поместите 4 самоцвета и требуемые ингридиенты. Спустя несколько секунд ваше снаряжение с некоторым шансом будет улучшено. Соберите все части брони, чтобы при ее ношении получить мощные способности. Максимально можно улучшать до легендарного снаряжения.&r"
+			]
+			hide_until_deps_complete: true
+			id: "199D3705AB1E824F"
+			min_width: 300
+			rewards: [
+				{
+					id: "54A45BD93D16BE8B"
+					type: "xp"
+					xp: 30
+				}
+				{
+					id: "720CA27BE25A481F"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Получить 16 самоцветов"
+			tasks: [{
+				count: 16L
+				id: "2A02EAFAFEE3EA37"
+				item: "immortalskills:gem"
+				type: "item"
+			}]
+			title: "Созданные пустотой"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"36FC7AB983617468"
+				"3DABE2FE4FD91861"
+			]
+			description: [
+				"Когда то давно группа археологов и шахтеров наткнулась на странные &6самоцветы&r, что излучали магическую энергию пустоты. Их сила настолько велика, что они способны наделять некоторые виды брони и оружия новыми свойствами."
+				""
+				"&o&7Разместите на алтаре преобразования классовое снаряжение, поместите 4 самоцвета и требуемые ингридиенты. Спустя несколько секунд ваше снаряжение с некоторым шансом будет улучшено. Соберите все части брони, чтобы при ее ношении получить мощные способности. Максимально можно улучшать до легендарного снаряжения.&r"
+			]
+			hide_until_deps_complete: true
+			id: "6AF027938C262DD8"
+			min_width: 300
+			rewards: [
+				{
+					id: "10BB209C113851A4"
+					type: "xp"
+					xp: 30
+				}
+				{
+					id: "19C1C5461B9E8B94"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Получить 16 самоцветов"
+			tasks: [{
+				count: 16L
+				id: "71BACF3FD5D7EA50"
+				item: "immortalskills:gem"
+				type: "item"
+			}]
+			title: "Созданные пустотой"
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["040ADDB95304B1A2"]
+			description: [
+				"&6Способность брони на эпическом уровне:&r"
+				"Добивание любого монстра из техно-плоти наделяет вас его силой на 3 минуты. Для продления эффекта необходимо питаться куском техно-плоти"
+				""
+				"&cСила сердца распада&r - вы взбираетесь по стенам подобно пауку. Вы свободно проходите сквозь паутину. Ваши атаки накладывают эффект &eНейротоксин&r"
+				"&cСила внеземного жнеца&r - ваши атаки накладывают эффект &eСпиливание здоровья&r"
+				"&cСила плотоядной девы&r - каждая атака в ближнем бою лечит вас на &e20%&r от вашего урона"
+				"&cСила гематомы&r - каждые &e30&r секунд вы получаете эффект &eПритяжения&r"
+				"&cСила распылителя крови&r - когда вас утакуют, то с шансом &e40%&r вы сбрасываете сгусток крови. Когда рядом с вами накапливается 3 сгустка крови, то вы создаёте Кровавые копии, которые сражаются за вас"
+				"&cСила каркаса&r - ваш запас здоровья увеличен на &e10 сердец&r. Каждый раз когда вы падаете с высоты более 2 блоков, то вы создаёте ударную волну которая наносит урон"
+				"&cСила кошмарного хищника&r - ваши атаки накладывают эффект &eНейротоксин&r. Спустя &e2&r секунды после того как вы встали на шифт, вы становитесь полностью невидимы"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "immortalorigin:chaos_helmet"
+				tag: {
+					Damage: 0
+					ItemRarity: "COMMON"
+				}
+			}
+			id: "0255775632992786"
+			min_width: 500
+			rewards: [
+				{
+					id: "42D46354F574CF67"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 3
+					id: "5AC70F7EC52C5DEA"
+					item: "immortalskills:raw_gem"
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "6C1000E1EDE03D03"
+					item: "clanginghowl:advanced_electronics"
+					type: "item"
+				}
+			]
+			subtitle: "Получить полный комплект брони рождённого в хаосе"
+			tasks: [
+				{
+					id: "38E09E9712E6C8C1"
+					item: {
+						Count: 1
+						id: "immortalorigin:chaos_helmet"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "43A3FA36630EF6A9"
+					item: {
+						Count: 1
+						id: "immortalorigin:chaos_chestplate"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E12AA55161CF3B2"
+					item: {
+						Count: 1
+						id: "immortalorigin:chaos_leggings"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1FB8B0F3ABFE8436"
+					item: {
+						Count: 1
+						id: "immortalorigin:chaos_boots"
+						tag: {
+							Damage: 0
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "246EE2598FEF211E"
+					item: "immortalskills:gem_block"
+					type: "item"
+				}
+				{
+					id: "103D52FC4233DD80"
+					item: {
+						Count: 1
+						id: "immortalorigin:chaos_hand_weapon"
+						tag: {
+							ItemRarity: "COMMON"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Рождённый в Хаосе"
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			id: "040ADDB95304B1A2"
+			invisible: true
+			min_width: 300
+			rewards: [
+				{
+					id: "6BFBF9E2256ED36D"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "0723E76E4BF62145"
+					item: "clanginghowl:techno_heart"
+					type: "item"
+				}
+			]
+			subtitle: "Получить Кость Хаоса"
+			tasks: [{
+				id: "31893E4160B1ED18"
+				item: "immortalorigin:chaos_bone"
+				type: "item"
+			}]
+			title: "Кость Хаос"
+			x: 0.0d
+			y: -5.0d
+		}
+	]
+	title: "Классы"
+}

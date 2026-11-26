@@ -1,0 +1,32 @@
+{
+  "type": "create:crushing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cataclysm"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "cataclysm:cursium_ingot"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "item": "cataclysm:ancient_metal_ingot"
+    },
+    {
+      "count": 3,
+      "item": "undead_unleashed:soul_piece"
+    },
+    {
+      "chance": 0.35,
+      "item": "undead_unleashed:soul_piece"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

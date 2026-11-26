@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "trt",
+    "c c",
+    "c c"
+  ],
+  "key": {
+    "c": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+    "r": {
+      "item": "immortalskills:engineer_leggings"
+    },
+    "t": {
+      "item": "cataclysm_spellbooks:technomancy_rune"
+    }
+  },
+  "result": {
+    "item": "cataclysm_spellbooks:engineer_leggings",
+    "count": 1
+  }
+}

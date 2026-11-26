@@ -1,0 +1,41 @@
+{
+  "id": "skilltree:inquisitor_60",
+  "bonuses": [
+    {
+      "type": "skilltree:crit_chance",
+      "chance": 0.2,
+      "damage_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "skilltree:inquisitor_44"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/enchanter_crit_notable_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "title": "Смертельный удар II",
+  "titleColor": "FFAA00",
+  "positionX": 93.526,
+  "positionY": -89.991,
+  "buttonSize": 20,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "f_131102_": false,
+      "f_131103_": false,
+      "f_131104_": false,
+      "f_131105_": false,
+      "f_131106_": false,
+      "text": "+20% к шансу критического удара"
+    }
+  ]
+}

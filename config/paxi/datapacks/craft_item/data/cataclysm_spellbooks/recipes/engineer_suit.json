@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "c c",
+    "crc",
+    "cec"
+  ],
+  "key": {
+    "c": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+    "r": {
+      "item": "cataclysm_spellbooks:technomancy_rune"
+    },
+    "e": {
+      "item": "immortalskills:engineer_chestplate"
+    }
+  },
+  "result": {
+    "item": "cataclysm_spellbooks:engineer_suit",
+    "count": 1
+  }
+}

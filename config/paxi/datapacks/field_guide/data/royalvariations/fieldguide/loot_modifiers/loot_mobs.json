@@ -1,0 +1,20 @@
+{
+  "additions": [
+    {
+      "entry": "royalvariations:royal_zombie",
+      "value": "mace_port:breeze_rod"
+    },
+	{
+      "entry": "royalvariations:royal_skeleton",
+      "value": "mace_port:breeze_rod"
+    },
+	{
+      "entry": "royalvariations:royal_creeper",
+      "value": "mace_port:breeze_rod"
+    },
+	{
+      "entry": "royalvariations:royal_enderman",
+      "value": "mace_port:breeze_rod"
+    }
+  ]
+}

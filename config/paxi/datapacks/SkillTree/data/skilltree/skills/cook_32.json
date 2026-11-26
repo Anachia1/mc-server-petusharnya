@@ -1,0 +1,44 @@
+{
+  "id": "skilltree:cook_32",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "cataclysm_spellbooks:technomancy_spell_power",
+      "id": "d2e983ec-fe1e-4001-841d-9e2dcde5588c",
+      "name": "Skill",
+      "amount": 0.2,
+      "operation": 1
+    }
+  ],
+  "requirements": [
+    {
+      "type": "skilltree:stat_value",
+      "statTypeId": "minecraft:custom",
+      "statId": "minecraft:mob_kills",
+      "minValue": 100
+    }
+  ],
+  "directConnections": [
+    "skilltree:cook_29"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/cook_defensive_notable_1.png",
+  "borderTexture": "skilltree:textures/tooltip/gateway_1.png",
+  "title": "Синтез технологий и магии",
+  "titleColor": "FF5555",
+  "positionX": 124.703,
+  "positionY": 72.008,
+  "buttonSize": 32,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": "+20% к силе техномагических заклинаний"
+    }
+  ]
+}

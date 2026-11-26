@@ -1,0 +1,7 @@
+
+["Spawner Effects"]
+	breakSpeed = false
+	lastSpawn = true
+	breakWither = false
+	breakTorches = true
+

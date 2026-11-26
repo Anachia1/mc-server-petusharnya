@@ -1,0 +1,20 @@
+{
+  "additions": [
+    {
+      "entry": "minecraft:iron_golem",
+      "value": "ancient_forgemastery:iron_roots"
+    },
+	{
+      "entry": "minecraft:hoglin",
+      "value": "mynethersdelight:hoglin_loin"
+    },
+	{
+      "entry": "minecraft:hoglin",
+      "value": "irons_spellbooks:hogskin"
+    },
+	{
+      "entry": "minecraft:husk",
+      "value": "minecraft:sand"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "kubejs.ponder.prometheus_altar_construction.header": "Постройка Алтаря Прометея",
+  "kubejs.ponder.prometheus_altar_construction.text_1": "Тёмные узлы и центр нижнего слоя делаются из резного кальцита.",
+  "kubejs.ponder.prometheus_altar_construction.text_2": "Остальная круглая площадка нижнего слоя делается из полированного кальцита.",
+  "kubejs.ponder.prometheus_altar_construction.text_3": "В центре ставится алтарь ковки из Ancient Forgemastery.",
+  "kubejs.ponder.prometheus_altar_construction.text_4": "Для запуска достаточно любых четырёх пьедесталов в этих слотах.",
+  "kubejs.ponder.prometheus_altar_construction.text_5": "Когда структура собрана, присядь и нажми Таинственной книгой по центру.",
+  "kubejs.ponder.prometheus_altar_construction.text_6": "После этого блок навсегда станет Кузницей Прометея.",
+  "kubejs.ponder.prometheus_altar_construction.text_7": "Диагональные слоты опциональны: их можно добавить позже.",
+  "kubejs.ponder.prometheus_altar_crafting.header": "Работа Кузницы Прометея",
+  "kubejs.ponder.prometheus_altar_crafting.text_1": "Сначала заряди используемые пьедесталы кристаллами маны.",
+  "kubejs.ponder.prometheus_altar_crafting.text_2": "Потом положи основной предмет в центр кузницы.",
+  "kubejs.ponder.prometheus_altar_crafting.text_3": "Ингредиенты кладутся на любые заряженные пьедесталы. Порядок не важен.",
+  "kubejs.ponder.prometheus_altar_crafting.text_4": "Нажми Таинственной книгой по кузнице, чтобы запустить ритуал.",
+  "kubejs.ponder.prometheus_altar_crafting.text_5": "Если сломать кузницу или пьедестал, ритуал прервётся. Результат появится в центре.",
+  "immortalprometheus.ponder.tag.prometheus_altar": "Алтарь Прометея",
+  "immortalprometheus.ponder.tag.prometheus_altar.description": "Постройка и запуск алтаря"
+}

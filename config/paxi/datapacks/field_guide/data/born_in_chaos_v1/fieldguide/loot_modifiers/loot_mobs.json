@@ -1,0 +1,12 @@
+{
+  "additions": [
+    {
+      "entry": "born_in_chaos_v1:missioner",
+      "value": "undead_unleashed:grave_iron_nugget"
+    },
+	{
+      "entry": "born_in_chaos_v1:nightmare_stalker",
+      "value": "enigmaticaddons:earth_heart_fragment"
+    }
+  ]
+}

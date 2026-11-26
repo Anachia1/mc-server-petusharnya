@@ -1,0 +1,32 @@
+{
+  "type": "create:crushing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cataclysm"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "cataclysm:ignitium_ingot"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "item": "cataclysm:ancient_metal_ingot"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "chance": 0.35,
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

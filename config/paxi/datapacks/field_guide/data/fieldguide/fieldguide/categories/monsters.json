@@ -1,0 +1,25 @@
+{
+  "sort_index": 4,
+  "icon": "fieldguide:textures/gui/icons/creeper.png",
+  "group_by": [
+    "#skeleton",
+    "#zombie",
+    "zombie",
+    "skeleton",
+    "=drowned",
+    "=husk",
+    "#raiders",
+    "illager",
+    "=!nether_wastes",
+    "=!soul_sand_valley",
+    "#aquatic",
+    "#can_breathe_under_water",
+    "!ocean"
+  ],
+  "contents": [
+    {
+      "type": "auto_populate",
+      "strategy": "monsters"
+    }
+  ]
+}

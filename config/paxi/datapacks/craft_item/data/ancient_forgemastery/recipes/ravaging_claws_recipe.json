@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " aa",
+    "bca",
+    "db "
+  ],
+  "key": {
+    "a": {
+      "item": "ancient_forgemastery:ravager_horn"
+    },
+    "b": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "c": {
+      "item": "ancient_forgemastery:remnant_artifact"
+    },
+    "d": {
+      "item": "cataclysm:ancient_metal_nugget"
+    }
+  },
+  "result": {
+    "item": "ancient_forgemastery:ravaging_claws",
+    "count": 1
+  }
+}

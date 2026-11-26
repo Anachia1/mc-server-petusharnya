@@ -1,0 +1,308 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "06DED79BD4880CF4"
+	group: "6A47EDB7EAF302F4"
+	icon: "royalvariations:royal_upgrade_smithing_template"
+	id: "06DED79BD4880CF4"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "immortalsoul:totem_icon"
+			id: "3A381B4DD328A1FC"
+			min_width: 300
+			subtitle: "Надеть Кольцо Семи проклятий"
+			tasks: [{
+				advancement: "enigmaticlegacy:main/cursed_ring"
+				criterion: ""
+				id: "6A3464616578A07C"
+				title: "Выполнить ачивку \"Впереди ждёт тьма\""
+				type: "advancement"
+			}]
+			title: "Задание 1"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4D94FD5C8DEB7AC9"]
+			hide_until_deps_complete: true
+			id: "681EAFB72DFC2398"
+			min_width: 300
+			subtitle: "Получить Камень мироздания"
+			tasks: [{
+				id: "51FC8491E0012BB6"
+				item: "enigmaticlegacy:enigmatic_item"
+				type: "item"
+			}]
+			title: "Задание 7"
+			x: -10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B0EDCA0237878BE"]
+			hide_until_deps_complete: true
+			icon: "immortal_bosses:trophy_cog"
+			id: "4D94FD5C8DEB7AC9"
+			min_width: 300
+			subtitle: "Получить все трофеи Архитектора"
+			tasks: [
+				{
+					id: "29EDA42A48397185"
+					item: "immortal_bosses:trophy_cog"
+					type: "item"
+				}
+				{
+					id: "4533E18AF77D48FF"
+					item: "immortal_bosses:trophy_heart"
+					type: "item"
+				}
+				{
+					id: "6CC7127FE2E0BE34"
+					item: "immortal_bosses:trophy_hourglass"
+					type: "item"
+				}
+			]
+			title: "Задание 6"
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["58B1003FD9473EDB"]
+			hide_until_deps_complete: true
+			icon: "enigmaticlegacy:the_cube"
+			id: "4B0EDCA0237878BE"
+			min_width: 300
+			subtitle: "Получить Неевклидов куб и Осколок портала"
+			tasks: [{
+				id: "7209742648C4C843"
+				item: "enigmaticlegacy:the_cube"
+				type: "item"
+			}]
+			title: "Задание 5"
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["69CB25FD3ABBD53D"]
+			hide_until_deps_complete: true
+			icon: "enigmaticlegacy:desolation_ring"
+			id: "58B1003FD9473EDB"
+			min_width: 300
+			subtitle: "Создать Бремя Опустошения и Бесконечность"
+			tasks: [
+				{
+					id: "5B406C3639E7258B"
+					item: "enigmaticlegacy:desolation_ring"
+					type: "item"
+				}
+				{
+					id: "7B6CFEF1274C1F48"
+					item: "enigmaticlegacy:the_infinitum"
+					type: "item"
+				}
+			]
+			title: "Задание 4"
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A89639412F0BB19"]
+			hide_until_deps_complete: true
+			id: "69CB25FD3ABBD53D"
+			min_width: 300
+			subtitle: "Создать Разлом"
+			tasks: [{
+				id: "3DB973EA806976EC"
+				item: "enigmaticlegacy:the_twist"
+				type: "item"
+			}]
+			title: "Задание 3"
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3A381B4DD328A1FC"]
+			description: [""]
+			hide_until_deps_complete: true
+			id: "6A89639412F0BB19"
+			min_width: 300
+			subtitle: "Получить Нечестивую сущность"
+			tasks: [{
+				id: "217CC8EBCA1B6A71"
+				item: "enigmaticlegacy:evil_essence"
+				type: "item"
+			}]
+			title: "Задание 2"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["49EA99168E036F7C"]
+			hide_until_deps_complete: true
+			icon: "immortal_bosses:trophy_cog"
+			id: "771DD19C6F92E843"
+			min_width: 300
+			subtitle: "Получить все трофеи Архитектора"
+			tasks: [
+				{
+					id: "02A202C438DA0364"
+					item: "immortal_bosses:trophy_cog"
+					type: "item"
+				}
+				{
+					id: "1CE943F7696AC770"
+					item: "immortal_bosses:trophy_heart"
+					type: "item"
+				}
+				{
+					id: "05A92E3154ED65E4"
+					item: "immortal_bosses:trophy_hourglass"
+					type: "item"
+				}
+			]
+			title: "Задание 6"
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Прогрессия - это вспомогательные квесты, которые наглядно показывают ваше продвижение в мире &6Immortal&r. Выполняйте задания последовательно, чтобы найти способ обрести &6Бессмертие&r и раскрыть тайны &6Нового мира&r."
+				""
+				"&7&oПуть в обитель блаженства пролегает через страдания и испытания, тогда как дорога к гибели усыпана цветами&r"
+			]
+			icon: "royalvariations:royal_upgrade_smithing_template"
+			id: "27CF865F34E7225A"
+			min_width: 300
+			shape: "square"
+			subtitle: "Выбрать свой путь"
+			tasks: [{
+				id: "085E01715D56F53A"
+				title: "Прогрессия"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["42E75CFCAF7443C6"]
+			hide_until_deps_complete: true
+			icon: "enigmaticlegacy:the_cube"
+			id: "49EA99168E036F7C"
+			min_width: 300
+			subtitle: "Создать Неевклидов куб и получить Осколок портала"
+			tasks: [{
+				id: "7E8CCC4CD7CDC5E2"
+				item: "enigmaticlegacy:the_cube"
+				type: "item"
+			}]
+			title: "Задание 5"
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5BB7B55F2E692FB0"]
+			hide_until_deps_complete: true
+			id: "42E75CFCAF7443C6"
+			min_width: 300
+			subtitle: "Создать Сердце космоса"
+			tasks: [{
+				id: "5F9A87DE300785A9"
+				item: {
+					Count: 1
+					id: "enigmaticlegacy:cosmic_heart"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Задание 4"
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["11ACDFA698BC0C9D"]
+			hide_until_deps_complete: true
+			id: "5BB7B55F2E692FB0"
+			min_width: 300
+			subtitle: "Получить Астральную пыль"
+			tasks: [{
+				id: "3A1CBDB39824439F"
+				item: "enigmaticlegacy:astral_dust"
+				type: "item"
+			}]
+			title: "Задание 3"
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"3BAA64297B4C2A71"
+				"176BCD3C83FD4A9A"
+			]
+			hide_until_deps_complete: true
+			id: "11ACDFA698BC0C9D"
+			min_width: 300
+			subtitle: "Получить Звезду Незера"
+			tasks: [{
+				id: "552380FAFED1CE29"
+				item: "minecraft:nether_star"
+				type: "item"
+			}]
+			title: "Задание 2"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "minecraft:totem_of_undying"
+				tag: {
+					"af:lvl": 1.0d
+				}
+			}
+			id: "176BCD3C83FD4A9A"
+			min_width: 300
+			subtitle: "Создать Шестерню"
+			tasks: [{
+				id: "58A44D832F2559FA"
+				item: "create:cogwheel"
+				type: "item"
+			}]
+			title: "Задание 1 - Технологии"
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "minecraft:totem_of_undying"
+				tag: {
+					"af:lvl": 1.0d
+				}
+			}
+			id: "3BAA64297B4C2A71"
+			min_width: 300
+			subtitle: "Создать Хлипкий журнал"
+			tasks: [{
+				id: "33DBAC45A56F45F1"
+				item: {
+					Count: 1
+					id: "irons_spellbooks:copper_spell_book"
+					tag: {
+						"irons_spellbooks:spell_container": {
+							data: [ ]
+							maxSpells: 5
+							mustEquip: 1b
+							spellWheel: 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			title: "Задание 1 - Магия"
+			x: 1.5d
+			y: 1.0d
+		}
+	]
+	title: "Прогрессия"
+}

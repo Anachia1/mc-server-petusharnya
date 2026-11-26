@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "minecraft:block/magma_block1"
+    },
+    {
+      "model": "minecraft:block/magma_block2"
+    },
+    {
+      "model": "minecraft:block/magma_block3"
+    },
+    {
+      "model": "minecraft:block/magma_block4"
+    },
+    {
+      "model": "minecraft:block/magma_block5"
+    },
+    {
+      "model": "minecraft:block/magma_block6"
+    }
+  ]
+  }
+}

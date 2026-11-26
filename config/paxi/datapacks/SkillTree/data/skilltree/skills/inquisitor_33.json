@@ -1,0 +1,57 @@
+{
+  "id": "skilltree:inquisitor_33",
+  "bonuses": [
+    {
+      "type": "skilltree:inflict_effect",
+      "chance": 0.15,
+      "max_stacks": 1,
+      "effect": "clanginghowl:weakened_defense",
+      "duration": 180,
+      "amplifier": 0,
+      "event_listener": {
+        "damage_condition": {
+          "type": "skilltree:none"
+        },
+        "target": "enemy",
+        "type": "skilltree:attack"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "skilltree:inquisitor_30"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/enchanter_defensive_crafting_1.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "title": "Сломанная броня",
+  "titleColor": "FFAA00",
+  "positionX": -124.703,
+  "positionY": 71.996,
+  "buttonSize": 32,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": "+15% к шансу наложить эффект Ослабленная защита на 9 секунд при атаке"
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": ""
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 11184810
+      },
+      "f_131103_": true,
+      "text": "*Ослабленная защита - ослабляет броню на 40%"
+    }
+  ]
+}

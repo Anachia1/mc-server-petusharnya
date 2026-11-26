@@ -1,8 +1,8 @@
 {
-  "name": "Петушарня 0 сезон",
-  "minecraft_version": "1.21.1",
-  "loader": "neoforge",
-  "loader_version": "21.1.267",
+  "name": "Петушарня 1 сезон - Immortal",
+  "minecraft_version": "1.20.1",
+  "loader": "forge",
+  "loader_version": "47.4.10",
   "server_address": "213.171.18.150:30748",
   "recommended_memory_mb": 4096,
   "java_major": 0,

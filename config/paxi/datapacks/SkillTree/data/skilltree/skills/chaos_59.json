@@ -1,0 +1,42 @@
+{
+  "id": "skilltree:chaos_59",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.armor",
+      "id": "1ac660db-8f6b-408e-b989-28f636c90367",
+      "name": "Skill",
+      "amount": 3.0,
+      "operation": 0,
+      "player_condition": {
+        "item_condition": {
+          "id": "immortalorigin:chaos_chestplate",
+          "type": "skilltree:item_id"
+        },
+        "type": "skilltree:has_item_equipped"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/blacksmith_defensive_crafting_keystone_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "title": "Непоколебимость",
+  "titleColor": "FF5555",
+  "positionX": -124.703,
+  "positionY": -36.004,
+  "buttonSize": 20,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": "+3 к броне, если на вас Нагрудник рождённого в Хаосе"
+    }
+  ]
+}

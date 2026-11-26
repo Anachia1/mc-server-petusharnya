@@ -1,0 +1,61 @@
+{
+  "id": "skilltree:inventor_59",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:spell_resist",
+      "id": "33b7edde-54b1-465e-b029-cd9cf8a9315f",
+      "name": "Skill",
+      "amount": 0.3,
+      "operation": 1
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "obscure_api:magic_resistance",
+      "id": "2183ea95-b07a-4fdb-b064-f9955476273c",
+      "name": "Skill",
+      "amount": 0.3,
+      "operation": 1
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "skilltree:inventor_46"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/alchemist_mastery.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "title": "Антимагический щит II",
+  "titleColor": "FFAA00",
+  "positionX": -124.703,
+  "positionY": -36.004,
+  "buttonSize": 20,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "f_131102_": false,
+      "f_131103_": false,
+      "f_131104_": false,
+      "f_131105_": false,
+      "f_131106_": false,
+      "text": "+30% к сопротивлению заклинаниям"
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "f_131102_": false,
+      "f_131103_": false,
+      "f_131104_": false,
+      "f_131105_": false,
+      "f_131106_": false,
+      "text": "+30% к сопротивлению магии"
+    }
+  ]
+}

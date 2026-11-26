@@ -1,0 +1,70 @@
+{
+  "id": "skilltree:cook_58",
+  "bonuses": [
+    {
+      "type": "skilltree:grant_item",
+      "item_id": "passiveskilltreeaddon:technomagic_core",
+      "amount": 1
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "cataclysm_spellbooks:technomancy_spell_power",
+      "id": "52c840d2-8bca-4b46-9969-ab6d1c497c6d",
+      "name": "Skill",
+      "amount": 0.2,
+      "operation": 1
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "skilltree:cook_55"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/technomagic_core.png",
+  "borderTexture": "skilltree:textures/tooltip/gateway_1.png",
+  "title": "Великая эволюция",
+  "titleColor": "FF5555",
+  "positionX": 124.703,
+  "positionY": -71.992,
+  "buttonSize": 32,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "f_131102_": false,
+      "f_131103_": false,
+      "f_131104_": false,
+      "f_131105_": false,
+      "f_131106_": false,
+      "text": "Дарует Техномагическое ядро при изучении"
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "f_131102_": false,
+      "f_131103_": false,
+      "f_131104_": false,
+      "f_131105_": false,
+      "f_131106_": false,
+      "text": "+20% к силе техномагических заклинаний"
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": ""
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 11184810
+      },
+      "text": "*Техномагическое ядро используется для создания Нестабильного Техномагического посоха"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "realmrpg_skeletons:custom/snow_skeleton",
+  "textures": {
+    "all": "realmrpg_skeletons:block/stray_particles",
+    "particle": "realmrpg_skeletons:block/stray_particles",
+    "0": "realmrpg_skeletons:block/stray"
+  },
+  "render_type": "cutout_mipped"
+}

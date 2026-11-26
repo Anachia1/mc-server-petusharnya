@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " fa",
+    "fbf",
+    "af "
+  ],
+  "key": {
+    "a": {
+      "item": "create:andesite_alloy"
+    },
+    "b": {
+      "item": "clanginghowl:steel_rod"
+    },
+    "f": {
+      "item": "clanginghowl:blaze_fuel"
+    }
+  },
+  "result": {
+    "item": "protection_pixel:flarerod",
+    "count": 1
+  }
+}

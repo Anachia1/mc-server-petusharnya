@@ -1,0 +1,10 @@
+{
+  "parent": "realmrpg_skeletons:custom/neutralized_skeleton",
+  "textures": {
+    "all": "realmrpg_skeletons:block/skeleton_particles",
+    "particle": "realmrpg_skeletons:block/skeleton_particles",
+    "0": "realmrpg_skeletons:block/skeleton",
+    "1": "realmrpg_skeletons:block/atlas"
+  },
+  "render_type": "cutout_mipped"
+}

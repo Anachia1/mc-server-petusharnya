@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "decorations",
+  "key": {
+    "S": {
+      "item": "enigmaticlegacy:earth_heart"
+    },
+    "O": {
+      "item": "minecraft:gold_ingot"
+    },
+    "I": {
+      "item": "royalvariations:spiritual_crown_shard"
+    }
+  },
+  "pattern": [
+    "IOI",
+    "OSO",
+    "IOI"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mace_port:heavy_core"
+  }
+}

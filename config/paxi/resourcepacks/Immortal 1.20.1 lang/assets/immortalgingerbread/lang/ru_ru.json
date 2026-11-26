@@ -1,0 +1,35 @@
+{
+  "item.immortalgingerbread.candy_cane": "Карамельная трость",
+  "item.immortalgingerbread.gingerbread": "Пряничный человечек",
+  "item.immortalgingerbread.gingerbread_bazooka": "Пряничный гранатомёт",
+  "item.immortalgingerbread.snowman_hat": "Шляпа снеговика",
+  "item.immortalgingerbread.spoiled_snowball": "Испорченный Снежок",
+
+  "item.immortalgingerbread.spoiled_snowman_spawn_egg": "Яйцо призыва испорченного снеговика",
+  "item.immortalgingerbread.gentleman_snowman_spawn_egg": "Яйцо призыва снеговика джентльмена",
+  "item.immortalgingerbread.spoiled_gingerbread_man_spawn_egg": "Яйцо призыва испорченного пряничного человечка",
+  "item.immortalgingerbread.gingerbread_golem_spawn_egg": "Яйцо призыва пряничного голема",
+  "item.immortalgingerbread.spoiled_gingerbread_golem_spawn_egg": "Яйцо призыва испорченного пряничного голема",
+
+  "block.immortalgingerbread.gingerbread_block": "Пряничный блок",
+
+  "entity.immortalgingerbread.spoiled_snowman": "Испорченный снеговик",
+  "entity.immortalgingerbread.gentleman_snowman": "Снеговик джентльмен",
+  "entity.immortalgingerbread.spoiled_gingerbread_man": "Испорченный пряничный человечек",
+  "entity.immortalgingerbread.gingerbread_golem": "Пряничный голем",
+  "entity.immortalgingerbread.spoiled_gingerbread_golem": "Испорченный пряничный голем",
+
+  "effect.immortalgingerbread.sugar_rush": "Сахарная лихорадка",
+
+  "itemGroup.immortalgingerbread.title": "Immortal Gingerbread",
+
+  "event.immortalgingerbread.spoiled_raid.name": "Сахарная лихорадка",
+
+  "advancements.adventure.spoiled_raid_win.title": "Спасение праздника",
+  "advancements.adventure.spoiled_raid_win.description": "Победите в сахарной лихорадке",
+
+  "text.gingerbread_golem_sit": "Пряничный голем сидит",
+  "text.gingerbread_golem_wander": "Пряничный голем бродит",
+  "text.gingerbread_golem_follow": "Пряничный голем следует",
+  "text.spoiled_patrol_spawned": "§cПатруль испорченных снеговиков вышел на разведку"
+}

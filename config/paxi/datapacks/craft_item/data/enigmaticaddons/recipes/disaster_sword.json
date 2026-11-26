@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "enigmaticaddons:is_enabled",
+      "item": "enigmaticaddons:disaster_sword"
+    }
+  ],
+  "pattern": [
+    " Q ",
+    "RXR",
+    " G "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:netherite_sword"
+    },
+    "Q": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "G": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "R": {
+      "item": "born_in_chaos_v1:dark_rod"
+    }
+  },
+  "result": {
+    "item": "enigmaticaddons:disaster_sword"
+  }
+}

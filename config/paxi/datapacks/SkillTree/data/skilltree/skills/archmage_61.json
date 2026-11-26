@@ -1,0 +1,63 @@
+{
+  "id": "skilltree:archmage_61",
+  "bonuses": [
+    {
+      "type": "skilltree:inflict_effect",
+      "chance": 0.15,
+      "max_stacks": 1,
+      "effect": "clanginghowl:deep_burn",
+      "duration": 180,
+      "amplifier": 0,
+      "event_listener": {
+        "damage_condition": {
+          "type": "skilltree:none"
+        },
+        "player_condition": {
+          "item_condition": {
+            "equipment_type": "melee_weapon",
+            "type": "skilltree:equipment_type"
+          },
+          "type": "skilltree:has_item_in_hand"
+        },
+        "target": "enemy",
+        "type": "skilltree:attack"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "skilltree:archmage_45"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/torch.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "title": "Очищение огнем",
+  "titleColor": "FFAA00",
+  "positionX": 31.176,
+  "positionY": 126.002,
+  "buttonSize": 20,
+  "isStartingPoint": false,
+  "description": [
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": "+15% к шансу наложить эффект Глубокий ожог на 9 секунд при атаке если в руке оружие ближнего боя"
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 8092645
+      },
+      "text": ""
+    },
+    {
+      "f_131101_": {
+        "f_131257_": 11184810
+      },
+      "text": "*Глубокий ожог - наносимый урон огнем увеличен на 60%"
+    }
+  ]
+}

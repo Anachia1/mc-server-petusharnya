@@ -1,0 +1,9 @@
+
+[chaos_essence]
+	#Mobs that do not restore Chaos Essence when attacked in melee / Монстры, которые не восстанавливают Эссенцию Хаоса при атаке в ближнем бою
+	attackBlacklist = ["minecraft:armor_stand", "dummymod:mannequin"]
+
+[chaos_born]
+	#Chaos energy / Энергия хаоса
+	useChaosEnergy = true
+

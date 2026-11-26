@@ -1,0 +1,12 @@
+{
+  "additions": [
+    {
+      "entry": "netherexp:banshee",
+      "value": "undead_unleashed:soul_piece"
+    },
+	{
+      "entry": "netherexp:apparition",
+      "value": "undead_unleashed:soul_piece"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "ancient_forgemastery:ravager_horn"
+    },
+    "b": {
+      "item": "ancient_forgemastery:remnant_artifact"
+    },
+    "c": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "d": {
+      "item": "cataclysm:ancient_metal_nugget"
+    }
+  },
+  "result": {
+    "item": "ancient_forgemastery:shield_of_vindication",
+    "count": 1
+  }
+}

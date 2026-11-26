@@ -1,0 +1,21 @@
+{
+  "type": "create:crushing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "born_in_chaos_v1"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "born_in_chaos_v1:ethereal_spirit"
+    }
+  ],
+  "processingTime": 300,
+  "results": [
+    {
+      "chance": 0.75,
+      "item": "undead_unleashed:soul_piece"
+    }
+  ]
+}

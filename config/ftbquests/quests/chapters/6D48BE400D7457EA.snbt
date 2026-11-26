@@ -1,0 +1,191 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6D48BE400D7457EA"
+	group: "23E3C0A11EA92B50"
+	icon: "immortalprometheus:mana_crystal"
+	id: "6D48BE400D7457EA"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&6Кузница Прометея&r - это магический алтарь, который позволяет проводить ритуалы по созданию различных предметов и артефактов, что помогут на вашем пути."
+				"Изучайте таинственную книгу, чтобы узнать больше о ритуалах."
+				""
+				"&o&7Нажмите ПКМ, удерживая таинственную книгу в основной руке, чтобы открыть её&r"
+			]
+			id: "7434E6FA1E820FF2"
+			min_width: 300
+			rewards: [
+				{
+					id: "194DC94906B4E30F"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "35863544DED9B45F"
+					item: "irons_spellbooks:arcane_essence"
+					type: "item"
+				}
+			]
+			shape: "square"
+			subtitle: "Создать Таинственную книгу"
+			tasks: [{
+				id: "6A6414132062939C"
+				item: "immortalprometheus:mysterious_book"
+				type: "item"
+			}]
+			title: "Основы ритуалов"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7434E6FA1E820FF2"]
+			description: ["Для создания &6алтаря&r вам потребуется создать полированный и резной кальцит. Чтобы посмотреть как правильно построить структуру алтаря, зажмите \"&6Ц&r\" для размышления, наведясь на &6Кузницу прометея&r."]
+			icon: "immortalprometheus:carved_calcite"
+			id: "6AAB19DED52E5BA7"
+			min_width: 300
+			rewards: [
+				{
+					id: "590C4D6AD048E02E"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "41A6885E75F9CE3A"
+					item: "immortalprometheus:mana_crystal"
+					type: "item"
+				}
+			]
+			subtitle: "Получить полированный и резной кальцит"
+			tasks: [
+				{
+					id: "69AB38F55C4E2682"
+					item: "immortalprometheus:polished_calcite"
+					type: "item"
+				}
+				{
+					id: "0D8040B1953173BB"
+					item: "immortalprometheus:carved_calcite"
+					type: "item"
+				}
+			]
+			title: "Впитавшие магию"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6AAB19DED52E5BA7"]
+			description: [
+				"&6Базальтовые пьедесталы&r - это важные блоки в постройке алтаря. В них вы размещаете материалы, которые требуются для крафта предметов. Перед тем, как начать ритуал &6базальтовые пьедесталы&r необходимо заряжать &bкристаллами маны&r."
+				"Для автоматической подачи кристаллов используйте воронки."
+			]
+			id: "5031FEB7AF9B26D2"
+			min_width: 300
+			rewards: [
+				{
+					id: "47B8CC6364E0FFC9"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "5AA49259CACD44D5"
+					item: "minecraft:obsidian"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "Создать 4 Базальтовых пьедестала"
+			tasks: [{
+				count: 4L
+				id: "20C03CF16E7E39A6"
+				item: "immortalprometheus:basalt_pedestal"
+				type: "item"
+			}]
+			title: "Манонакопитель"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5031FEB7AF9B26D2"]
+			description: [
+				"Создайте своего первого медного холопа, разместив на медный блок вырезанную тыкву. &6Медные големы&r - это идеальная рабочая сила, которая будет размещать материалы в алтарь, освобождая вас от этой рутины."
+				""
+				"&o&7Более подробную информацию о том, как управлять медными големами смотрите в таинственной книге&r"
+			]
+			hide_until_deps_complete: true
+			icon: "minecraft:copper_golem_statue"
+			id: "2A0F129813C63A04"
+			min_width: 300
+			rewards: [
+				{
+					id: "145001FB99A6501F"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "43DEB9DC1D3E3A6F"
+					item: "ironchest:wood_to_iron_chest_upgrade"
+					type: "item"
+				}
+			]
+			subtitle: "Создать медного голема"
+			tasks: [
+				{
+					id: "489C79C103CF9F63"
+					item: "minecraft:copper_block"
+					type: "item"
+				}
+				{
+					id: "57BD4F0B1DBE60FB"
+					item: "minecraft:carved_pumpkin"
+					type: "item"
+				}
+			]
+			title: "Медный холоп"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5031FEB7AF9B26D2"]
+			description: [
+				"Для автоматического получения &bкристаллов маны&r вы можете использовать &6Волшебную печь&r. Заполняйте &6волшебную печь&r опытом, встав на неё сверху. Так же в качестве расходного материала для преобразования требуется &9лазурит&r."
+				""
+				"&o&7Волшебную печь можно можно использовать как хранилище опыта, а так же её можно улучшать на кованном алтаре&r"
+			]
+			hide_until_deps_complete: true
+			id: "251FF2A93D2EBC82"
+			min_width: 300
+			rewards: [
+				{
+					id: "52425FDA8F9D4F06"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "4F81812F9B97BF11"
+					item: "minecraft:lapis_lazuli"
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			subtitle: "Создать Волшебную печь"
+			tasks: [{
+				id: "670D8D2197453673"
+				item: {
+					Count: 1
+					id: "immortalprometheus:exp_furnace"
+					tag: {
+						"af:lvl": 1.0d
+					}
+				}
+				type: "item"
+			}]
+			title: "Преобразователь маны"
+			x: 0.0d
+			y: 4.5d
+		}
+	]
+	title: "Кузница Прометея"
+}

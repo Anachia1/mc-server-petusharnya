@@ -1,0 +1,6 @@
+{
+  "ponder.immortalprometheus:prometheus_altar.name": "Алтарь Прометея",
+  "ponder.immortalprometheus:prometheus_altar.description": "Постройка и запуск алтаря",
+  "ponder.prometheus_altar_construction.name": "Постройка Алтаря Прометея",
+  "ponder.prometheus_altar_crafting.name": "Работа Кузницы Прометея"
+}

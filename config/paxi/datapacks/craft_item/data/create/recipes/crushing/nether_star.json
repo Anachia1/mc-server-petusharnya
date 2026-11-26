@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 6,
+      "item": "clanginghowl:extraterrestrial_energy_crystal"
+    },
+    {
+      "chance": 0.3,
+      "count": 1,
+      "item": "clanginghowl:extraterrestrial_energy_crystal"
+    },
+    {
+      "count": 3,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

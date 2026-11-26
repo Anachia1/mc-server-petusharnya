@@ -1,0 +1,8 @@
+{
+  "receptacleDropLoot": false,
+  "receptacleDropXp": true,
+  "disableVanillaCriticalHits": false,
+  "disableSkeletonFriendlyFire": true,
+  "undeadStopBurningAfterNether": true,
+  "_immortalsoul_version": "1.1.3.4"
+}

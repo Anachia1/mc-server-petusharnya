@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "dry_ghast",
+  "key": {
+    "#": {
+      "item": "minecraft:ghast_tear"
+    },
+    "X": {
+      "item": "minecraft:soul_sand"
+    },
+    "S": {
+      "item": "undead_unleashed:soul_piece"
+    }
+  },
+  "pattern": [
+    "S#S",
+    "#X#",
+    "S#S"
+  ],
+  "result": {
+    "item": "minecraft:dried_ghast"
+  },
+  "show_notification": true
+}

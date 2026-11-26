@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "crc",
+    "c c"
+  ],
+  "key": {
+    "c": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+    "r": {
+      "item": "immortalskills:engineer_boots"
+    }
+  },
+  "result": {
+    "item": "cataclysm_spellbooks:engineer_boots",
+    "count": 1
+  }
+}

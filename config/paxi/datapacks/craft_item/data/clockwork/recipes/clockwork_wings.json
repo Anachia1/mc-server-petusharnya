@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G G",
+    "IEI",
+    "L L"
+  ],
+  "key": {
+    "I": {
+      "item": "create:brass_sheet"
+    },
+    "L": {
+      "item": "immersive_aircraft:sail"
+    },
+    "E": {
+      "item": "minecraft:elytra"
+    },
+    "G": {
+      "item": "clockwork:clockwork_gear"
+    }
+  },
+  "result": {
+    "item": "clockwork:clockwork_wings",
+    "count": 1
+  }
+}

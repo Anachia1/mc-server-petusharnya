@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "legendary_monsters:cloud_rod"
+    },
+    {
+      "item": "royalvariations:spiritual_crown_shard"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "mace_port:breeze_rod"
+  }
+}

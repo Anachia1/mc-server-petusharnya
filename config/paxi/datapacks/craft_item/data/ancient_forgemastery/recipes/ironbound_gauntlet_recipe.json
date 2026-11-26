@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cdc",
+    "ea "
+  ],
+  "key": {
+    "a": {
+      "item": "ancient_forgemastery:remnant_artifact"
+    },
+    "b": {
+      "item": "cataclysm:ancient_metal_nugget"
+    },
+    "c": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "d": {
+      "item": "ancient_forgemastery:iron_roots"
+    },
+    "e": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "ancient_forgemastery:ironbound_gauntlet",
+    "count": 1
+  }
+}
