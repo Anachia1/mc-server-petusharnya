@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:50:05.6165709Z",
+  "generated_at": "2026-11-27T18:05:41.9461919Z",
   "files": [
     {
       "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
@@ -190,6 +190,11 @@
       "path": "mods/Quest Kill Task-0.2.0+1.20.1-forge.jar",
       "sha256": "a8e38b9655e9ae44895de3a58615bb42cf210655cd149f293b1a36df9b863556",
       "size": 201963
+    },
+    {
+      "path": "mods/VanillaBackport-forge-1.20.1-1.1.7.10.jar",
+      "sha256": "157f95106c7f00f92b05c72f25e2d87e2ffbef04137e9ea609fc03838bb39e2d",
+      "size": 56051142
     },
     {
       "path": "mods/immortalgingerbread-1.20.1-1.0.0.1.jar",
