@@ -1,0 +1,1710 @@
+{
+  "source": "C:\\Users\\PC\\Documents\\GitHub\\mc-server-petusharnya\\mods",
+  "destination": "C:\\Users\\PC\\Desktop\\mods",
+  "dry_run": false,
+  "include_uncertain": false,
+  "mc_guess": "1.20.1",
+  "loader_guess": "forge",
+  "included": [
+    {
+      "file": "ancient_forgemastery-1.4.1-forge-1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "ancient_forgemastery"
+      ]
+    },
+    {
+      "file": "another_furniture-forge-1.20.1-3.0.3.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "another_furniture"
+      ]
+    },
+    {
+      "file": "Anti_Mob_Farm-1.20.1-1.3.11.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "anti_mob_farm"
+      ]
+    },
+    {
+      "file": "anvianslib-forge-1.20.1-1.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "anvianslib"
+      ]
+    },
+    {
+      "file": "apexcore-1.20.1-10.0.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "apexcore"
+      ]
+    },
+    {
+      "file": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "appleskin"
+      ]
+    },
+    {
+      "file": "architectbypass-1.1.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "architectbypass"
+      ]
+    },
+    {
+      "file": "architectury-9.2.14-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "architectury"
+      ]
+    },
+    {
+      "file": "azurelib-neo-1.20.1-3.1.11.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "azurelib"
+      ]
+    },
+    {
+      "file": "battlepets-1.0.2.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "battlepets"
+      ]
+    },
+    {
+      "file": "betterarcheology-1.2.1-1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "betterarcheology"
+      ]
+    },
+    {
+      "file": "bettercombat-forge-1.9.0+1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "bettercombat"
+      ]
+    },
+    {
+      "file": "BetterTridents-v8.0.1-1.20.1-Forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "bettertridents"
+      ]
+    },
+    {
+      "file": "bettervillage-forge-1.20.1-3.3.1-all.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "bettervillage"
+      ]
+    },
+    {
+      "file": "biomemusic-1.20.1-2.5.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "biomemusic"
+      ]
+    },
+    {
+      "file": "biomereplacer-3.1-hippo-forge.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "biome_replacer"
+      ]
+    },
+    {
+      "file": "blueprint-1.20.1-7.1.3.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "blueprint"
+      ]
+    },
+    {
+      "file": "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "born_in_chaos_v1"
+      ]
+    },
+    {
+      "file": "BrewinAndChewin-1.20.1-3.2.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "brewinandchewin"
+      ]
+    },
+    {
+      "file": "caelus-forge-3.2.0+1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "caelus"
+      ]
+    },
+    {
+      "file": "cataclysm_spellbooks-1.2.9-1.20.1-all.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "cataclysm_spellbooks"
+      ]
+    },
+    {
+      "file": "cataclysmfortresses-1.20.1-Forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "cataclysmfortresses"
+      ]
+    },
+    {
+      "file": "cataclysmiccombat-1.3.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "cataclysmiccombat"
+      ]
+    },
+    {
+      "file": "Chunky-1.3.146.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "chunky"
+      ]
+    },
+    {
+      "file": "clanging-howl-[Forge]_1.20.1_1.1.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "clanginghowl"
+      ]
+    },
+    {
+      "file": "clanginghowladdon-1.2.3f.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "clanginghowladdon"
+      ]
+    },
+    {
+      "file": "clockwork-forge-1.20.1-1.1.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "clockwork"
+      ]
+    },
+    {
+      "file": "cloth-config-11.1.136-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "cloth_config"
+      ]
+    },
+    {
+      "file": "Clumps-forge-1.20.1-12.0.0.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "clumps"
+      ]
+    },
+    {
+      "file": "collective-1.20.1-8.22.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "collective"
+      ]
+    },
+    {
+      "file": "combatroll-forge-1.3.3+1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "combatroll"
+      ]
+    },
+    {
+      "file": "configurableextramobdrops-1.20.1-3.5.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "configurableextramobdrops"
+      ]
+    },
+    {
+      "file": "copperagebackport-forge-1.20.1-0.1.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "copperagebackport"
+      ]
+    },
+    {
+      "file": "copycats-3.0.2+mc.1.20.1-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "copycats"
+      ]
+    },
+    {
+      "file": "coroutil-forge-1.20.1-1.3.7.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "coroutil"
+      ]
+    },
+    {
+      "file": "cosmeticarmorreworked-1.20.1-v1a.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "cosmeticarmorreworked"
+      ]
+    },
+    {
+      "file": "create-1.20.1-6.0.6.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "create"
+      ]
+    },
+    {
+      "file": "create-structures-0.1.1-1.20.1-FORGE.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "create_structures"
+      ]
+    },
+    {
+      "file": "create-stuff-additions1.20.1_v2.1.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "create_sa"
+      ]
+    },
+    {
+      "file": "create_connected-1.1.7-mc1.20.1-all.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "create_connected"
+      ]
+    },
+    {
+      "file": "create_power_loader-2.0.3-mc1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "create_power_loader"
+      ]
+    },
+    {
+      "file": "CreateUnbreakableTools-1.8+forge-1.20.1-build.11.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "create_unbreakable"
+      ]
+    },
+    {
+      "file": "CreativeCore_FORGE_v2.12.26_mc1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "creativecore"
+      ]
+    },
+    {
+      "file": "creeperoverhaul-3.0.2-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "creeperoverhaul"
+      ]
+    },
+    {
+      "file": "cristellib-1.1.6-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "cristellib"
+      ]
+    },
+    {
+      "file": "cupboard-1.20.1-3.7.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "cupboard"
+      ]
+    },
+    {
+      "file": "curios-forge-5.14.1+1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "curios"
+      ]
+    },
+    {
+      "file": "curiouslanterns-1.20.1-1.3.7.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "curiouslanterns"
+      ]
+    },
+    {
+      "file": "diet-forge-2.1.1+1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "diet"
+      ]
+    },
+    {
+      "file": "Difficult Spawners 1.1.0 - 1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "difficult_spawners"
+      ]
+    },
+    {
+      "file": "dragonfight-1.20.1-4.7.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "dragonfight"
+      ]
+    },
+    {
+      "file": "dummmmmmy-1.20-2.0.12-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "dummmmmmy"
+      ]
+    },
+    {
+      "file": "Dungeon Now Loading-forge-1.20.1-2.2.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "dungeonnowloading"
+      ]
+    },
+    {
+      "file": "dungeons-and-taverns-3.0.3.f.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "mr_dungeons_andtaverns"
+      ]
+    },
+    {
+      "file": "EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "easyanvils"
+      ]
+    },
+    {
+      "file": "EasyMagic-v8.0.1-1.20.1-Forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "easymagic"
+      ]
+    },
+    {
+      "file": "elretrievetoslot-1.2.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "elretrievetoslot"
+      ]
+    },
+    {
+      "file": "ElysiumAPI-1.20.1-1.1.3.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "elysium_api"
+      ]
+    },
+    {
+      "file": "emf_compat_better_combat_1.20.1_1.0.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "emf_compat_better_combat"
+      ]
+    },
+    {
+      "file": "emf_compat_core_1.20.1_1.0.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "emf_compat_core"
+      ]
+    },
+    {
+      "file": "emf_compat_not_enough_animations_1.20.1_1.1.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "emf_compat_not_enough_animations"
+      ]
+    },
+    {
+      "file": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "enchdesc"
+      ]
+    },
+    {
+      "file": "endermanoverhaul-forge-1.20.1-1.0.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "endermanoverhaul"
+      ]
+    },
+    {
+      "file": "enigmaticaddons-1.2.6.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "enigmaticaddons"
+      ]
+    },
+    {
+      "file": "enigmaticdelicacy-1.0.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "enigmaticdelicacy"
+      ]
+    },
+    {
+      "file": "EnigmaticLegacy-2.30.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "enigmaticlegacy"
+      ]
+    },
+    {
+      "file": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "fabric_api"
+      ]
+    },
+    {
+      "file": "FallingTree-1.20.1-4.3.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "fallingtree"
+      ]
+    },
+    {
+      "file": "FancyHotbar-Fabric-1.0.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "fancy_hotbar"
+      ]
+    },
+    {
+      "file": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "fancymenu"
+      ]
+    },
+    {
+      "file": "FarmersDelight-1.20.1-1.2.9.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "farmersdelight"
+      ]
+    },
+    {
+      "file": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "fastload"
+      ]
+    },
+    {
+      "file": "Feature-Recycler-forge-1.0.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "featurerecycler"
+      ]
+    },
+    {
+      "file": "ferritecore-6.0.1-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "ferritecore"
+      ]
+    },
+    {
+      "file": "feur_extension_fossil-1.20.1-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "feur_extension_fossil"
+      ]
+    },
+    {
+      "file": "feur_extension_jungle-1.20.1-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "feur_extension_jungle"
+      ]
+    },
+    {
+      "file": "fieldguide-forge-1.20.1-1.8.3.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "fieldguide"
+      ]
+    },
+    {
+      "file": "forge-dungeonsdelight-1.20.1-1.2.10.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "dungeonsdelight"
+      ]
+    },
+    {
+      "file": "forge-medievalend-1.0.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "medievalend"
+      ]
+    },
+    {
+      "file": "forge-runiclib-1.20.1-4.3.7.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "runiclib"
+      ]
+    },
+    {
+      "file": "formations-1.0.2-forge-mc1.20.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "formations"
+      ]
+    },
+    {
+      "file": "ftb-library-forge-2001.2.9.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "ftblibrary"
+      ]
+    },
+    {
+      "file": "ftb-quests-forge-2001.4.18.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "ftbquests"
+      ]
+    },
+    {
+      "file": "ftb-teams-forge-2001.3.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "ftbteams"
+      ]
+    },
+    {
+      "file": "ftb-xmod-compat-forge-2.1.2.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "ftbxmodcompat"
+      ]
+    },
+    {
+      "file": "geckolib-forge-1.20.1-4.8.3.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "geckolib"
+      ]
+    },
+    {
+      "file": "gnumus_settlement_[Forge]1.20.1_v1.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "gnumus"
+      ]
+    },
+    {
+      "file": "gravityapi-1.0.0-all.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "gravityapi"
+      ]
+    },
+    {
+      "file": "immersive_aircraft-1.4.1+1.20.1-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "immersive_aircraft"
+      ]
+    },
+    {
+      "file": "immortal_bosses-1.0.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "immortal_bosses"
+      ]
+    },
+    {
+      "file": "immortalbooks-1.0-SNAPSHOT.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "immortalbooks"
+      ]
+    },
+    {
+      "file": "immortaldroid-1.20.1-1.0.2.2.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "immortaldroid"
+      ]
+    },
+    {
+      "file": "immortalgingerbread-1.20.1-1.0.0.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "immortalgingerbread"
+      ]
+    },
+    {
+      "file": "immortalorigin-1.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "immortalorigin"
+      ]
+    },
+    {
+      "file": "immortalplush-1.1.3.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "immortalplush"
+      ]
+    },
+    {
+      "file": "immortalprometheus-1.0.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "immortalprometheus"
+      ]
+    },
+    {
+      "file": "immortalskills-1.0.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "immortalskills"
+      ]
+    },
+    {
+      "file": "immortalsoul-DIAMOND-1.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "immortalsoul"
+      ]
+    },
+    {
+      "file": "ImprovedPillagerOutpost-v5.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "ipo"
+      ]
+    },
+    {
+      "file": "incision-1.0.10-forge-1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "incision"
+      ]
+    },
+    {
+      "file": "interiors-0.5.6+forge-mc1.20.1-local.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "interiors"
+      ]
+    },
+    {
+      "file": "ironchest-1.20.1-14.4.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "ironchest"
+      ]
+    },
+    {
+      "file": "irons_restrictions-1.20.1-1.3.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "irons_restrictions"
+      ]
+    },
+    {
+      "file": "irons_spellbooks-1.20.1-3.15.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "irons_spellbooks"
+      ]
+    },
+    {
+      "file": "Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "item_obliterator"
+      ]
+    },
+    {
+      "file": "ItemProductionLib-1.20.1-1.0.2a-all.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "itemproductionlib"
+      ]
+    },
+    {
+      "file": "Jade-1.20.1-Forge-11.13.2.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "jade"
+      ]
+    },
+    {
+      "file": "Jadens-Nether-Expansion-2.3.5.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "netherexp"
+      ]
+    },
+    {
+      "file": "jei-1.20.1-forge-15.20.0.132.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "jei"
+      ]
+    },
+    {
+      "file": "jupiter-2.3.7-1.20.1-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "jupiter"
+      ]
+    },
+    {
+      "file": "jvsnether-forge-1.20.1-0.1.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "jvsnether"
+      ]
+    },
+    {
+      "file": "jvsnomad-forge-1.20.1-0.1.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "jvsnomad"
+      ]
+    },
+    {
+      "file": "knightlib-forge-1.20.1-1.5.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "knightlib"
+      ]
+    },
+    {
+      "file": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "konkrete"
+      ]
+    },
+    {
+      "file": "kubejs-forge-2001.6.5-build.16.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "kubejs"
+      ]
+    },
+    {
+      "file": "L_Enders_Cataclysm-3.16.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "cataclysm"
+      ]
+    },
+    {
+      "file": "legendarycreatures-1.20.1-1.1.2.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "legendarycreatures"
+      ]
+    },
+    {
+      "file": "legendaryitems-1.20.1-1.0.0.3-debug.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "legendaryitems"
+      ]
+    },
+    {
+      "file": "legendarymonsters-2.1.20 MC 1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "legendary_monsters"
+      ]
+    },
+    {
+      "file": "Library_of_Exile-1.20.1-2.1.5.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "library_of_exile"
+      ]
+    },
+    {
+      "file": "libraryferret-forge-1.20.1-4.0.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "libraryferret"
+      ]
+    },
+    {
+      "file": "limitedbackpacks-1.0.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "limitedbackpacks"
+      ]
+    },
+    {
+      "file": "lionfishapi-2.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "lionfishapi"
+      ]
+    },
+    {
+      "file": "lithostitched-forge-1.20.1-1.4.11.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "lithostitched"
+      ]
+    },
+    {
+      "file": "lukis-strongholds-v1.0  1.20-1.20.3.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "mr_lukis_strongholds"
+      ]
+    },
+    {
+      "file": "lukis-woodland-mansions-v.1.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "mr_lukis_woodlandmansions"
+      ]
+    },
+    {
+      "file": "mace_port-3.0.4-1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "mace_port"
+      ]
+    },
+    {
+      "file": "man_of_many_planes-0.2.0+1.20.1-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "man_of_many_planes"
+      ]
+    },
+    {
+      "file": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "melody"
+      ]
+    },
+    {
+      "file": "memoryleakfix-forge-1.17+-1.1.5.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "memoryleakfix"
+      ]
+    },
+    {
+      "file": "midnightlib-forge-1.4.2.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "midnightlib"
+      ]
+    },
+    {
+      "file": "mobsuseshields-0.8.5.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "mobsuseshields"
+      ]
+    },
+    {
+      "file": "modernfix-forge-5.27.58+mc1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "modernfix"
+      ]
+    },
+    {
+      "file": "moogs_structure_lib-1.0.1-1.20-1.20.4-forge.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "moogs_structures"
+      ]
+    },
+    {
+      "file": "MoogsTemplesReimagined-1.20-1.0.2.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "mtr"
+      ]
+    },
+    {
+      "file": "moonlight-1.20-2.16.34-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "moonlight"
+      ]
+    },
+    {
+      "file": "mowziesmobs-1.8.2.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "mowziesmobs"
+      ]
+    },
+    {
+      "file": "multiplayerbosses-1.1.3.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "multiplayerbosses"
+      ]
+    },
+    {
+      "file": "MyNethersDelight-1.20.1-0.1.7.5.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "mynethersdelight"
+      ]
+    },
+    {
+      "file": "mythical_items-1.0.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "mythical_items"
+      ]
+    },
+    {
+      "file": "naturalist-5.0pre3+forge-1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "naturalist"
+      ]
+    },
+    {
+      "file": "Necronomicon-Forge-1.6.0+1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "necronomicon"
+      ]
+    },
+    {
+      "file": "neurolib-0.3.3-all.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "neurolib"
+      ]
+    },
+    {
+      "file": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "noisium"
+      ]
+    },
+    {
+      "file": "Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "nerb"
+      ]
+    },
+    {
+      "file": "Nullscape_1.20.x_v1.2.8.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "nullscape"
+      ]
+    },
+    {
+      "file": "Nyctophobia_1.6_(FORGE)_for_1.20+.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "nyctophobia"
+      ]
+    },
+    {
+      "file": "nyfsspiders-Forge-1.20.1-3.0.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "nyfsspiders"
+      ]
+    },
+    {
+      "file": "obscure_api-18.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "obscure_api"
+      ]
+    },
+    {
+      "file": "OctoLib-FORGE-0.4.2+1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "octolib"
+      ]
+    },
+    {
+      "file": "OELib-forge-1.20.1-0.0.6.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "oelib"
+      ]
+    },
+    {
+      "file": "OneEnoughItem-1.0.6-jech.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "oneenoughitem"
+      ]
+    },
+    {
+      "file": "packetfixer-3.3.0-1.18-1.20.4-merged.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "packetfixer"
+      ]
+    },
+    {
+      "file": "PassiveSkillTree-1.20.1-BETA-0.7.3a-all.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "skilltree"
+      ]
+    },
+    {
+      "file": "passiveskilltreeaddon.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "passiveskilltreeaddon"
+      ]
+    },
+    {
+      "file": "Patchouli-1.20.1-85-FORGE.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "patchouli"
+      ]
+    },
+    {
+      "file": "Paxi-1.20-Forge-4.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "paxi"
+      ]
+    },
+    {
+      "file": "Pehkui-3.8.2+1.20.1-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "pehkui"
+      ]
+    },
+    {
+      "file": "PhilipsRuins1.20.1-5.7.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "philipsruins"
+      ]
+    },
+    {
+      "file": "Platform-forge-1.20.1-1.3.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "platform"
+      ]
+    },
+    {
+      "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "playeranimator"
+      ]
+    },
+    {
+      "file": "polymorph-forge-0.49.10+1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "polymorph"
+      ]
+    },
+    {
+      "file": "protection_pixel-1.1.6-forge-1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "protection_pixel"
+      ]
+    },
+    {
+      "file": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "puzzleslib"
+      ]
+    },
+    {
+      "file": "Quark-4.0-462.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "quark"
+      ]
+    },
+    {
+      "file": "Quest Kill Task-0.2.0+1.20.1-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "questkilltask"
+      ]
+    },
+    {
+      "file": "radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "radium"
+      ]
+    },
+    {
+      "file": "realmrpg_skeletons-1.1.0-forge-1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "realmrpg_skeletons"
+      ]
+    },
+    {
+      "file": "resourcefulconfig-forge-1.20.1-2.1.2.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "resourcefulconfig"
+      ]
+    },
+    {
+      "file": "resourcefullib-forge-1.20.1-2.1.24.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "resourcefullib"
+      ]
+    },
+    {
+      "file": "rhino-forge-2001.2.3-build.10.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "rhino"
+      ]
+    },
+    {
+      "file": "royal-variations-[Forge]_1.20.1_2.0.2.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "royalvariations"
+      ]
+    },
+    {
+      "file": "rpgdifficulty-1.3.16.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "rpgdifficulty"
+      ]
+    },
+    {
+      "file": "sawmill-1.20-1.4.10.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "sawmill"
+      ]
+    },
+    {
+      "file": "Searchables-forge-1.20.1-1.0.3.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "searchables"
+      ]
+    },
+    {
+      "file": "secondchanceforge-1.20-1.5.1.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "secondchanceforge"
+      ]
+    },
+    {
+      "file": "simpletridents-1.20.1-1.0.0.2.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "simpletridents"
+      ]
+    },
+    {
+      "file": "simplybuttons-1.0.1.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "simplybuttons"
+      ]
+    },
+    {
+      "file": "sliceanddice-forge-3.5.2.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "sliceanddice"
+      ]
+    },
+    {
+      "file": "sophisticatedbackpacks-1.20.1-3.24.58.1934.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "sophisticatedbackpacks"
+      ]
+    },
+    {
+      "file": "sophisticatedbackpackscreateintegration-1.20.1-0.1.4.24.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "sophisticatedbackpackscreateintegration"
+      ]
+    },
+    {
+      "file": "sparsestructures-forge-1.20.1-3.0.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "sparsestructures"
+      ]
+    },
+    {
+      "file": "starterkit-1.20.1-7.0.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "starterkit"
+      ]
+    },
+    {
+      "file": "Structory_1.20.x_v1.3.5.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "structory"
+      ]
+    },
+    {
+      "file": "structureessentials-1.20.1-4.9.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "structureessentials"
+      ]
+    },
+    {
+      "file": "structurify-forge-2.0.27+mc1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "structurify"
+      ]
+    },
+    {
+      "file": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "supermartijn642configlib"
+      ]
+    },
+    {
+      "file": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "terrablender"
+      ]
+    },
+    {
+      "file": "Terralith_1.20.x_v2.5.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "terralith"
+      ]
+    },
+    {
+      "file": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "t_and_t"
+      ]
+    },
+    {
+      "file": "trade-cycling-forge-1.20.1-1.0.18.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "trade_cycling"
+      ]
+    },
+    {
+      "file": "UndeadUnleashed-1.2.2-forge-1.20.1.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "undead_unleashed"
+      ]
+    },
+    {
+      "file": "VanillaBackport-forge-1.20.1-1.1.7.10.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "vanillabackport"
+      ]
+    },
+    {
+      "file": "villagernames-1.20.1-8.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "villagernames"
+      ]
+    },
+    {
+      "file": "VisualWorkbench-v8.0.0-1.20.1-Forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "visualworkbench"
+      ]
+    },
+    {
+      "file": "warriors_of_past_epoch_[Forge]_1.20.1_1.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "warriorsofpastepoch"
+      ]
+    },
+    {
+      "file": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "yet_another_config_lib_v3"
+      ]
+    },
+    {
+      "file": "YungsApi-1.20-Forge-4.0.6.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "yungsapi"
+      ]
+    },
+    {
+      "file": "YungsBetterCaves-1.20.1-Forge-2.0.5.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "bettercaves"
+      ]
+    },
+    {
+      "file": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "betterdungeons"
+      ]
+    },
+    {
+      "file": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "betterendisland"
+      ]
+    },
+    {
+      "file": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "bettermineshafts"
+      ]
+    },
+    {
+      "file": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "verdict": "SERVER_ONLY",
+      "modids": [
+        "betterfortresses"
+      ]
+    },
+    {
+      "file": "Zeta-1.0-31.jar",
+      "verdict": "BOTH",
+      "modids": [
+        "zeta"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "file": "AdaptiveTooltips-1.3.0-fabric-1.20.2.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "AmbientSounds_FORGE_v6.3.4_mc1.20.1.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "AsyncParticles-20.1.1.0+1.20.1.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "AttributeFix-Forge-1.20.1-21.0.5.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "BadMobs-1.20.1-19.0.4.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "betterbiomeblend-forge-1.20.1-1.4.0.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "BetterF3-7.0.2-Forge-1.20.1.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "BetterThirdPerson-Forge-1.20-1.9.0.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "betterworldloading20-1.0.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "clean_tooltips-1.0-forge-1.20.1.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "configured-forge-1.20.1-2.2.3.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "Connector-1.0.0-beta.48+1.20.1.jar",
+      "verdict": "UNKNOWN",
+      "reason": "вердикт UNKNOWN: Открыть jar руками: нет метаданных или странный формат"
+    },
+    {
+      "file": "Controlling-forge-1.20.1-12.0.2.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "CutThrough-v8.0.2-1.20.1-Forge.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "drippyloadingscreen_forge_3.1.0_MC_1.20.1.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "embeddium-0.3.31+mc1.20.1.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "enhanced_boss_bars-1.20.1-1.0.0.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "entity_model_features-3.2.4-1.20.1-forge.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "entity_texture_features_1.20.1-forge-7.1.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "entityculling-forge-1.9.5-mc1.20.1.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "experimentalsettingsdisabler-1.20.1-3.0.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "ExtraSoundsNext-forge-1.20.1-1.4.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "FpsReducer2-forge-1.20-2.5.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "Iceberg-1.20.1-forge-1.1.25.jar",
+      "verdict": "CRASH",
+      "reason": "вердикт CRASH: Убрать из серверной папки mods/"
+    },
+    {
+      "file": "ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "immersiveoverlays-1.7.0+1.20.1-forge.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "Ixeris-4.4.2+1.20.1-forge.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "jeed-1.20-2.2.5.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "kotlinforforge-4.11.0-all.jar",
+      "verdict": "UNKNOWN",
+      "reason": "вердикт UNKNOWN: Открыть jar руками: нет метаданных или странный формат"
+    },
+    {
+      "file": "MaxHealthFix-Forge-1.20.1-12.0.2.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "minecraft-cursor-forge-3.11.2+1.20.1.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "modelfix-1.15.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "NekosEnchantedBooks-1.19.3-2.0.3.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "notenoughanimations-forge-1.12.4-mc1.20.1.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "oculus-mc1.20.1-1.8.0.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "OverflowingBars-v8.0.1-1.20.1-Forge.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "panorama_screens-1.0+forge+mc1.20.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "particlerain-4.0.0-beta.10+1.20.1-forge.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "polytone-1.20-3.5.26.jar",
+      "verdict": "CRASH",
+      "reason": "вердикт CRASH: Убрать из серверной папки mods/"
+    },
+    {
+      "file": "ponderjs-1.20.1-2.1.0.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "radiantgear-forge-2.2.0+1.20.1.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "ReBroken Blade-1.1.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "verdict": "RISK",
+      "reason": "вердикт RISK: Проверить вручную или протестировать запуск сервера"
+    },
+    {
+      "file": "sophisticatedcore-1.20.1-1.3.58.2078.jar",
+      "verdict": "CRASH",
+      "reason": "вердикт CRASH: Убрать из серверной папки mods/"
+    },
+    {
+      "file": "Tips-Forge-1.20.1-12.0.5.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "tooltipoverhaul-forge-1.20.1-1.5.2.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "xaerominimap-forge-1.20.1-26.1.0.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    },
+    {
+      "file": "xaeroworldmap-forge-1.20.1-1.41.2.jar",
+      "verdict": "CLIENT_SAFE",
+      "reason": "вердикт CLIENT_SAFE: Можно удалить из серверной папки, на запуск не влияет"
+    }
+  ]
+}

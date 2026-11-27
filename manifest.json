@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:18:14.3631854Z",
+  "generated_at": "2026-11-27T17:37:46.6271541Z",
   "files": [
     {
       "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
@@ -192,11 +192,6 @@
       "size": 201963
     },
     {
-      "path": "mods/VanillaBackport-forge-1.20.1-1.1.7.10.jar",
-      "sha256": "157f95106c7f00f92b05c72f25e2d87e2ffbef04137e9ea609fc03838bb39e2d",
-      "size": 56051142
-    },
-    {
       "path": "mods/immortalgingerbread-1.20.1-1.0.0.1.jar",
       "sha256": "78ebb388776f2dd2455e246065b4e7ed8499a917b2f955f41b17b9c49e4e1b1f",
       "size": 965878
@@ -317,6 +312,11 @@
       "size": 613348
     },
     {
+      "path": "mods/worldedit-mod-7.2.15.jar",
+      "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+      "size": 5825402
+    },
+    {
       "path": "mods/emf_compat_better_combat_1.20.1_1.0.0.jar",
       "sha256": "1092a62eafce8eca54d1daca58c0698c192acedd9bfa3cb162c3ebc8564ea27d",
       "size": 169124
@@ -422,9 +422,19 @@
       "size": 121055
     },
     {
+      "path": "mods/ponderjs-1.20.1-2.1.0.jar",
+      "sha256": "a3d42dcd63133b7542599b5e12ecb67e0719ea19dc28a1f3e3365a1ad7df5978",
+      "size": 2285835
+    },
+    {
       "path": "mods/OneEnoughItem-1.0.6-jech.jar",
       "sha256": "e09c26fb609b736054d7f5ed9d0730a62c8805c4d99ddd23cb17dc9a60013da3",
       "size": 262668
+    },
+    {
+      "path": "mods/ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar",
+      "sha256": "5531ec454792f98993fa29d55f8810444ba3e9ef8f04331c5811b84ec8d0c3dc",
+      "size": 78625
     },
     {
       "path": "mods/clanging-howl-[Forge]_1.20.1_1.1.0.jar",
@@ -507,6 +517,11 @@
       "size": 1128392
     },
     {
+      "path": "mods/SimpleLogin-Universal-Forge-1.17.0.jar",
+      "sha256": "2b1568d71170b855d5332cb8a0960e109f3cc66022547360b3c2b92f5137a889",
+      "size": 16060085
+    },
+    {
       "path": "mods/ftb-teams-forge-2001.3.1.jar",
       "sha256": "d6e3cf8d0bdae7f848764428c613ae2528aecf9d275b4169eb8e15da87b41863",
       "size": 248592
@@ -530,6 +545,11 @@
       "path": "mods/PassiveSkillTree-1.20.1-BETA-0.7.3a-all.jar",
       "sha256": "a6e9496244334117d23f468c7bbdaa4601e27652e17a7ebc726fff039ed8c6e6",
       "size": 1975054
+    },
+    {
+      "path": "mods/emf_compat_core_forge_1.20.1_2.4.0.jar",
+      "sha256": "350bad85337a64335fd1f1180a24ddbf8e94627d2be96acd881216221b46fef0",
+      "size": 184060
     },
     {
       "path": "mods/biomereplacer-3.1-hippo-forge.jar",
@@ -622,6 +642,16 @@
       "size": 181437
     },
     {
+      "path": "mods/sliceanddice-forge-3.4.0.jar",
+      "sha256": "b39b53187d482aad2f92cac1884e8ab95d1842f83da551dc39870352ce21ddbf",
+      "size": 1032971
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.22.jar",
+      "sha256": "727d31c11905be6af05686c619dd62a1ed4e451c47670cf5e9804c1ac8871386",
+      "size": 4923439
+    },
+    {
       "path": "mods/simplybuttons-1.0.1.0.jar",
       "sha256": "6a7ded59696c75204ae40ba2d96e6bf4dfbcafe63ca771883f25b02099bdb1b1",
       "size": 49402
@@ -672,6 +702,11 @@
       "size": 311290
     },
     {
+      "path": "mods/Bookshelf-Forge-1.20.1-20.2.15.jar",
+      "sha256": "7980d4a0beed1dcd2c283cf65f3c93f6b0085833f3ac490014979c95f1dfaf67",
+      "size": 343925
+    },
+    {
       "path": "mods/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
       "sha256": "a0de109d3405fbf4290e10df4f812eadd5125debb16ea7e9d908acbbabcb516b",
       "size": 22930
@@ -680,6 +715,11 @@
       "path": "mods/sawmill-1.20-1.4.10.jar",
       "sha256": "ca4bc6242f34d717e1e089480349547338db4ce7a9a4d039781ca8dbc63cc206",
       "size": 644298
+    },
+    {
+      "path": "mods/createbigcannons-5.10.1+mc.1.20.1-forge.jar",
+      "sha256": "b44fd9e280beaf28da6ed88c5b6c5fca40c07b292db9070db5de77fc0a3852b5",
+      "size": 3983620
     },
     {
       "path": "mods/moonlight-1.20-2.16.34-forge.jar",
@@ -757,11 +797,6 @@
       "size": 1105514
     },
     {
-      "path": "mods/emf_compat_core_1.20.1_1.0.0.jar",
-      "sha256": "cd55d3cbdf5c2851ec9016be24069375764fea44dec5a28eb11940c5668a64cd",
-      "size": 118984
-    },
-    {
       "path": "mods/L_Enders_Cataclysm-3.16.jar",
       "sha256": "ac1028f4bfaa2629d80ce3c1f26e28ceec2e6f2aaaac3bb03dd8957856d2e7ca",
       "size": 127993805,
@@ -789,6 +824,11 @@
       "path": "mods/Necronomicon-Forge-1.6.0+1.20.1.jar",
       "sha256": "403b23457288c624a55feb90d5e813c88c23a611bc42cda397c4bfac94b4c3a3",
       "size": 33251
+    },
+    {
+      "path": "mods/skinrestorer-2.11.1+1.20-forge.jar",
+      "sha256": "4388fdf3c2f2597cea3cde483164f389ce9701a4f27aac760f0e4e5a663038fc",
+      "size": 287857
     },
     {
       "path": "mods/Zeta-1.0-31.jar",
@@ -836,14 +876,39 @@
       "size": 92967
     },
     {
-      "path": "mods/Platform-forge-1.20.1-1.3.4.jar",
-      "sha256": "e35c013fb8cbd62900ccdf0872fc6c14b9858a711f6b2279c479f4b4f668d870",
-      "size": 512461
+      "path": "mods/mobsuseshields-1.0.0-1.20.1.jar",
+      "sha256": "cbff60b0655c2cbf6594c613f7eda301957915ed2a71577e9f291ab54a3edec4",
+      "size": 74655
     },
     {
       "path": "mods/incision-1.0.10-forge-1.20.1.jar",
       "sha256": "8694e5915cfceb85c6e7c1c02f74cfa392df0392ae7e5d972dc455435d1202a5",
       "size": 1018009
+    },
+    {
+      "path": "mods/.connector/temp/instantfeedback-4.2.0+1.20.1-VanillaBackport+1.20.1$mixinsquared-fabric-0.1.1.jar.input",
+      "sha256": "38f8a8fab9a90d1edbdf7fc262efbe6072a02a517c0d83fec14946e6650f7ca6",
+      "size": 102
+    },
+    {
+      "path": "mods/.connector/temp/instantfeedback-4.2.0+1.20.1-VanillaBackport+1.20.1$mixinextras-fabric-0.4.1.jar",
+      "sha256": "bb7042dd915cad67dc7c2ad0a4c0eabe6e097123785d7877beded6e0700f92ef",
+      "size": 202066
+    },
+    {
+      "path": "mods/.connector/temp/instantfeedback-4.2.0+1.20.1-VanillaBackport+1.20.1$mixinextras-fabric-0.4.1.jar.input",
+      "sha256": "b43f952bf6c217e7c5be425cf952508a9598c2c287b37278e54c5ae58bfb0b4d",
+      "size": 102
+    },
+    {
+      "path": "mods/.connector/temp/instantfeedback-4.2.0+1.20.1-VanillaBackport+1.20.1$mixinsquared-fabric-0.1.1.jar",
+      "sha256": "e37018cf661e8daef4a70b662142254855f4d0436bbed925db16c4b39cd60fe5",
+      "size": 18447
+    },
+    {
+      "path": "mods/.connector/instantfeedback-4.2.0+1.20.1-VanillaBackport+1.20.1_mapped_srg_1.20.1.jar.input",
+      "sha256": "8caa199d66e512de09eb2897421b51d8eeed9b75cade566dff3c8c1096893e6a",
+      "size": 102
     },
     {
       "path": "mods/.connector/FancyHotbar-Fabric-1.0.0_mapped_srg_1.20.1.jar.input",
@@ -859,6 +924,11 @@
       "path": "mods/.connector/FancyHotbar-Fabric-1.0.0_mapped_srg_1.20.1.jar",
       "sha256": "75d9e8b3fe671871f58dc56bf1d73e587dae08f334356713e873ea8910b7b0c3",
       "size": 11898
+    },
+    {
+      "path": "mods/.connector/instantfeedback-4.2.0+1.20.1-VanillaBackport+1.20.1_mapped_srg_1.20.1.jar",
+      "sha256": "34ae1e4bef92c70101a1e00c9b26bc61407ef19b0ab8088bae1a19b8bea725f8",
+      "size": 589670
     },
     {
       "path": "mods/.connector/rpgdifficulty-1.3.16_mapped_srg_1.20.1.jar",
@@ -1026,14 +1096,14 @@
       "size": 1054339
     },
     {
+      "path": "mods/Platform-forge-1.20.1-1.4.2.jar",
+      "sha256": "90a8dbe620614f4be677e43071cfaf01bbad382ad3354088d6caaf182fca7166",
+      "size": 1197800
+    },
+    {
       "path": "mods/cupboard-1.20.1-3.7.jar",
       "sha256": "7c6069d42e3693dc4f80d06632f008fffe6f2507902dfca6c02bf035776ccaf3",
       "size": 31643
-    },
-    {
-      "path": "mods/mobsuseshields-0.8.5.jar",
-      "sha256": "d448928203e154e9c3510f2567259057b408a6eb9843f9879676c3180c45572c",
-      "size": 65308
     },
     {
       "path": "mods/immortal_bosses-1.0.0.jar",
@@ -1044,6 +1114,11 @@
       "path": "mods/clanginghowladdon-1.2.3f.jar",
       "sha256": "eaa53fdd3348a2eb1d87fe0f3c2d12c73bae121a3f72a69613c18f843487a5a1",
       "size": 347483
+    },
+    {
+      "path": "mods/aquaguard-1.0.jar",
+      "sha256": "1141190b38d22344c572fedce0eca3aa2141ffae844cadaa923622e25f90a7df",
+      "size": 53828
     },
     {
       "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
