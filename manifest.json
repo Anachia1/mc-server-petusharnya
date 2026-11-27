@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:28:26.3569483Z",
+  "generated_at": "2026-11-27T19:31:23.1654201Z",
   "files": [
     {
       "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
@@ -85,6 +85,11 @@
       "path": "mods/BetterTridents-v8.0.1-1.20.1-Forge.jar",
       "sha256": "68d25f31e6061a131caf282b5f7f3d63cb68dbed34c94f71141523a1f207d5cc",
       "size": 89292
+    },
+    {
+      "path": "mods/entity_texture_features-7.2.7-1.20.1-forge.jar",
+      "sha256": "9a1a335b50026c1a2770254cd5f89f2f5c85f35a0a8ffeb1de9663c8b356c588",
+      "size": 1004366
     },
     {
       "path": "mods/neurolib-0.3.3-all.jar",
@@ -310,6 +315,11 @@
       "path": "mods/FarmersDelight-1.20.1-1.2.9.jar",
       "sha256": "45e8e4daf04283fc5a7fec955e6a1e622ee0e9d4e1b5e79dbcf5b095bb510082",
       "size": 2978080
+    },
+    {
+      "path": "mods/entity_model_features-3.3.12-1.20.1-forge.jar",
+      "sha256": "d7caedcb7c848d605a9f075c71e0d13ad5194326e55a6f45a50a97a3d8d87920",
+      "size": 840669
     },
     {
       "path": "mods/immortalskills-1.0.0.jar",
@@ -590,6 +600,11 @@
       "path": "mods/ftb-quests-forge-2001.4.18.jar",
       "sha256": "62f0229c45d5bafd9747d129f159818e513df411840744b1beb15e0c68f3b0ca",
       "size": 1251902
+    },
+    {
+      "path": "mods/notenoughanimations-forge-1.12.7-mc1.20.1.jar",
+      "sha256": "e32732b87c6e0cf5031959c5746d1d3e8125dd39a9ba98627a2d2599d4085fb0",
+      "size": 1872910
     },
     {
       "path": "mods/CreateUnbreakableTools-1.8+forge-1.20.1-build.11.jar",
